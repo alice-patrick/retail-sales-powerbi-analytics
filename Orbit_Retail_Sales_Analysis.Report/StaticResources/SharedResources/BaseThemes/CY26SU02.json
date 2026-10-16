@@ -1,0 +1,15 @@
+{
+  "name": "ORBIT Calm Analytics",
+  "dataColors": [
+    "#2463EB",
+    "#14B8A6",
+    "#F5A524",
+    "#7C6FEE",
+    "#FB7185",
+    "#4C83A8"
+  ],
+  "background": "#F4F7FB",
+  "foreground": "#17304A",
+  "tableAccent": "#2463EB",
+  "visualStyles": {}
+}

@@ -1,0 +1,145 @@
+{
+  "tables": {
+    "DimDates": [
+      "Date",
+      "Year",
+      "Quarter",
+      "MonthNumber",
+      "MonthName",
+      "YearMonth",
+      "YearMonthSort",
+      "MonthStart"
+    ],
+    "DimProducts": [
+      "ProductID",
+      "SKU",
+      "ProductName",
+      "Category",
+      "Subcategory",
+      "Brand",
+      "StandardPrice",
+      "UnitCost"
+    ],
+    "DimCustomers": [
+      "CustomerID",
+      "SignupDate",
+      "CustomerType",
+      "CustomerSegment",
+      "AcquisitionSource"
+    ],
+    "DimRegions": [
+      "RegionID",
+      "Region"
+    ],
+    "DimChannels": [
+      "ChannelID",
+      "Channel"
+    ],
+    "FactSales": [
+      "LineID",
+      "OrderID",
+      "OrderDate",
+      "ProductID",
+      "CustomerID",
+      "RegionID",
+      "ChannelID",
+      "Quantity",
+      "ReturnedQuantity",
+      "UnitPrice",
+      "UnitCost",
+      "DiscountRate",
+      "GrossSales",
+      "DiscountAmount",
+      "SalesAfterDiscount",
+      "ReturnValue",
+      "COGS",
+      "ReturnedCOGS",
+      "NetSales",
+      "NetCOGS",
+      "GrossProfit",
+      "PromotionFlag"
+    ],
+    "FactTargets": [
+      "MonthStart",
+      "RegionID",
+      "ChannelID",
+      "SalesTarget",
+      "ProfitTarget"
+    ]
+  },
+  "relationships": [
+    {
+      "fact_table": "FactSales",
+      "fact_key": "OrderDate",
+      "dimension_table": "DimDates",
+      "dimension_key": "Date",
+      "cross_filter": "single",
+      "cardinality": "many-to-one"
+    },
+    {
+      "fact_table": "FactSales",
+      "fact_key": "ProductID",
+      "dimension_table": "DimProducts",
+      "dimension_key": "ProductID",
+      "cross_filter": "single",
+      "cardinality": "many-to-one"
+    },
+    {
+      "fact_table": "FactSales",
+      "fact_key": "CustomerID",
+      "dimension_table": "DimCustomers",
+      "dimension_key": "CustomerID",
+      "cross_filter": "single",
+      "cardinality": "many-to-one"
+    },
+    {
+      "fact_table": "FactSales",
+      "fact_key": "RegionID",
+      "dimension_table": "DimRegions",
+      "dimension_key": "RegionID",
+      "cross_filter": "single",
+      "cardinality": "many-to-one"
+    },
+    {
+      "fact_table": "FactSales",
+      "fact_key": "ChannelID",
+      "dimension_table": "DimChannels",
+      "dimension_key": "ChannelID",
+      "cross_filter": "single",
+      "cardinality": "many-to-one"
+    },
+    {
+      "fact_table": "FactTargets",
+      "fact_key": "MonthStart",
+      "dimension_table": "DimDates",
+      "dimension_key": "Date",
+      "cross_filter": "single",
+      "cardinality": "many-to-one"
+    },
+    {
+      "fact_table": "FactTargets",
+      "fact_key": "RegionID",
+      "dimension_table": "DimRegions",
+      "dimension_key": "RegionID",
+      "cross_filter": "single",
+      "cardinality": "many-to-one"
+    },
+    {
+      "fact_table": "FactTargets",
+      "fact_key": "ChannelID",
+      "dimension_table": "DimChannels",
+      "dimension_key": "ChannelID",
+      "cross_filter": "single",
+      "cardinality": "many-to-one"
+    }
+  ],
+  "business_definitions": {
+    "Net Revenue": "Gross sales – discounts – allocated returns",
+    "Gross Profit": "Net revenue – cost of goods sold on non-returned units",
+    "Gross Margin %": "Gross profit / net revenue",
+    "Return Rate %": "Returned units / sold units",
+    "Sales Variance %": "(net revenue – monthly target) / monthly target",
+    "Orders": "Distinct OrderID across filtered sales rows",
+    "Net Revenue Attribution": "Return value attributed to original sale month, not refund processing date"
+  }
+}

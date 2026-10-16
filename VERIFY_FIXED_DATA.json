@@ -1,0 +1,44 @@
+{
+  "DimChannels": {
+    "csv_bytes": 61,
+    "compressed_bytes": 57,
+    "rows": 3,
+    "sha256": "bdd49e5b52b8ba5a8f3bc7e508741af2eb38c0a97805d991d1919daabee9f784"
+  },
+  "DimCustomers": {
+    "csv_bytes": 160980,
+    "compressed_bytes": 20984,
+    "rows": 3600,
+    "sha256": "ab18710055c05fd5d591f97103df39ba5700adc7a8cb43a9116322c7276df049"
+  },
+  "DimDates": {
+    "csv_bytes": 55491,
+    "compressed_bytes": 2768,
+    "rows": 1004,
+    "sha256": "018507fd4f11834e3ae8c7678c2cccf4120c3b41b2d660ed0f20f85c90669e77"
+  },
+  "DimProducts": {
+    "csv_bytes": 7205,
+    "compressed_bytes": 2244,
+    "rows": 96,
+    "sha256": "0eb199b915b670939e3545d759444848ce35b80730b809749cc1daf7d5089f43"
+  },
+  "DimRegions": {
+    "csv_bytes": 83,
+    "compressed_bytes": 74,
+    "rows": 4,
+    "sha256": "99a93cba3f788c420e750c14162cfcddcbc5702204ffb5b1b77e758f4e4b3271"
+  },
+  "FactSales": {
+    "csv_bytes": 5621513,
+    "compressed_bytes": 1127498,
+    "rows": 47832,
+    "sha256": "b989e497add0d8fc2e4d9f20e15dbb409a38933b68109e7f8d5710b1f8e71261"
+  },
+  "FactTargets": {
+    "csv_bytes": 13012,
+    "compressed_bytes": 4657,
+    "rows": 396,
+    "sha256": "59979723405484f92310a897f7932c97dc3fa5aa47b885b18a3a2eca5c5c779f"
+  }
+}

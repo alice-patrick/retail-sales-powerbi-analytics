@@ -1,0 +1,88 @@
+/* ORBIT Retail | Power BI DAX metric catalog — measures are already in FactSales.tmdl */
+
+Gross Sales = SUM(FactSales[GrossSales])
+-- Format: €#,0;€-#,0 | Folder: Revenue
+
+Discounts = SUM(FactSales[DiscountAmount])
+-- Format: €#,0;€-#,0 | Folder: Revenue
+
+Returns Value = SUM(FactSales[ReturnValue])
+-- Format: €#,0;€-#,0 | Folder: Returns
+
+Net Revenue = SUM(FactSales[NetSales])
+-- Format: €#,0;€-#,0 | Folder: Revenue
+
+Net COGS = SUM(FactSales[NetCOGS])
+-- Format: €#,0;€-#,0 | Folder: Profitability
+
+Gross Profit = SUM(FactSales[GrossProfit])
+-- Format: €#,0;€-#,0 | Folder: Profitability
+
+Gross Margin % = DIVIDE([Gross Profit], [Net Revenue])
+-- Format: 0.0% | Folder: Profitability
+
+Orders = DISTINCTCOUNT(FactSales[OrderID])
+-- Format: #,0 | Folder: Customers
+
+Units Sold = SUM(FactSales[Quantity])
+-- Format: #,0 | Folder: Revenue
+
+Returned Units = SUM(FactSales[ReturnedQuantity])
+-- Format: #,0 | Folder: Returns
+
+Average Order Value = DIVIDE([Net Revenue], [Orders])
+-- Format: €#,0.00 | Folder: Customers
+
+Customers = DISTINCTCOUNT(FactSales[CustomerID])
+-- Format: #,0 | Folder: Customers
+
+Revenue per Customer = DIVIDE([Net Revenue], [Customers])
+-- Format: €#,0.00 | Folder: Customers
+
+Return Rate % = DIVIDE([Returned Units], [Units Sold])
+-- Format: 0.0% | Folder: Returns
+
+Return Value % = DIVIDE([Returns Value], [Gross Sales]-[Discounts])
+-- Format: 0.0% | Folder: Returns
+
+Discount Rate % = DIVIDE([Discounts], [Gross Sales])
+-- Format: 0.0% | Folder: Revenue
+
+Sales Target = SUM(FactTargets[SalesTarget])
+-- Format: €#,0;€-#,0 | Folder: Targets
+
+Profit Target = SUM(FactTargets[ProfitTarget])
+-- Format: €#,0;€-#,0 | Folder: Targets
+
+Sales Variance = [Net Revenue]-[Sales Target]
+-- Format: €#,0;€-#,0 | Folder: Targets
+
+Sales Variance % = DIVIDE([Sales Variance],[Sales Target])
+-- Format: 0.0%;-0.0% | Folder: Targets
+
+Target Attainment % = DIVIDE([Net Revenue],[Sales Target])
+-- Format: 0.0% | Folder: Targets
+
+Revenue PY = CALCULATE([Net Revenue], SAMEPERIODLASTYEAR(DimDates[Date]))
+-- Format: €#,0;€-#,0 | Folder: Time Intelligence
+
+Revenue YoY % = DIVIDE([Net Revenue]-[Revenue PY],[Revenue PY])
+-- Format: 0.0%;-0.0% | Folder: Time Intelligence
+
+Revenue YTD = TOTALYTD([Net Revenue],DimDates[Date])
+-- Format: €#,0;€-#,0 | Folder: Time Intelligence
+
+Revenue YTD PY = CALCULATE([Revenue YTD],SAMEPERIODLASTYEAR(DimDates[Date]))
+-- Format: €#,0;€-#,0 | Folder: Time Intelligence
+
+Revenue YTD YoY % = DIVIDE([Revenue YTD]-[Revenue YTD PY],[Revenue YTD PY])
+-- Format: 0.0%;-0.0% | Folder: Time Intelligence
+
+2026 YTD Revenue = CALCULATE([Net Revenue], DATESBETWEEN(DimDates[Date], DATE(2026,1,1), DATE(2026,9,30)))
+-- Format: €#,0;€-#,0 | Folder: Portfolio Headlines
+
+2025 Comparable Revenue = CALCULATE([Net Revenue], DATESBETWEEN(DimDates[Date], DATE(2025,1,1), DATE(2025,9,30)))
+-- Format: €#,0;€-#,0 | Folder: Portfolio Headlines
+
+2026 YTD Growth % = DIVIDE([2026 YTD Revenue]-[2025 Comparable Revenue],[2025 Comparable Revenue])
+-- Format: 0.0%;-0.0% | Folder: Portfolio Headlines

@@ -1,0 +1,16 @@
+{
+  "result": "PASS",
+  "checks": [
+    "All sales dimension keys valid",
+    "No duplicate LineID",
+    "No duplicate target grain keys",
+    "No returned quantity exceeding ordered quantity",
+    "Net sales = gross sales - discounts - refunds within \u20ac0.01",
+    "Gross profit = net sales - net cost within \u20ac0.01",
+    "No sales outside Date dimension",
+    "Customer signup never after order date",
+    "Returned quantity and monetary identities validated"
+  ],
+  "sales_rows": 47832,
+  "target_rows": 396
+}

@@ -1,0 +1,13 @@
+ORBIT RETAIL SALES ANALYSIS — OPEN THE POWER BI PROJECT
+
+1. Extract the entire ZIP first. Do not open just one file from inside the ZIP.
+2. On Windows with a current Power BI Desktop, double-click Orbit_Retail_Sales_Analysis.pbip.
+3. Select Refresh now for incomplete tables, or Home > Refresh, then wait for the import to complete.
+   If you opened the PREVIOUS version, close it without saving and open the FIXED .pbip from its new extracted folder.
+4. The model contains self-contained, compressed CSV extracts in Power Query M partitions: no web access or local file path is required.
+5. For a standard .pbix file, use File > Save As > Power BI Desktop file (.pbix).
+6. This project was generated outside Power BI Desktop: it passed structural/static checks, but a live Desktop rendering test was not possible.
+
+Alternative: open Dashboard_Preview.html in any modern browser for a self-contained interactive dashboard preview.
+
+FIXED VERSION: Embedded CSV streams use raw DEFLATE for Power Query compatibility. No changes to the report design, DAX, or datasets.
