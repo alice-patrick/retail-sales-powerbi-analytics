@@ -1,0 +1,3601 @@
+CustomerID,SignupDate,CustomerType,CustomerSegment,AcquisitionSource
+1366,2023-01-01,Small Business,Regular,In-store
+2238,2023-01-01,Consumer,Value,Paid Search
+2409,2023-01-01,Consumer,Regular,Organic Search
+2593,2023-01-01,Consumer,Regular,In-store
+2619,2023-01-01,Consumer,Value,Paid Search
+1571,2023-01-02,Consumer,Regular,Organic Search
+927,2023-01-03,Consumer,Value,Referral
+2370,2023-01-03,Consumer,Regular,Paid Search
+886,2023-01-04,Consumer,Value,In-store
+1310,2023-01-04,Consumer,Regular,Social
+1409,2023-01-04,Small Business,Regular,Social
+3242,2023-01-05,Consumer,Value,Organic Search
+3048,2023-01-06,Consumer,Regular,Organic Search
+128,2023-01-07,Consumer,Regular,In-store
+593,2023-01-07,Consumer,Value,Organic Search
+1318,2023-01-07,Consumer,Regular,Referral
+3271,2023-01-07,Consumer,Value,In-store
+463,2023-01-08,Consumer,Regular,Organic Search
+2978,2023-01-09,Consumer,Value,Organic Search
+3260,2023-01-09,Consumer,Regular,Social
+2453,2023-01-10,Consumer,Value,Organic Search
+3193,2023-01-10,Consumer,Premium,Social
+453,2023-01-11,Consumer,Value,Social
+1645,2023-01-11,Consumer,Regular,Organic Search
+2075,2023-01-11,Consumer,Value,In-store
+1973,2023-01-12,Consumer,Regular,Social
+2141,2023-01-12,Consumer,Value,Paid Search
+1008,2023-01-13,Consumer,Value,Organic Search
+1683,2023-01-13,Consumer,Value,In-store
+3346,2023-01-13,Consumer,Value,Paid Search
+304,2023-01-14,Small Business,Value,Paid Search
+1532,2023-01-14,Consumer,Value,Social
+1549,2023-01-16,Consumer,Value,In-store
+155,2023-01-17,Consumer,Premium,Social
+3350,2023-01-17,Small Business,Value,Organic Search
+2140,2023-01-18,Consumer,Regular,Paid Search
+309,2023-01-19,Consumer,Value,Referral
+1530,2023-01-19,Consumer,Regular,Paid Search
+2916,2023-01-19,Consumer,Regular,Paid Search
+452,2023-01-20,Consumer,Regular,Organic Search
+3292,2023-01-20,Consumer,Value,In-store
+1420,2023-01-21,Consumer,Regular,Paid Search
+2968,2023-01-21,Consumer,Value,In-store
+524,2023-01-22,Consumer,Regular,Paid Search
+773,2023-01-22,Consumer,Value,Paid Search
+301,2023-01-23,Consumer,Value,In-store
+2642,2023-01-23,Consumer,Value,Organic Search
+2058,2023-01-24,Consumer,Premium,Paid Search
+2828,2023-01-24,Consumer,Value,Referral
+147,2023-01-25,Consumer,Value,In-store
+424,2023-01-26,Consumer,Value,Organic Search
+911,2023-01-26,Consumer,Regular,Organic Search
+1647,2023-01-26,Consumer,Regular,Social
+277,2023-01-28,Consumer,Regular,Organic Search
+382,2023-01-28,Consumer,Value,Paid Search
+639,2023-01-28,Consumer,Value,Organic Search
+1255,2023-01-28,Consumer,Regular,Paid Search
+1651,2023-01-28,Consumer,Value,Organic Search
+1689,2023-01-28,Consumer,Regular,Organic Search
+1954,2023-01-28,Consumer,Value,In-store
+3263,2023-01-28,Small Business,Value,Paid Search
+2095,2023-01-29,Consumer,Premium,Paid Search
+3326,2023-01-29,Consumer,Value,Referral
+536,2023-01-30,Consumer,Regular,In-store
+2482,2023-01-30,Small Business,Value,Referral
+346,2023-01-31,Small Business,Regular,Social
+941,2023-01-31,Consumer,Premium,Referral
+1393,2023-01-31,Consumer,Regular,Paid Search
+2077,2023-01-31,Consumer,Regular,Paid Search
+2586,2023-01-31,Consumer,Regular,Paid Search
+957,2023-02-01,Consumer,Regular,Paid Search
+2935,2023-02-01,Consumer,Value,Paid Search
+506,2023-02-02,Consumer,Regular,Social
+749,2023-02-02,Consumer,Value,In-store
+1535,2023-02-02,Consumer,Value,Referral
+1609,2023-02-02,Consumer,Value,Organic Search
+3375,2023-02-02,Consumer,Value,Organic Search
+3524,2023-02-02,Consumer,Premium,Social
+1752,2023-02-03,Consumer,Value,Paid Search
+2442,2023-02-03,Consumer,Premium,Paid Search
+2323,2023-02-04,Consumer,Value,Paid Search
+2853,2023-02-04,Consumer,Value,In-store
+2977,2023-02-04,Consumer,Regular,Paid Search
+787,2023-02-05,Consumer,Regular,Paid Search
+1529,2023-02-05,Consumer,Value,Referral
+1811,2023-02-05,Consumer,Value,Social
+3245,2023-02-05,Consumer,Value,Referral
+416,2023-02-06,Consumer,Regular,Paid Search
+169,2023-02-07,Consumer,Regular,Organic Search
+329,2023-02-07,Consumer,Value,In-store
+503,2023-02-07,Consumer,Value,Organic Search
+515,2023-02-07,Small Business,Regular,In-store
+3236,2023-02-07,Consumer,Value,Paid Search
+3277,2023-02-07,Consumer,Value,Paid Search
+90,2023-02-08,Small Business,Regular,Paid Search
+742,2023-02-08,Consumer,Premium,In-store
+897,2023-02-08,Consumer,Regular,In-store
+1878,2023-02-08,Consumer,Value,Organic Search
+672,2023-02-09,Consumer,Regular,Social
+2400,2023-02-09,Consumer,Regular,In-store
+1297,2023-02-10,Consumer,Regular,Paid Search
+3162,2023-02-10,Consumer,Value,Organic Search
+2974,2023-02-11,Consumer,Premium,Organic Search
+3459,2023-02-11,Small Business,Regular,Organic Search
+741,2023-02-12,Small Business,Regular,Paid Search
+833,2023-02-13,Consumer,Regular,In-store
+974,2023-02-13,Consumer,Premium,Organic Search
+402,2023-02-14,Consumer,Value,In-store
+220,2023-02-15,Consumer,Regular,Paid Search
+915,2023-02-15,Consumer,Regular,Referral
+2019,2023-02-15,Consumer,Regular,Organic Search
+3062,2023-02-15,Consumer,Regular,Social
+384,2023-02-16,Small Business,Premium,Referral
+730,2023-02-16,Consumer,Regular,In-store
+1601,2023-02-16,Consumer,Regular,Organic Search
+3393,2023-02-16,Small Business,Regular,In-store
+747,2023-02-17,Consumer,Value,Paid Search
+2599,2023-02-18,Consumer,Value,Organic Search
+2446,2023-02-19,Small Business,Value,Social
+236,2023-02-20,Consumer,Premium,In-store
+815,2023-02-20,Consumer,Value,Paid Search
+1469,2023-02-20,Small Business,Regular,Paid Search
+2970,2023-02-20,Consumer,Regular,In-store
+3474,2023-02-20,Consumer,Value,In-store
+2738,2023-02-21,Consumer,Regular,Organic Search
+3064,2023-02-21,Consumer,Value,Organic Search
+1431,2023-02-22,Consumer,Regular,Paid Search
+1788,2023-02-22,Consumer,Value,In-store
+1796,2023-02-22,Consumer,Value,In-store
+2086,2023-02-22,Small Business,Regular,In-store
+371,2023-02-23,Consumer,Regular,Organic Search
+791,2023-02-23,Consumer,Value,Referral
+3085,2023-02-23,Consumer,Value,Social
+3164,2023-02-23,Small Business,Value,In-store
+3504,2023-02-23,Consumer,Value,Paid Search
+103,2023-02-24,Consumer,Value,Organic Search
+964,2023-02-24,Consumer,Value,Paid Search
+1058,2023-02-24,Consumer,Regular,Paid Search
+77,2023-02-25,Consumer,Premium,Social
+542,2023-02-26,Consumer,Regular,Paid Search
+2292,2023-02-26,Consumer,Regular,Organic Search
+2690,2023-02-26,Consumer,Value,Organic Search
+2724,2023-02-26,Consumer,Value,Referral
+1541,2023-02-27,Consumer,Regular,Paid Search
+2769,2023-02-27,Consumer,Value,Paid Search
+528,2023-02-28,Consumer,Value,Paid Search
+790,2023-02-28,Consumer,Value,Organic Search
+939,2023-02-28,Consumer,Regular,Organic Search
+1130,2023-02-28,Consumer,Value,Organic Search
+1354,2023-02-28,Small Business,Value,Referral
+1704,2023-02-28,Consumer,Value,Referral
+1929,2023-02-28,Small Business,Value,Organic Search
+2841,2023-02-28,Consumer,Value,In-store
+671,2023-03-01,Consumer,Premium,Organic Search
+1288,2023-03-01,Consumer,Premium,Paid Search
+1317,2023-03-01,Consumer,Premium,Organic Search
+1963,2023-03-01,Consumer,Premium,Paid Search
+2239,2023-03-01,Small Business,Regular,In-store
+2266,2023-03-01,Consumer,Value,In-store
+3216,2023-03-01,Consumer,Regular,In-store
+1199,2023-03-02,Consumer,Regular,Referral
+2802,2023-03-02,Consumer,Premium,Organic Search
+364,2023-03-03,Consumer,Regular,Referral
+501,2023-03-03,Consumer,Value,In-store
+2262,2023-03-03,Consumer,Premium,Organic Search
+3485,2023-03-03,Small Business,Regular,Referral
+1026,2023-03-04,Consumer,Regular,Organic Search
+1779,2023-03-04,Consumer,Value,Paid Search
+163,2023-03-05,Small Business,Regular,Organic Search
+241,2023-03-05,Consumer,Regular,Social
+1675,2023-03-05,Consumer,Premium,In-store
+2157,2023-03-05,Consumer,Value,Organic Search
+2573,2023-03-05,Consumer,Regular,Referral
+1195,2023-03-06,Consumer,Regular,In-store
+1670,2023-03-07,Consumer,Value,In-store
+2569,2023-03-07,Consumer,Regular,Organic Search
+1007,2023-03-08,Consumer,Premium,Paid Search
+3076,2023-03-08,Consumer,Regular,Organic Search
+1,2023-03-09,Consumer,Premium,Social
+62,2023-03-09,Consumer,Premium,In-store
+1567,2023-03-09,Consumer,Value,In-store
+1573,2023-03-09,Consumer,Premium,Organic Search
+2285,2023-03-09,Consumer,Premium,Organic Search
+3119,2023-03-09,Consumer,Regular,Paid Search
+1396,2023-03-10,Consumer,Premium,Paid Search
+1518,2023-03-10,Consumer,Premium,Social
+1960,2023-03-10,Consumer,Value,Referral
+1997,2023-03-10,Consumer,Regular,In-store
+159,2023-03-11,Consumer,Value,In-store
+1189,2023-03-12,Small Business,Regular,Social
+2749,2023-03-12,Small Business,Value,In-store
+2795,2023-03-12,Consumer,Value,Referral
+3112,2023-03-13,Consumer,Value,Paid Search
+3072,2023-03-14,Small Business,Value,In-store
+3550,2023-03-14,Consumer,Premium,In-store
+1941,2023-03-15,Consumer,Value,Referral
+2342,2023-03-15,Small Business,Premium,In-store
+1679,2023-03-16,Consumer,Premium,Organic Search
+2110,2023-03-16,Small Business,Premium,Social
+2473,2023-03-16,Consumer,Regular,Referral
+1074,2023-03-17,Consumer,Premium,In-store
+2486,2023-03-17,Consumer,Value,Paid Search
+555,2023-03-18,Consumer,Value,Referral
+817,2023-03-18,Consumer,Regular,Organic Search
+1981,2023-03-18,Consumer,Regular,Organic Search
+2130,2023-03-18,Consumer,Regular,Social
+2731,2023-03-18,Consumer,Regular,In-store
+3204,2023-03-18,Consumer,Premium,Paid Search
+3342,2023-03-18,Consumer,Regular,Referral
+1763,2023-03-20,Small Business,Regular,Social
+3414,2023-03-20,Consumer,Premium,Organic Search
+184,2023-03-21,Small Business,Premium,Social
+1167,2023-03-21,Consumer,Value,Organic Search
+1655,2023-03-21,Consumer,Value,Organic Search
+657,2023-03-22,Consumer,Value,Paid Search
+322,2023-03-23,Consumer,Value,Organic Search
+3031,2023-03-23,Consumer,Value,Referral
+292,2023-03-24,Consumer,Regular,Organic Search
+1992,2023-03-24,Consumer,Value,Referral
+1053,2023-03-25,Consumer,Regular,Referral
+1073,2023-03-25,Consumer,Value,In-store
+1957,2023-03-25,Consumer,Value,In-store
+2252,2023-03-25,Consumer,Regular,Paid Search
+909,2023-03-26,Consumer,Regular,In-store
+923,2023-03-26,Consumer,Regular,Social
+2005,2023-03-26,Consumer,Premium,In-store
+2414,2023-03-26,Consumer,Regular,Social
+29,2023-03-27,Consumer,Value,Paid Search
+2327,2023-03-27,Consumer,Value,In-store
+71,2023-03-28,Consumer,Regular,Paid Search
+2213,2023-03-28,Consumer,Value,Paid Search
+3315,2023-03-28,Small Business,Value,Referral
+569,2023-03-29,Consumer,Value,Organic Search
+1479,2023-03-29,Small Business,Regular,Organic Search
+1508,2023-03-29,Small Business,Value,Paid Search
+2179,2023-03-29,Consumer,Regular,Paid Search
+2742,2023-03-29,Consumer,Regular,Referral
+893,2023-03-30,Consumer,Value,Organic Search
+2054,2023-03-30,Consumer,Premium,Paid Search
+3552,2023-03-30,Consumer,Regular,Paid Search
+1338,2023-03-31,Consumer,Value,Social
+1932,2023-03-31,Consumer,Value,Referral
+1935,2023-03-31,Small Business,Premium,Organic Search
+2685,2023-04-01,Consumer,Value,Organic Search
+3285,2023-04-01,Small Business,Regular,In-store
+875,2023-04-02,Consumer,Regular,Organic Search
+1969,2023-04-02,Consumer,Value,Organic Search
+600,2023-04-03,Consumer,Value,In-store
+1106,2023-04-04,Consumer,Premium,In-store
+2555,2023-04-04,Consumer,Value,Social
+2741,2023-04-04,Small Business,Regular,Organic Search
+1020,2023-04-05,Consumer,Regular,Referral
+2460,2023-04-06,Consumer,Regular,Organic Search
+3173,2023-04-06,Consumer,Regular,Paid Search
+3206,2023-04-06,Consumer,Value,Organic Search
+3286,2023-04-06,Consumer,Regular,Paid Search
+2655,2023-04-07,Consumer,Value,In-store
+3595,2023-04-07,Consumer,Value,Social
+664,2023-04-08,Consumer,Value,Organic Search
+1342,2023-04-08,Consumer,Value,Organic Search
+565,2023-04-09,Consumer,Regular,Organic Search
+1015,2023-04-09,Consumer,Premium,Organic Search
+2153,2023-04-09,Consumer,Premium,Referral
+1165,2023-04-10,Consumer,Value,Referral
+2386,2023-04-12,Consumer,Value,Social
+3554,2023-04-12,Consumer,Value,In-store
+72,2023-04-13,Consumer,Value,Paid Search
+3040,2023-04-13,Small Business,Value,Social
+3101,2023-04-13,Consumer,Value,Social
+3562,2023-04-13,Small Business,Premium,Paid Search
+1619,2023-04-14,Small Business,Regular,Referral
+2431,2023-04-14,Consumer,Value,In-store
+2479,2023-04-14,Consumer,Regular,Social
+1777,2023-04-15,Consumer,Value,Paid Search
+2134,2023-04-15,Consumer,Regular,Organic Search
+1780,2023-04-16,Consumer,Regular,In-store
+1036,2023-04-17,Consumer,Regular,Paid Search
+1275,2023-04-17,Consumer,Value,In-store
+3367,2023-04-17,Small Business,Regular,Organic Search
+1512,2023-04-18,Consumer,Regular,Paid Search
+3052,2023-04-18,Consumer,Regular,Social
+2043,2023-04-19,Small Business,Regular,Paid Search
+3021,2023-04-19,Consumer,Regular,In-store
+1305,2023-04-20,Consumer,Premium,Referral
+1975,2023-04-20,Consumer,Value,Social
+3327,2023-04-20,Consumer,Value,Organic Search
+3334,2023-04-20,Small Business,Regular,Referral
+460,2023-04-21,Consumer,Value,Referral
+1613,2023-04-21,Consumer,Value,Organic Search
+2374,2023-04-22,Consumer,Premium,Paid Search
+2589,2023-04-23,Consumer,Regular,Paid Search
+2713,2023-04-23,Consumer,Regular,Referral
+2995,2023-04-23,Consumer,Regular,Paid Search
+101,2023-04-24,Small Business,Regular,Organic Search
+1012,2023-04-25,Consumer,Value,Organic Search
+2472,2023-04-25,Consumer,Premium,Referral
+2531,2023-04-25,Small Business,Regular,Referral
+846,2023-04-26,Consumer,Value,Paid Search
+1327,2023-04-26,Consumer,Regular,Paid Search
+1531,2023-04-26,Consumer,Regular,Paid Search
+1087,2023-04-27,Consumer,Premium,Organic Search
+2295,2023-04-27,Consumer,Premium,Referral
+2171,2023-04-28,Consumer,Value,Organic Search
+3003,2023-04-28,Consumer,Value,In-store
+139,2023-04-29,Consumer,Regular,Social
+1566,2023-04-30,Consumer,Value,Paid Search
+1682,2023-04-30,Small Business,Premium,Referral
+3510,2023-04-30,Consumer,Regular,Paid Search
+368,2023-05-02,Consumer,Regular,In-store
+445,2023-05-02,Consumer,Regular,Organic Search
+648,2023-05-02,Consumer,Regular,Paid Search
+1011,2023-05-02,Consumer,Value,Organic Search
+1513,2023-05-02,Consumer,Value,Organic Search
+360,2023-05-03,Consumer,Value,Organic Search
+1454,2023-05-03,Consumer,Value,In-store
+797,2023-05-04,Consumer,Regular,Social
+3499,2023-05-04,Consumer,Value,Referral
+275,2023-05-05,Consumer,Value,Paid Search
+1068,2023-05-05,Small Business,Regular,Referral
+1510,2023-05-05,Consumer,Regular,Paid Search
+2900,2023-05-05,Consumer,Regular,Paid Search
+3168,2023-05-05,Consumer,Premium,In-store
+1306,2023-05-06,Consumer,Value,Organic Search
+58,2023-05-07,Consumer,Value,Referral
+1552,2023-05-07,Consumer,Regular,Paid Search
+1750,2023-05-07,Small Business,Regular,Paid Search
+2679,2023-05-07,Consumer,Regular,Social
+1476,2023-05-08,Consumer,Regular,Paid Search
+2680,2023-05-08,Consumer,Value,Organic Search
+785,2023-05-09,Consumer,Premium,In-store
+874,2023-05-09,Consumer,Regular,Paid Search
+1010,2023-05-09,Consumer,Value,Paid Search
+1367,2023-05-09,Consumer,Value,Referral
+172,2023-05-10,Small Business,Regular,In-store
+1767,2023-05-10,Consumer,Value,Organic Search
+2891,2023-05-10,Consumer,Regular,Social
+3403,2023-05-10,Consumer,Regular,Organic Search
+3464,2023-05-10,Consumer,Regular,Paid Search
+1214,2023-05-11,Consumer,Value,Paid Search
+1339,2023-05-11,Consumer,Regular,In-store
+2538,2023-05-11,Consumer,Value,Referral
+24,2023-05-12,Small Business,Regular,In-store
+308,2023-05-13,Consumer,Value,Referral
+1215,2023-05-13,Consumer,Regular,In-store
+2047,2023-05-13,Consumer,Regular,Referral
+2820,2023-05-13,Consumer,Regular,Organic Search
+1360,2023-05-14,Consumer,Value,Paid Search
+3566,2023-05-14,Consumer,Regular,Referral
+772,2023-05-15,Consumer,Value,Organic Search
+1599,2023-05-16,Consumer,Value,Referral
+2489,2023-05-16,Consumer,Value,In-store
+1797,2023-05-17,Consumer,Value,Organic Search
+1817,2023-05-17,Consumer,Regular,Organic Search
+2186,2023-05-17,Consumer,Value,In-store
+410,2023-05-18,Consumer,Regular,Referral
+1821,2023-05-19,Consumer,Premium,Organic Search
+733,2023-05-20,Consumer,Value,Organic Search
+2884,2023-05-20,Small Business,Regular,Social
+2568,2023-05-21,Consumer,Regular,Paid Search
+716,2023-05-22,Consumer,Regular,Social
+1101,2023-05-22,Consumer,Value,In-store
+361,2023-05-23,Consumer,Value,Paid Search
+1150,2023-05-24,Consumer,Value,In-store
+2960,2023-05-24,Consumer,Value,Paid Search
+3295,2023-05-25,Consumer,Regular,Paid Search
+1292,2023-05-26,Consumer,Regular,Social
+2354,2023-05-26,Consumer,Regular,Paid Search
+1032,2023-05-27,Consumer,Value,Organic Search
+2740,2023-05-27,Consumer,Value,Paid Search
+3505,2023-05-27,Consumer,Regular,Referral
+1641,2023-05-28,Consumer,Regular,Paid Search
+2419,2023-05-28,Consumer,Regular,Organic Search
+2838,2023-05-28,Small Business,Premium,Referral
+1302,2023-05-30,Consumer,Value,In-store
+2894,2023-05-30,Consumer,Value,Paid Search
+3585,2023-05-30,Small Business,Premium,Organic Search
+51,2023-05-31,Consumer,Value,Paid Search
+151,2023-05-31,Consumer,Value,Organic Search
+2497,2023-05-31,Consumer,Regular,Organic Search
+2592,2023-05-31,Consumer,Regular,Referral
+167,2023-06-01,Consumer,Regular,Organic Search
+1389,2023-06-02,Consumer,Regular,In-store
+2064,2023-06-02,Consumer,Value,Referral
+3182,2023-06-03,Consumer,Value,Organic Search
+3366,2023-06-03,Consumer,Value,Social
+1202,2023-06-04,Consumer,Value,Paid Search
+3120,2023-06-04,Consumer,Regular,Referral
+3404,2023-06-04,Small Business,Value,Social
+111,2023-06-05,Consumer,Value,Paid Search
+204,2023-06-05,Consumer,Value,Organic Search
+1283,2023-06-05,Consumer,Regular,Organic Search
+2662,2023-06-05,Consumer,Value,Paid Search
+2920,2023-06-05,Consumer,Value,Paid Search
+668,2023-06-06,Consumer,Regular,Organic Search
+1575,2023-06-06,Consumer,Value,Social
+383,2023-06-07,Consumer,Value,Referral
+1755,2023-06-08,Consumer,Value,Referral
+2102,2023-06-08,Consumer,Regular,Organic Search
+3161,2023-06-09,Small Business,Regular,Paid Search
+3572,2023-06-09,Consumer,Premium,Paid Search
+1131,2023-06-11,Consumer,Value,Paid Search
+2228,2023-06-11,Consumer,Regular,Paid Search
+3110,2023-06-11,Consumer,Value,Referral
+1335,2023-06-12,Consumer,Regular,Referral
+1730,2023-06-13,Consumer,Premium,In-store
+1719,2023-06-14,Consumer,Value,Organic Search
+1746,2023-06-14,Consumer,Premium,Paid Search
+1765,2023-06-14,Consumer,Value,Referral
+2131,2023-06-14,Consumer,Regular,Organic Search
+2584,2023-06-14,Consumer,Value,Organic Search
+33,2023-06-15,Consumer,Regular,Organic Search
+221,2023-06-15,Small Business,Value,Social
+1097,2023-06-15,Consumer,Value,In-store
+2166,2023-06-15,Consumer,Premium,Referral
+464,2023-06-16,Small Business,Value,Paid Search
+1333,2023-06-16,Consumer,Regular,Organic Search
+1832,2023-06-16,Consumer,Value,In-store
+1330,2023-06-17,Consumer,Regular,Organic Search
+2100,2023-06-17,Consumer,Premium,Organic Search
+617,2023-06-18,Consumer,Regular,In-store
+2066,2023-06-18,Consumer,Premium,In-store
+153,2023-06-19,Consumer,Value,Social
+1148,2023-06-19,Consumer,Regular,Referral
+1325,2023-06-19,Consumer,Regular,Paid Search
+2034,2023-06-19,Consumer,Regular,Organic Search
+3109,2023-06-19,Consumer,Regular,In-store
+2117,2023-06-20,Small Business,Regular,Referral
+2435,2023-06-20,Consumer,Regular,Social
+2701,2023-06-20,Consumer,Value,Paid Search
+534,2023-06-21,Consumer,Regular,In-store
+1477,2023-06-21,Small Business,Regular,Paid Search
+2952,2023-06-21,Consumer,Regular,Organic Search
+750,2023-06-22,Consumer,Regular,Organic Search
+3134,2023-06-22,Consumer,Value,In-store
+3364,2023-06-22,Consumer,Value,Paid Search
+2471,2023-06-23,Consumer,Regular,Paid Search
+2506,2023-06-23,Consumer,Premium,In-store
+3026,2023-06-23,Consumer,Premium,Paid Search
+3183,2023-06-23,Consumer,Regular,Paid Search
+720,2023-06-24,Consumer,Value,In-store
+2469,2023-06-24,Consumer,Premium,Referral
+2913,2023-06-24,Consumer,Premium,In-store
+2521,2023-06-25,Consumer,Value,Social
+2772,2023-06-25,Consumer,Regular,Paid Search
+3297,2023-06-25,Consumer,Regular,Paid Search
+2458,2023-06-26,Consumer,Value,In-store
+2863,2023-06-27,Consumer,Value,Referral
+1635,2023-06-28,Consumer,Regular,Social
+1853,2023-06-28,Consumer,Value,In-store
+2604,2023-06-28,Consumer,Value,Organic Search
+2632,2023-06-28,Consumer,Regular,Paid Search
+3407,2023-06-28,Small Business,Regular,Paid Search
+3473,2023-06-28,Consumer,Regular,Referral
+400,2023-06-29,Consumer,Regular,Organic Search
+831,2023-06-30,Consumer,Premium,Paid Search
+1152,2023-06-30,Consumer,Regular,Organic Search
+1410,2023-06-30,Consumer,Value,Organic Search
+1961,2023-06-30,Consumer,Value,In-store
+2180,2023-06-30,Consumer,Regular,In-store
+2287,2023-06-30,Consumer,Regular,Referral
+2321,2023-06-30,Consumer,Value,Referral
+2714,2023-06-30,Consumer,Value,In-store
+765,2023-07-01,Small Business,Value,Social
+2768,2023-07-01,Consumer,Value,Referral
+3302,2023-07-01,Consumer,Regular,Social
+1239,2023-07-02,Small Business,Premium,Social
+981,2023-07-03,Consumer,Value,Organic Search
+2600,2023-07-03,Consumer,Value,Social
+1542,2023-07-04,Consumer,Premium,Social
+2590,2023-07-05,Consumer,Regular,Organic Search
+2962,2023-07-05,Consumer,Premium,Paid Search
+3213,2023-07-05,Consumer,Value,Social
+1703,2023-07-06,Consumer,Regular,Social
+2707,2023-07-07,Consumer,Regular,Organic Search
+2755,2023-07-07,Small Business,Premium,In-store
+450,2023-07-08,Consumer,Regular,In-store
+938,2023-07-08,Consumer,Regular,Referral
+1579,2023-07-09,Consumer,Value,Social
+1521,2023-07-10,Consumer,Regular,Social
+1967,2023-07-10,Consumer,Value,Paid Search
+2367,2023-07-10,Consumer,Regular,Organic Search
+655,2023-07-11,Small Business,Premium,Organic Search
+962,2023-07-11,Consumer,Regular,Social
+1069,2023-07-11,Small Business,Premium,Organic Search
+1328,2023-07-11,Consumer,Regular,Organic Search
+2212,2023-07-11,Consumer,Regular,Paid Search
+2391,2023-07-12,Consumer,Value,Organic Search
+2677,2023-07-12,Consumer,Premium,Organic Search
+2971,2023-07-12,Consumer,Regular,Paid Search
+3478,2023-07-12,Consumer,Value,Paid Search
+28,2023-07-13,Consumer,Regular,Referral
+1686,2023-07-13,Consumer,Regular,Referral
+442,2023-07-14,Small Business,Regular,Social
+2390,2023-07-14,Small Business,Premium,Paid Search
+3515,2023-07-14,Consumer,Regular,In-store
+102,2023-07-15,Consumer,Value,Organic Search
+2069,2023-07-15,Consumer,Premium,Organic Search
+3070,2023-07-15,Consumer,Value,Organic Search
+925,2023-07-16,Consumer,Value,Referral
+2006,2023-07-17,Consumer,Premium,Organic Search
+866,2023-07-18,Consumer,Premium,Social
+1761,2023-07-18,Consumer,Value,Paid Search
+1805,2023-07-19,Consumer,Value,In-store
+2022,2023-07-19,Consumer,Regular,Organic Search
+2835,2023-07-19,Consumer,Regular,Organic Search
+1834,2023-07-20,Consumer,Premium,In-store
+3463,2023-07-20,Consumer,Value,Referral
+628,2023-07-21,Consumer,Regular,Social
+821,2023-07-21,Consumer,Regular,Social
+843,2023-07-21,Consumer,Regular,In-store
+858,2023-07-21,Consumer,Value,Referral
+223,2023-07-22,Consumer,Value,Paid Search
+756,2023-07-22,Consumer,Regular,Paid Search
+1983,2023-07-22,Consumer,Value,Referral
+3513,2023-07-22,Consumer,Premium,Organic Search
+1634,2023-07-23,Consumer,Value,In-store
+2682,2023-07-23,Consumer,Value,In-store
+13,2023-07-24,Consumer,Regular,Organic Search
+1264,2023-07-25,Consumer,Premium,Paid Search
+1376,2023-07-25,Consumer,Regular,Social
+2629,2023-07-25,Consumer,Value,Paid Search
+3452,2023-07-25,Consumer,Regular,Referral
+1368,2023-07-26,Consumer,Regular,Referral
+2722,2023-07-26,Consumer,Value,Referral
+2781,2023-07-26,Consumer,Regular,Paid Search
+3437,2023-07-28,Consumer,Regular,Organic Search
+2304,2023-07-29,Consumer,Value,In-store
+2428,2023-07-29,Consumer,Value,Referral
+3267,2023-07-29,Consumer,Premium,Social
+3308,2023-07-29,Consumer,Regular,In-store
+2031,2023-07-30,Consumer,Premium,Paid Search
+3256,2023-07-31,Consumer,Value,Organic Search
+919,2023-08-02,Consumer,Value,Paid Search
+1279,2023-08-03,Consumer,Value,In-store
+2711,2023-08-03,Consumer,Regular,Paid Search
+2929,2023-08-04,Consumer,Regular,Organic Search
+2984,2023-08-04,Consumer,Value,In-store
+2115,2023-08-05,Consumer,Value,Paid Search
+2674,2023-08-05,Consumer,Regular,Social
+2819,2023-08-05,Consumer,Value,Organic Search
+3522,2023-08-05,Consumer,Regular,Paid Search
+1170,2023-08-06,Consumer,Regular,Organic Search
+1223,2023-08-06,Consumer,Value,Referral
+1841,2023-08-06,Consumer,Value,In-store
+2617,2023-08-06,Consumer,Regular,Paid Search
+178,2023-08-08,Consumer,Regular,Referral
+1800,2023-08-08,Consumer,Value,Social
+1824,2023-08-08,Consumer,Regular,Organic Search
+3294,2023-08-08,Consumer,Value,Paid Search
+651,2023-08-09,Consumer,Value,Paid Search
+1092,2023-08-09,Consumer,Premium,Organic Search
+1952,2023-08-09,Consumer,Regular,Referral
+2322,2023-08-09,Consumer,Value,Paid Search
+2931,2023-08-09,Consumer,Value,In-store
+3142,2023-08-09,Small Business,Value,Paid Search
+257,2023-08-11,Small Business,Regular,Paid Search
+1437,2023-08-11,Consumer,Regular,Referral
+1759,2023-08-11,Consumer,Regular,Social
+1774,2023-08-11,Consumer,Regular,Paid Search
+3054,2023-08-11,Consumer,Value,Organic Search
+526,2023-08-12,Consumer,Regular,Paid Search
+1637,2023-08-13,Consumer,Regular,Paid Search
+1603,2023-08-14,Consumer,Regular,In-store
+2161,2023-08-14,Consumer,Value,Referral
+2162,2023-08-14,Consumer,Regular,Organic Search
+635,2023-08-15,Consumer,Regular,Paid Search
+1815,2023-08-15,Consumer,Regular,Paid Search
+98,2023-08-16,Consumer,Regular,Organic Search
+990,2023-08-16,Consumer,Regular,Social
+1697,2023-08-16,Consumer,Value,Organic Search
+958,2023-08-18,Consumer,Regular,Organic Search
+1652,2023-08-18,Consumer,Value,Organic Search
+2923,2023-08-18,Consumer,Regular,Organic Search
+78,2023-08-19,Consumer,Value,Organic Search
+373,2023-08-19,Consumer,Regular,Referral
+529,2023-08-19,Consumer,Regular,Social
+1293,2023-08-20,Consumer,Value,Paid Search
+2281,2023-08-20,Small Business,Value,Social
+2933,2023-08-20,Consumer,Value,Referral
+3509,2023-08-20,Consumer,Value,Referral
+491,2023-08-21,Consumer,Regular,Referral
+556,2023-08-21,Consumer,Regular,Paid Search
+644,2023-08-22,Consumer,Regular,In-store
+966,2023-08-22,Consumer,Value,Organic Search
+1316,2023-08-22,Consumer,Premium,Referral
+1687,2023-08-22,Consumer,Value,In-store
+1694,2023-08-22,Consumer,Regular,Social
+2397,2023-08-22,Consumer,Value,Organic Search
+2810,2023-08-22,Consumer,Value,Paid Search
+631,2023-08-23,Consumer,Regular,Paid Search
+1680,2023-08-24,Consumer,Value,Paid Search
+3395,2023-08-24,Consumer,Value,In-store
+2671,2023-08-25,Consumer,Regular,Organic Search
+3538,2023-08-25,Consumer,Value,Organic Search
+110,2023-08-26,Consumer,Regular,Paid Search
+2421,2023-08-26,Consumer,Regular,In-store
+2487,2023-08-27,Consumer,Regular,Paid Search
+2530,2023-08-27,Consumer,Value,Paid Search
+233,2023-08-28,Consumer,Value,In-store
+312,2023-08-28,Consumer,Premium,Referral
+714,2023-08-28,Consumer,Premium,In-store
+2994,2023-08-28,Consumer,Regular,Social
+1558,2023-08-29,Consumer,Value,Paid Search
+2567,2023-08-29,Consumer,Regular,In-store
+3214,2023-08-29,Consumer,Regular,Organic Search
+1691,2023-08-30,Consumer,Regular,Paid Search
+612,2023-08-31,Consumer,Regular,Referral
+2333,2023-09-01,Consumer,Regular,In-store
+3439,2023-09-01,Consumer,Value,Referral
+3238,2023-09-03,Consumer,Regular,Organic Search
+1295,2023-09-04,Consumer,Value,In-store
+1429,2023-09-04,Consumer,Regular,In-store
+1661,2023-09-04,Small Business,Regular,In-store
+1758,2023-09-04,Consumer,Value,Organic Search
+2097,2023-09-04,Consumer,Value,In-store
+3274,2023-09-04,Consumer,Premium,Organic Search
+619,2023-09-05,Consumer,Regular,Paid Search
+947,2023-09-06,Consumer,Regular,Paid Search
+352,2023-09-07,Small Business,Value,Social
+1350,2023-09-07,Consumer,Value,Paid Search
+1926,2023-09-07,Consumer,Regular,Organic Search
+2836,2023-09-07,Consumer,Regular,Paid Search
+3266,2023-09-08,Consumer,Value,Organic Search
+2670,2023-09-09,Consumer,Value,Paid Search
+2373,2023-09-10,Consumer,Premium,Paid Search
+1830,2023-09-11,Small Business,Regular,Paid Search
+2865,2023-09-11,Consumer,Value,Social
+3502,2023-09-13,Consumer,Regular,Paid Search
+686,2023-09-14,Consumer,Value,Paid Search
+418,2023-09-15,Consumer,Regular,Social
+570,2023-09-16,Consumer,Value,In-store
+825,2023-09-16,Consumer,Value,In-store
+2502,2023-09-17,Consumer,Value,Organic Search
+2869,2023-09-17,Consumer,Premium,In-store
+1006,2023-09-18,Small Business,Premium,Organic Search
+1046,2023-09-18,Consumer,Value,Social
+1795,2023-09-18,Consumer,Premium,Organic Search
+3288,2023-09-18,Consumer,Value,Paid Search
+149,2023-09-19,Consumer,Regular,Organic Search
+489,2023-09-19,Consumer,Value,In-store
+1336,2023-09-19,Consumer,Value,Social
+1794,2023-09-19,Consumer,Value,Paid Search
+2155,2023-09-19,Consumer,Regular,Paid Search
+3057,2023-09-19,Consumer,Regular,Paid Search
+59,2023-09-20,Consumer,Value,In-store
+130,2023-09-20,Consumer,Premium,Social
+291,2023-09-20,Consumer,Regular,Social
+339,2023-09-20,Small Business,Premium,In-store
+539,2023-09-20,Consumer,Premium,Organic Search
+1527,2023-09-20,Consumer,Regular,Organic Search
+2334,2023-09-20,Small Business,Regular,Referral
+3420,2023-09-20,Consumer,Value,Paid Search
+201,2023-09-21,Consumer,Premium,In-store
+487,2023-09-21,Consumer,Regular,Referral
+3598,2023-09-21,Consumer,Value,Paid Search
+37,2023-09-22,Consumer,Regular,Social
+709,2023-09-22,Consumer,Value,In-store
+1210,2023-09-22,Consumer,Regular,In-store
+2927,2023-09-22,Consumer,Regular,Paid Search
+3470,2023-09-22,Consumer,Value,In-store
+1471,2023-09-23,Consumer,Regular,Paid Search
+2245,2023-09-23,Consumer,Regular,In-store
+2886,2023-09-23,Consumer,Value,Paid Search
+2912,2023-09-23,Consumer,Regular,Paid Search
+1690,2023-09-24,Consumer,Regular,Social
+260,2023-09-25,Consumer,Premium,Organic Search
+527,2023-09-25,Consumer,Value,Social
+1013,2023-09-25,Consumer,Regular,In-store
+693,2023-09-26,Consumer,Regular,Social
+2702,2023-09-26,Small Business,Regular,In-store
+284,2023-09-27,Consumer,Value,In-store
+982,2023-09-27,Consumer,Regular,Referral
+1038,2023-09-27,Small Business,Regular,Organic Search
+1147,2023-09-29,Consumer,Premium,Organic Search
+1470,2023-09-29,Consumer,Premium,In-store
+228,2023-09-30,Consumer,Value,Referral
+1323,2023-09-30,Consumer,Premium,Organic Search
+1668,2023-09-30,Consumer,Value,Organic Search
+1861,2023-09-30,Small Business,Premium,Organic Search
+3564,2023-09-30,Consumer,Value,Referral
+1276,2023-10-01,Consumer,Regular,In-store
+1308,2023-10-01,Consumer,Value,Social
+2437,2023-10-01,Consumer,Regular,Referral
+681,2023-10-04,Consumer,Value,Organic Search
+2987,2023-10-04,Consumer,Value,Organic Search
+88,2023-10-05,Consumer,Premium,Social
+1948,2023-10-05,Consumer,Value,Social
+3034,2023-10-05,Consumer,Value,Paid Search
+3089,2023-10-06,Consumer,Premium,Organic Search
+988,2023-10-07,Consumer,Value,In-store
+1626,2023-10-07,Consumer,Value,Organic Search
+2915,2023-10-07,Consumer,Regular,Organic Search
+2496,2023-10-08,Consumer,Value,In-store
+3483,2023-10-08,Consumer,Value,Social
+1294,2023-10-09,Consumer,Premium,Organic Search
+3108,2023-10-09,Consumer,Value,Referral
+152,2023-10-10,Consumer,Value,Paid Search
+774,2023-10-10,Consumer,Regular,Organic Search
+2705,2023-10-10,Consumer,Value,Organic Search
+694,2023-10-11,Small Business,Value,In-store
+1085,2023-10-11,Consumer,Premium,Referral
+326,2023-10-12,Consumer,Premium,Social
+2505,2023-10-12,Consumer,Value,In-store
+3039,2023-10-12,Consumer,Value,Paid Search
+3501,2023-10-12,Consumer,Premium,Referral
+3528,2023-10-13,Consumer,Value,Paid Search
+145,2023-10-14,Consumer,Regular,Paid Search
+673,2023-10-14,Consumer,Premium,Organic Search
+1505,2023-10-14,Consumer,Value,Referral
+2975,2023-10-14,Small Business,Value,Organic Search
+3228,2023-10-14,Consumer,Value,Referral
+138,2023-10-15,Consumer,Value,In-store
+276,2023-10-15,Small Business,Value,Paid Search
+548,2023-10-15,Small Business,Regular,Referral
+650,2023-10-15,Consumer,Value,In-store
+3058,2023-10-15,Consumer,Value,In-store
+3582,2023-10-15,Consumer,Premium,Paid Search
+2494,2023-10-16,Consumer,Regular,In-store
+996,2023-10-17,Consumer,Regular,In-store
+1401,2023-10-18,Consumer,Value,Organic Search
+2268,2023-10-18,Small Business,Regular,Social
+2666,2023-10-19,Consumer,Regular,Paid Search
+2956,2023-10-19,Consumer,Regular,Social
+269,2023-10-20,Small Business,Regular,Referral
+1892,2023-10-20,Small Business,Value,Organic Search
+2474,2023-10-20,Consumer,Value,In-store
+2525,2023-10-20,Consumer,Regular,Referral
+294,2023-10-21,Consumer,Premium,Paid Search
+439,2023-10-21,Small Business,Value,Social
+320,2023-10-22,Consumer,Regular,In-store
+478,2023-10-22,Consumer,Value,Paid Search
+2762,2023-10-22,Consumer,Regular,Social
+608,2023-10-23,Consumer,Value,Referral
+1088,2023-10-24,Consumer,Regular,In-store
+1852,2023-10-24,Consumer,Value,Paid Search
+2215,2023-10-24,Consumer,Value,Referral
+2478,2023-10-24,Consumer,Regular,Paid Search
+318,2023-10-25,Consumer,Regular,Paid Search
+1285,2023-10-25,Consumer,Value,Organic Search
+1391,2023-10-25,Small Business,Value,Organic Search
+3079,2023-10-25,Consumer,Regular,Organic Search
+1813,2023-10-26,Consumer,Value,Social
+3235,2023-10-26,Consumer,Premium,Social
+1157,2023-10-27,Consumer,Regular,Paid Search
+1193,2023-10-27,Consumer,Value,Paid Search
+2264,2023-10-27,Consumer,Value,Paid Search
+1249,2023-10-28,Consumer,Premium,Organic Search
+1334,2023-10-28,Consumer,Premium,Referral
+2298,2023-10-28,Consumer,Regular,Social
+3167,2023-10-28,Consumer,Regular,Paid Search
+108,2023-10-29,Consumer,Value,Organic Search
+1934,2023-10-29,Consumer,Regular,Paid Search
+2037,2023-10-29,Consumer,Regular,Paid Search
+2070,2023-10-29,Consumer,Regular,Social
+1666,2023-10-30,Consumer,Value,Organic Search
+2045,2023-10-30,Consumer,Value,Organic Search
+2049,2023-10-30,Consumer,Value,Paid Search
+264,2023-10-31,Consumer,Value,Organic Search
+540,2023-10-31,Consumer,Value,In-store
+2331,2023-10-31,Consumer,Regular,In-store
+605,2023-11-01,Consumer,Regular,Organic Search
+838,2023-11-01,Small Business,Regular,Organic Search
+393,2023-11-02,Consumer,Value,Social
+682,2023-11-02,Consumer,Regular,Referral
+1301,2023-11-02,Consumer,Value,In-store
+2317,2023-11-02,Consumer,Premium,Organic Search
+2443,2023-11-02,Consumer,Value,In-store
+1717,2023-11-03,Consumer,Regular,Referral
+2793,2023-11-03,Small Business,Regular,Organic Search
+3429,2023-11-03,Consumer,Premium,Social
+3331,2023-11-04,Consumer,Regular,Paid Search
+952,2023-11-05,Consumer,Regular,In-store
+2094,2023-11-05,Consumer,Value,Paid Search
+2993,2023-11-05,Consumer,Regular,In-store
+1253,2023-11-06,Consumer,Value,Referral
+35,2023-11-07,Consumer,Regular,In-store
+492,2023-11-07,Consumer,Value,Organic Search
+2844,2023-11-07,Consumer,Value,In-store
+2476,2023-11-08,Consumer,Regular,In-store
+2899,2023-11-08,Consumer,Premium,Referral
+3014,2023-11-08,Consumer,Regular,Referral
+2510,2023-11-09,Consumer,Value,Paid Search
+180,2023-11-10,Consumer,Value,Paid Search
+1642,2023-11-10,Consumer,Regular,Social
+1461,2023-11-11,Consumer,Value,Organic Search
+3320,2023-11-11,Consumer,Regular,Referral
+3519,2023-11-11,Consumer,Value,Social
+481,2023-11-12,Consumer,Regular,Referral
+2470,2023-11-12,Consumer,Value,Paid Search
+2571,2023-11-12,Consumer,Regular,Referral
+3036,2023-11-12,Consumer,Regular,Social
+280,2023-11-13,Consumer,Value,Paid Search
+903,2023-11-13,Small Business,Value,Referral
+1078,2023-11-13,Consumer,Premium,Organic Search
+2234,2023-11-13,Consumer,Regular,Organic Search
+2750,2023-11-13,Consumer,Value,In-store
+2193,2023-11-14,Consumer,Premium,In-store
+3527,2023-11-14,Consumer,Premium,Organic Search
+1353,2023-11-15,Consumer,Value,Social
+1383,2023-11-15,Consumer,Value,In-store
+1590,2023-11-15,Consumer,Premium,Paid Search
+2605,2023-11-15,Consumer,Value,Organic Search
+1093,2023-11-16,Consumer,Regular,In-store
+1315,2023-11-16,Consumer,Value,Organic Search
+2450,2023-11-16,Consumer,Value,Paid Search
+3325,2023-11-16,Consumer,Regular,In-store
+544,2023-11-17,Consumer,Regular,Organic Search
+845,2023-11-17,Consumer,Regular,Paid Search
+2463,2023-11-17,Consumer,Regular,Paid Search
+3574,2023-11-17,Small Business,Regular,Paid Search
+286,2023-11-18,Consumer,Value,Paid Search
+3000,2023-11-18,Consumer,Premium,Referral
+1749,2023-11-19,Small Business,Value,Organic Search
+1793,2023-11-20,Consumer,Value,Paid Search
+1855,2023-11-20,Consumer,Regular,Paid Search
+2231,2023-11-20,Consumer,Value,Organic Search
+2396,2023-11-21,Consumer,Value,Organic Search
+3023,2023-11-21,Consumer,Regular,In-store
+907,2023-11-22,Consumer,Regular,Paid Search
+2282,2023-11-23,Consumer,Value,Organic Search
+1519,2023-11-24,Consumer,Premium,Social
+2630,2023-11-24,Consumer,Value,Paid Search
+3547,2023-11-24,Consumer,Value,Referral
+792,2023-11-25,Small Business,Regular,Organic Search
+2365,2023-11-25,Consumer,Regular,Social
+1289,2023-11-26,Consumer,Value,Organic Search
+2854,2023-11-26,Consumer,Regular,Organic Search
+316,2023-11-27,Consumer,Value,Referral
+2500,2023-11-27,Consumer,Regular,Referral
+68,2023-11-28,Consumer,Value,In-store
+2790,2023-11-28,Consumer,Value,Referral
+3081,2023-11-28,Consumer,Regular,Referral
+3293,2023-11-28,Consumer,Value,Organic Search
+3438,2023-11-29,Small Business,Regular,Social
+1143,2023-11-30,Consumer,Value,In-store
+3170,2023-11-30,Consumer,Premium,Organic Search
+1120,2023-12-01,Consumer,Value,Paid Search
+2081,2023-12-01,Consumer,Regular,Paid Search
+3010,2023-12-01,Consumer,Value,In-store
+961,2023-12-02,Consumer,Value,Paid Search
+2558,2023-12-02,Consumer,Value,In-store
+2892,2023-12-02,Consumer,Regular,Social
+433,2023-12-03,Consumer,Regular,Social
+627,2023-12-03,Consumer,Premium,Organic Search
+3372,2023-12-03,Consumer,Value,Paid Search
+885,2023-12-04,Small Business,Premium,Organic Search
+1072,2023-12-04,Consumer,Regular,Organic Search
+1324,2023-12-04,Small Business,Regular,Organic Search
+365,2023-12-05,Consumer,Regular,Organic Search
+3086,2023-12-05,Consumer,Regular,In-store
+3422,2023-12-05,Consumer,Regular,Organic Search
+1715,2023-12-06,Consumer,Regular,In-store
+1734,2023-12-06,Consumer,Premium,Organic Search
+690,2023-12-07,Small Business,Regular,Paid Search
+1802,2023-12-08,Consumer,Regular,Referral
+6,2023-12-10,Consumer,Regular,Organic Search
+687,2023-12-10,Consumer,Value,Paid Search
+2700,2023-12-10,Consumer,Value,Paid Search
+580,2023-12-11,Consumer,Value,Social
+1791,2023-12-11,Consumer,Value,Social
+2607,2023-12-11,Consumer,Regular,Paid Search
+2908,2023-12-11,Small Business,Regular,Paid Search
+1455,2023-12-12,Consumer,Value,Paid Search
+1459,2023-12-12,Consumer,Regular,Organic Search
+1836,2023-12-13,Consumer,Regular,Paid Search
+2362,2023-12-13,Consumer,Regular,Referral
+607,2023-12-14,Consumer,Value,In-store
+1509,2023-12-14,Consumer,Regular,Organic Search
+3555,2023-12-14,Consumer,Regular,Organic Search
+1526,2023-12-15,Consumer,Regular,In-store
+2447,2023-12-15,Consumer,Premium,In-store
+2941,2023-12-15,Consumer,Regular,In-store
+683,2023-12-16,Consumer,Premium,Social
+2173,2023-12-16,Consumer,Value,Paid Search
+2382,2023-12-16,Consumer,Premium,In-store
+2985,2023-12-16,Consumer,Value,In-store
+406,2023-12-17,Consumer,Regular,Organic Search
+725,2023-12-17,Consumer,Regular,Paid Search
+793,2023-12-17,Consumer,Regular,Social
+855,2023-12-17,Consumer,Value,Organic Search
+1378,2023-12-18,Small Business,Premium,Social
+129,2023-12-19,Small Business,Regular,Paid Search
+287,2023-12-19,Consumer,Value,Social
+435,2023-12-19,Consumer,Value,Paid Search
+658,2023-12-19,Consumer,Regular,Paid Search
+766,2023-12-19,Consumer,Value,Social
+2870,2023-12-19,Consumer,Value,Referral
+2947,2023-12-19,Consumer,Value,Referral
+3530,2023-12-19,Small Business,Regular,Organic Search
+3548,2023-12-19,Consumer,Value,Organic Search
+2847,2023-12-21,Consumer,Premium,Social
+455,2023-12-22,Consumer,Value,In-store
+636,2023-12-22,Consumer,Regular,Referral
+1079,2023-12-22,Small Business,Regular,Referral
+2888,2023-12-22,Consumer,Regular,Social
+3037,2023-12-22,Consumer,Regular,Social
+247,2023-12-23,Consumer,Value,Social
+2129,2023-12-23,Consumer,Regular,Organic Search
+3322,2023-12-23,Consumer,Premium,Social
+1781,2023-12-24,Consumer,Regular,Social
+482,2023-12-25,Consumer,Regular,In-store
+1850,2023-12-25,Consumer,Regular,In-store
+2661,2023-12-25,Consumer,Regular,Paid Search
+2697,2023-12-25,Consumer,Value,Organic Search
+2876,2023-12-25,Consumer,Regular,Paid Search
+231,2023-12-26,Consumer,Regular,Referral
+1623,2023-12-26,Consumer,Regular,Organic Search
+3460,2023-12-26,Consumer,Value,In-store
+1341,2023-12-27,Small Business,Value,Paid Search
+3126,2023-12-27,Consumer,Value,Referral
+786,2023-12-28,Consumer,Value,Social
+1379,2023-12-28,Consumer,Value,Organic Search
+2797,2023-12-28,Consumer,Value,Social
+3284,2023-12-29,Small Business,Value,Organic Search
+559,2023-12-30,Consumer,Value,Organic Search
+1570,2023-12-30,Consumer,Regular,Organic Search
+1867,2023-12-30,Consumer,Regular,Referral
+1980,2023-12-30,Consumer,Regular,Social
+2498,2023-12-30,Consumer,Regular,Organic Search
+377,2023-12-31,Consumer,Regular,In-store
+1612,2023-12-31,Consumer,Value,In-store
+3099,2024-01-01,Consumer,Value,Organic Search
+3347,2024-01-01,Consumer,Regular,Organic Search
+769,2024-01-02,Small Business,Premium,In-store
+912,2024-01-02,Consumer,Regular,Paid Search
+1814,2024-01-02,Consumer,Regular,In-store
+1829,2024-01-02,Consumer,Regular,Organic Search
+2353,2024-01-02,Consumer,Premium,Paid Search
+440,2024-01-03,Consumer,Regular,In-store
+1918,2024-01-03,Consumer,Regular,Social
+2302,2024-01-03,Consumer,Value,Paid Search
+2550,2024-01-03,Small Business,Value,In-store
+3354,2024-01-03,Consumer,Value,Paid Search
+2837,2024-01-04,Consumer,Value,Paid Search
+3431,2024-01-04,Consumer,Regular,Organic Search
+140,2024-01-05,Consumer,Premium,Referral
+568,2024-01-05,Consumer,Regular,In-store
+585,2024-01-05,Consumer,Regular,In-store
+1525,2024-01-05,Consumer,Value,Organic Search
+3092,2024-01-05,Consumer,Value,Paid Search
+827,2024-01-06,Consumer,Regular,In-store
+1428,2024-01-06,Consumer,Premium,Referral
+2514,2024-01-06,Small Business,Value,Referral
+2862,2024-01-06,Consumer,Value,Social
+1139,2024-01-07,Consumer,Value,In-store
+1594,2024-01-07,Consumer,Value,Paid Search
+1625,2024-01-07,Consumer,Regular,Organic Search
+2668,2024-01-07,Consumer,Value,Paid Search
+2800,2024-01-07,Consumer,Value,Paid Search
+179,2024-01-08,Consumer,Value,Referral
+1865,2024-01-08,Consumer,Regular,Paid Search
+2099,2024-01-08,Consumer,Value,Social
+2501,2024-01-08,Consumer,Regular,Organic Search
+3441,2024-01-08,Consumer,Regular,Paid Search
+2799,2024-01-09,Small Business,Regular,Paid Search
+2842,2024-01-09,Consumer,Regular,Social
+606,2024-01-11,Consumer,Value,In-store
+597,2024-01-12,Consumer,Value,In-store
+997,2024-01-12,Consumer,Premium,Social
+1185,2024-01-12,Consumer,Value,Organic Search
+2038,2024-01-12,Consumer,Value,In-store
+2191,2024-01-12,Consumer,Premium,Paid Search
+2534,2024-01-12,Consumer,Premium,In-store
+2777,2024-01-12,Consumer,Value,Organic Search
+3124,2024-01-12,Consumer,Value,In-store
+3224,2024-01-12,Consumer,Value,Paid Search
+801,2024-01-13,Small Business,Premium,Paid Search
+857,2024-01-13,Consumer,Regular,Organic Search
+908,2024-01-13,Small Business,Regular,Referral
+1843,2024-01-13,Consumer,Regular,In-store
+2945,2024-01-14,Consumer,Premium,Referral
+1160,2024-01-15,Small Business,Regular,Organic Search
+2165,2024-01-15,Consumer,Value,Referral
+2767,2024-01-15,Consumer,Value,Organic Search
+483,2024-01-16,Small Business,Regular,In-store
+763,2024-01-16,Consumer,Regular,Paid Search
+1242,2024-01-16,Consumer,Value,In-store
+1375,2024-01-16,Consumer,Regular,Organic Search
+2092,2024-01-17,Consumer,Value,In-store
+381,2024-01-18,Consumer,Premium,Referral
+1049,2024-01-18,Consumer,Regular,Paid Search
+1820,2024-01-18,Consumer,Value,Paid Search
+992,2024-01-19,Consumer,Value,Paid Search
+3044,2024-01-20,Consumer,Premium,Referral
+1669,2024-01-21,Small Business,Value,Referral
+2778,2024-01-21,Consumer,Premium,In-store
+2948,2024-01-21,Consumer,Value,In-store
+1227,2024-01-22,Consumer,Premium,Paid Search
+2046,2024-01-22,Consumer,Regular,Organic Search
+3083,2024-01-22,Consumer,Regular,In-store
+3417,2024-01-22,Consumer,Premium,Organic Search
+575,2024-01-23,Consumer,Regular,In-store
+1003,2024-01-24,Consumer,Regular,Paid Search
+2276,2024-01-25,Consumer,Premium,Paid Search
+2548,2024-01-25,Consumer,Premium,Referral
+1238,2024-01-27,Consumer,Regular,Paid Search
+3137,2024-01-27,Consumer,Regular,Social
+3132,2024-01-28,Small Business,Regular,Organic Search
+614,2024-01-29,Small Business,Regular,Organic Search
+1246,2024-01-30,Consumer,Regular,Referral
+892,2024-01-31,Small Business,Premium,In-store
+2909,2024-01-31,Consumer,Value,In-store
+458,2024-02-01,Consumer,Value,In-store
+1312,2024-02-01,Consumer,Value,In-store
+2341,2024-02-01,Consumer,Regular,Social
+2430,2024-02-01,Consumer,Value,Organic Search
+1458,2024-02-02,Consumer,Regular,Organic Search
+1206,2024-02-03,Consumer,Premium,In-store
+1499,2024-02-03,Consumer,Regular,Organic Search
+1822,2024-02-03,Consumer,Regular,Referral
+2060,2024-02-03,Consumer,Regular,In-store
+2088,2024-02-03,Consumer,Premium,Paid Search
+890,2024-02-04,Consumer,Value,Organic Search
+3333,2024-02-04,Consumer,Value,In-store
+1784,2024-02-05,Small Business,Value,In-store
+987,2024-02-06,Consumer,Value,Paid Search
+993,2024-02-06,Consumer,Regular,Organic Search
+1004,2024-02-06,Consumer,Regular,Organic Search
+1557,2024-02-06,Consumer,Regular,Organic Search
+3240,2024-02-07,Small Business,Regular,Paid Search
+305,2024-02-08,Consumer,Value,Organic Search
+2087,2024-02-08,Consumer,Premium,In-store
+1051,2024-02-09,Consumer,Regular,Organic Search
+1281,2024-02-09,Consumer,Value,Paid Search
+3254,2024-02-09,Consumer,Premium,Referral
+1351,2024-02-10,Consumer,Value,Referral
+2893,2024-02-10,Small Business,Regular,Organic Search
+945,2024-02-11,Consumer,Regular,Referral
+2113,2024-02-11,Small Business,Value,Social
+2773,2024-02-11,Small Business,Regular,Organic Search
+3184,2024-02-11,Consumer,Regular,Organic Search
+519,2024-02-12,Consumer,Value,Paid Search
+661,2024-02-12,Consumer,Regular,Social
+887,2024-02-12,Consumer,Regular,In-store
+2943,2024-02-12,Consumer,Regular,Referral
+330,2024-02-13,Small Business,Regular,Organic Search
+688,2024-02-13,Consumer,Regular,Paid Search
+3189,2024-02-13,Small Business,Value,Organic Search
+3516,2024-02-13,Consumer,Regular,Paid Search
+3523,2024-02-13,Small Business,Regular,Paid Search
+486,2024-02-14,Consumer,Value,Social
+746,2024-02-14,Consumer,Regular,Organic Search
+2516,2024-02-14,Consumer,Regular,Social
+3319,2024-02-14,Consumer,Value,Organic Search
+2464,2024-02-15,Consumer,Premium,Social
+380,2024-02-16,Small Business,Regular,Paid Search
+739,2024-02-16,Consumer,Value,Organic Search
+1968,2024-02-16,Consumer,Regular,Social
+2253,2024-02-16,Consumer,Regular,In-store
+2524,2024-02-16,Consumer,Value,In-store
+3415,2024-02-16,Consumer,Value,Referral
+3008,2024-02-17,Consumer,Regular,Paid Search
+703,2024-02-18,Small Business,Value,Organic Search
+2033,2024-02-18,Consumer,Regular,Referral
+2103,2024-02-18,Consumer,Premium,Organic Search
+1112,2024-02-19,Consumer,Value,Social
+1875,2024-02-19,Consumer,Regular,In-store
+2580,2024-02-19,Consumer,Premium,In-store
+2946,2024-02-20,Consumer,Regular,Referral
+1110,2024-02-21,Consumer,Regular,Paid Search
+1684,2024-02-21,Consumer,Value,In-store
+2217,2024-02-21,Small Business,Value,In-store
+3198,2024-02-21,Small Business,Value,Organic Search
+1913,2024-02-22,Small Business,Value,Paid Search
+1944,2024-02-22,Consumer,Regular,In-store
+814,2024-02-23,Consumer,Regular,Paid Search
+944,2024-02-24,Consumer,Regular,Referral
+1808,2024-02-24,Consumer,Value,Social
+1901,2024-02-25,Consumer,Value,Organic Search
+2990,2024-02-25,Consumer,Value,Referral
+861,2024-02-26,Consumer,Regular,Social
+1132,2024-02-26,Consumer,Value,Social
+1248,2024-02-26,Small Business,Value,Referral
+3118,2024-02-26,Consumer,Value,Paid Search
+3361,2024-02-26,Small Business,Regular,Paid Search
+3428,2024-02-26,Consumer,Value,Social
+1504,2024-02-27,Consumer,Regular,Paid Search
+3038,2024-02-27,Small Business,Regular,Social
+3129,2024-02-27,Consumer,Premium,In-store
+1885,2024-02-28,Consumer,Value,Paid Search
+1970,2024-02-28,Consumer,Regular,Referral
+1490,2024-02-29,Consumer,Premium,Organic Search
+1924,2024-02-29,Consumer,Value,In-store
+905,2024-03-01,Consumer,Premium,In-store
+1207,2024-03-01,Consumer,Value,Referral
+1942,2024-03-01,Consumer,Regular,Organic Search
+2109,2024-03-01,Consumer,Value,Paid Search
+2146,2024-03-02,Consumer,Regular,Organic Search
+2527,2024-03-02,Consumer,Premium,Paid Search
+158,2024-03-04,Consumer,Regular,Referral
+457,2024-03-04,Consumer,Value,In-store
+466,2024-03-04,Consumer,Regular,Social
+715,2024-03-05,Consumer,Premium,Paid Search
+862,2024-03-05,Consumer,Premium,Paid Search
+1114,2024-03-05,Consumer,Value,Paid Search
+1783,2024-03-05,Consumer,Regular,Paid Search
+3600,2024-03-05,Consumer,Value,Referral
+298,2024-03-06,Consumer,Value,In-store
+2152,2024-03-06,Consumer,Regular,Paid Search
+2591,2024-03-06,Consumer,Regular,Paid Search
+3248,2024-03-06,Consumer,Value,Paid Search
+143,2024-03-07,Small Business,Regular,In-store
+1392,2024-03-07,Consumer,Regular,In-store
+1726,2024-03-07,Consumer,Regular,Referral
+2753,2024-03-08,Consumer,Value,Referral
+2811,2024-03-08,Consumer,Regular,Referral
+1209,2024-03-09,Small Business,Regular,Paid Search
+296,2024-03-10,Consumer,Value,Social
+1059,2024-03-10,Consumer,Value,Referral
+1340,2024-03-10,Consumer,Value,Referral
+2455,2024-03-10,Consumer,Value,Social
+3498,2024-03-10,Consumer,Regular,Social
+164,2024-03-11,Consumer,Value,Organic Search
+338,2024-03-11,Consumer,Regular,Referral
+1671,2024-03-11,Consumer,Regular,Referral
+2042,2024-03-11,Consumer,Value,Paid Search
+2492,2024-03-11,Consumer,Value,Social
+2648,2024-03-11,Consumer,Regular,In-store
+3102,2024-03-11,Consumer,Regular,Paid Search
+816,2024-03-12,Consumer,Value,In-store
+3215,2024-03-12,Small Business,Regular,In-store
+1624,2024-03-13,Consumer,Value,Organic Search
+1672,2024-03-13,Consumer,Regular,Paid Search
+2560,2024-03-13,Consumer,Value,Paid Search
+1951,2024-03-14,Consumer,Regular,In-store
+430,2024-03-15,Consumer,Value,Social
+1649,2024-03-16,Consumer,Value,Referral
+1897,2024-03-17,Consumer,Value,Social
+1857,2024-03-18,Consumer,Value,Referral
+2124,2024-03-18,Consumer,Value,Organic Search
+2144,2024-03-18,Consumer,Value,In-store
+3150,2024-03-18,Consumer,Value,Paid Search
+1766,2024-03-19,Consumer,Value,Organic Search
+2248,2024-03-19,Consumer,Regular,Organic Search
+2269,2024-03-19,Consumer,Value,Organic Search
+3387,2024-03-19,Consumer,Premium,Paid Search
+55,2024-03-20,Consumer,Value,Organic Search
+96,2024-03-20,Consumer,Value,Organic Search
+2616,2024-03-20,Small Business,Premium,Social
+3298,2024-03-20,Small Business,Regular,Paid Search
+1416,2024-03-21,Consumer,Value,Referral
+1426,2024-03-21,Consumer,Premium,In-store
+63,2024-03-22,Consumer,Premium,Paid Search
+2449,2024-03-23,Consumer,Value,Paid Search
+3041,2024-03-23,Consumer,Value,Organic Search
+1234,2024-03-24,Consumer,Premium,Paid Search
+366,2024-03-25,Consumer,Value,Social
+983,2024-03-25,Consumer,Regular,Social
+1098,2024-03-25,Small Business,Value,Organic Search
+1966,2024-03-25,Consumer,Value,In-store
+2028,2024-03-25,Small Business,Regular,Referral
+2955,2024-03-25,Consumer,Value,Referral
+625,2024-03-26,Consumer,Regular,Paid Search
+1321,2024-03-26,Consumer,Regular,Paid Search
+1473,2024-03-26,Consumer,Regular,Social
+2011,2024-03-26,Consumer,Premium,Referral
+3147,2024-03-26,Consumer,Regular,Organic Search
+2044,2024-03-27,Consumer,Regular,Organic Search
+207,2024-03-28,Consumer,Regular,Organic Search
+2164,2024-03-28,Consumer,Regular,Organic Search
+267,2024-03-29,Consumer,Premium,Referral
+872,2024-03-29,Small Business,Regular,Organic Search
+2024,2024-03-29,Consumer,Premium,Organic Search
+3061,2024-03-29,Consumer,Value,Paid Search
+248,2024-03-30,Consumer,Regular,Paid Search
+2098,2024-03-30,Consumer,Regular,In-store
+2904,2024-03-30,Consumer,Regular,Social
+3526,2024-03-30,Consumer,Value,Organic Search
+1056,2024-04-01,Consumer,Regular,Organic Search
+1825,2024-04-01,Consumer,Premium,Referral
+3255,2024-04-01,Consumer,Regular,Paid Search
+1869,2024-04-02,Consumer,Value,Paid Search
+2507,2024-04-02,Consumer,Regular,In-store
+1134,2024-04-03,Consumer,Regular,Referral
+1179,2024-04-03,Consumer,Value,Referral
+3176,2024-04-03,Consumer,Regular,Paid Search
+1472,2024-04-04,Consumer,Regular,Organic Search
+2809,2024-04-04,Consumer,Value,Paid Search
+3573,2024-04-04,Consumer,Value,Organic Search
+367,2024-04-05,Consumer,Regular,Social
+880,2024-04-06,Consumer,Premium,Referral
+2143,2024-04-06,Consumer,Value,Referral
+2658,2024-04-06,Consumer,Value,Organic Search
+1404,2024-04-07,Consumer,Regular,In-store
+1577,2024-04-07,Consumer,Value,Referral
+1943,2024-04-07,Consumer,Value,Organic Search
+611,2024-04-08,Consumer,Premium,Referral
+1873,2024-04-09,Consumer,Value,In-store
+3311,2024-04-09,Consumer,Value,Referral
+39,2024-04-10,Consumer,Value,Paid Search
+1135,2024-04-10,Consumer,Regular,In-store
+2643,2024-04-10,Consumer,Regular,Paid Search
+118,2024-04-11,Consumer,Value,Paid Search
+1151,2024-04-11,Consumer,Premium,In-store
+757,2024-04-12,Consumer,Value,Paid Search
+1402,2024-04-12,Consumer,Value,Organic Search
+2816,2024-04-12,Consumer,Regular,In-store
+12,2024-04-13,Consumer,Regular,Organic Search
+432,2024-04-13,Consumer,Regular,Organic Search
+937,2024-04-13,Small Business,Value,Organic Search
+2114,2024-04-13,Small Business,Regular,Paid Search
+2856,2024-04-14,Consumer,Value,Organic Search
+61,2024-04-15,Consumer,Value,Organic Search
+735,2024-04-15,Small Business,Premium,Social
+512,2024-04-16,Small Business,Value,Referral
+3529,2024-04-16,Small Business,Regular,In-store
+3565,2024-04-17,Consumer,Premium,Organic Search
+808,2024-04-18,Consumer,Regular,Organic Search
+1153,2024-04-18,Consumer,Premium,Organic Search
+1411,2024-04-18,Consumer,Regular,Organic Search
+2659,2024-04-18,Consumer,Regular,Organic Search
+654,2024-04-19,Consumer,Regular,Organic Search
+2754,2024-04-19,Consumer,Value,Social
+10,2024-04-20,Consumer,Value,Referral
+1168,2024-04-20,Consumer,Value,Social
+2883,2024-04-20,Consumer,Value,Paid Search
+99,2024-04-21,Small Business,Value,Paid Search
+2456,2024-04-21,Consumer,Regular,Social
+2519,2024-04-21,Consumer,Value,Paid Search
+3197,2024-04-21,Consumer,Regular,Organic Search
+353,2024-04-22,Consumer,Value,Referral
+1043,2024-04-22,Consumer,Value,Organic Search
+2925,2024-04-22,Consumer,Regular,Referral
+107,2024-04-23,Consumer,Premium,In-store
+718,2024-04-23,Consumer,Regular,Referral
+1009,2024-04-23,Consumer,Value,Referral
+1598,2024-04-23,Small Business,Regular,Referral
+699,2024-04-24,Consumer,Value,Paid Search
+779,2024-04-24,Consumer,Value,Referral
+3272,2024-04-24,Consumer,Value,In-store
+552,2024-04-25,Consumer,Value,Organic Search
+1363,2024-04-25,Small Business,Value,Organic Search
+1589,2024-04-25,Consumer,Premium,Paid Search
+2829,2024-04-25,Consumer,Regular,In-store
+1084,2024-04-26,Consumer,Value,Paid Search
+1994,2024-04-26,Consumer,Value,In-store
+2681,2024-04-26,Consumer,Regular,Organic Search
+1102,2024-04-27,Consumer,Value,Organic Search
+3011,2024-04-27,Consumer,Regular,Paid Search
+1039,2024-04-28,Consumer,Value,Organic Search
+3378,2024-04-28,Consumer,Regular,Organic Search
+1346,2024-04-29,Small Business,Regular,Social
+1584,2024-04-29,Consumer,Value,Paid Search
+1958,2024-04-29,Consumer,Regular,Referral
+91,2024-04-30,Consumer,Premium,Organic Search
+217,2024-04-30,Consumer,Value,Referral
+1284,2024-04-30,Consumer,Value,Organic Search
+2205,2024-04-30,Consumer,Value,Organic Search
+2466,2024-04-30,Small Business,Premium,Organic Search
+1827,2024-05-01,Consumer,Value,In-store
+1615,2024-05-02,Consumer,Regular,Paid Search
+2378,2024-05-02,Small Business,Regular,Social
+2491,2024-05-02,Consumer,Value,Organic Search
+3018,2024-05-02,Consumer,Premium,In-store
+587,2024-05-03,Consumer,Value,Social
+2826,2024-05-03,Small Business,Value,In-store
+3476,2024-05-03,Consumer,Value,Organic Search
+106,2024-05-04,Consumer,Value,Organic Search
+995,2024-05-04,Consumer,Regular,Social
+2499,2024-05-04,Consumer,Value,Paid Search
+123,2024-05-05,Consumer,Regular,Organic Search
+324,2024-05-05,Consumer,Value,Referral
+1299,2024-05-05,Small Business,Regular,Paid Search
+2964,2024-05-06,Consumer,Premium,Social
+1269,2024-05-08,Consumer,Regular,Referral
+1369,2024-05-08,Consumer,Value,Paid Search
+2376,2024-05-08,Consumer,Premium,Paid Search
+2493,2024-05-08,Small Business,Regular,Referral
+2736,2024-05-08,Consumer,Value,Referral
+3084,2024-05-08,Consumer,Value,In-store
+1475,2024-05-09,Consumer,Value,Social
+1608,2024-05-09,Consumer,Value,Social
+2332,2024-05-09,Consumer,Value,In-store
+3314,2024-05-09,Consumer,Value,In-store
+1999,2024-05-10,Consumer,Regular,Paid Search
+1622,2024-05-11,Small Business,Value,Organic Search
+1659,2024-05-11,Consumer,Value,In-store
+2210,2024-05-11,Consumer,Value,Organic Search
+1964,2024-05-12,Consumer,Premium,Referral
+3348,2024-05-12,Consumer,Regular,Organic Search
+254,2024-05-13,Consumer,Regular,Paid Search
+1464,2024-05-13,Consumer,Regular,Paid Search
+1550,2024-05-13,Consumer,Regular,Paid Search
+1650,2024-05-13,Small Business,Regular,Paid Search
+2150,2024-05-13,Consumer,Premium,Paid Search
+1191,2024-05-14,Consumer,Premium,Social
+3106,2024-05-14,Consumer,Regular,Referral
+253,2024-05-15,Consumer,Regular,Referral
+1663,2024-05-15,Consumer,Regular,Paid Search
+2183,2024-05-15,Consumer,Value,In-store
+2291,2024-05-15,Consumer,Value,Referral
+626,2024-05-17,Consumer,Premium,Paid Search
+1939,2024-05-17,Consumer,Regular,Social
+26,2024-05-18,Consumer,Value,Social
+948,2024-05-18,Consumer,Premium,Referral
+1725,2024-05-18,Consumer,Regular,In-store
+1617,2024-05-19,Consumer,Value,Referral
+1714,2024-05-19,Consumer,Premium,Social
+1731,2024-05-19,Consumer,Regular,Paid Search
+2013,2024-05-19,Consumer,Value,Organic Search
+3249,2024-05-19,Consumer,Regular,Social
+3318,2024-05-19,Small Business,Regular,Organic Search
+85,2024-05-20,Consumer,Regular,Organic Search
+244,2024-05-20,Small Business,Regular,Organic Search
+1501,2024-05-20,Consumer,Regular,Referral
+2732,2024-05-20,Consumer,Premium,Referral
+3310,2024-05-20,Consumer,Value,Organic Search
+87,2024-05-21,Consumer,Regular,Organic Search
+1094,2024-05-21,Small Business,Value,Social
+3542,2024-05-21,Consumer,Premium,Paid Search
+2897,2024-05-22,Consumer,Regular,Referral
+1537,2024-05-23,Small Business,Regular,Organic Search
+2056,2024-05-24,Consumer,Value,Organic Search
+3243,2024-05-24,Consumer,Regular,Organic Search
+1178,2024-05-25,Small Business,Value,Social
+1523,2024-05-25,Consumer,Premium,Organic Search
+1809,2024-05-25,Consumer,Regular,Social
+762,2024-05-26,Consumer,Regular,Referral
+2296,2024-05-26,Small Business,Value,Referral
+2425,2024-05-26,Small Business,Regular,Paid Search
+2930,2024-05-26,Consumer,Value,Referral
+135,2024-05-27,Consumer,Regular,Paid Search
+212,2024-05-27,Consumer,Premium,Referral
+1030,2024-05-28,Consumer,Regular,Social
+2254,2024-05-28,Consumer,Premium,Organic Search
+306,2024-05-29,Consumer,Regular,Referral
+2344,2024-05-29,Consumer,Value,Paid Search
+2631,2024-05-29,Consumer,Regular,Paid Search
+3136,2024-05-29,Consumer,Value,Organic Search
+3586,2024-05-29,Consumer,Regular,In-store
+44,2024-05-30,Consumer,Regular,Referral
+1197,2024-05-30,Consumer,Regular,Paid Search
+1536,2024-05-30,Consumer,Regular,Social
+2637,2024-05-30,Small Business,Value,Organic Search
+856,2024-05-31,Consumer,Regular,Organic Search
+3188,2024-05-31,Small Business,Regular,Organic Search
+3442,2024-05-31,Consumer,Value,Referral
+81,2024-06-01,Consumer,Value,Organic Search
+1907,2024-06-01,Consumer,Regular,Paid Search
+2743,2024-06-02,Consumer,Value,Organic Search
+3208,2024-06-02,Consumer,Value,Organic Search
+3514,2024-06-02,Consumer,Value,Referral
+2071,2024-06-03,Consumer,Value,In-store
+2545,2024-06-03,Consumer,Regular,Referral
+1859,2024-06-04,Small Business,Value,Paid Search
+1495,2024-06-06,Consumer,Regular,In-store
+392,2024-06-07,Small Business,Value,Organic Search
+185,2024-06-08,Small Business,Value,Organic Search
+2427,2024-06-08,Consumer,Regular,Organic Search
+917,2024-06-09,Small Business,Value,In-store
+2511,2024-06-09,Small Business,Value,Organic Search
+1146,2024-06-10,Consumer,Regular,Organic Search
+2206,2024-06-10,Small Business,Value,Referral
+20,2024-06-11,Small Business,Value,Paid Search
+437,2024-06-11,Consumer,Value,Social
+965,2024-06-11,Small Business,Value,Referral
+2307,2024-06-11,Consumer,Value,Paid Search
+2963,2024-06-11,Consumer,Regular,In-store
+131,2024-06-12,Small Business,Regular,In-store
+3411,2024-06-12,Consumer,Regular,In-store
+348,2024-06-13,Consumer,Regular,Organic Search
+2980,2024-06-13,Consumer,Regular,Paid Search
+2178,2024-06-14,Small Business,Regular,Referral
+141,2024-06-15,Consumer,Regular,In-store
+752,2024-06-15,Consumer,Regular,Paid Search
+1466,2024-06-15,Consumer,Regular,Social
+2879,2024-06-15,Consumer,Value,In-store
+256,2024-06-16,Consumer,Premium,In-store
+3059,2024-06-16,Consumer,Regular,Referral
+873,2024-06-18,Consumer,Premium,Organic Search
+1988,2024-06-18,Small Business,Regular,In-store
+2079,2024-06-18,Consumer,Regular,Referral
+2159,2024-06-18,Consumer,Regular,Referral
+2315,2024-06-18,Consumer,Value,Paid Search
+1486,2024-06-19,Consumer,Regular,Organic Search
+678,2024-06-21,Small Business,Regular,Organic Search
+935,2024-06-21,Consumer,Value,Referral
+1357,2024-06-21,Consumer,Premium,Paid Search
+1196,2024-06-22,Small Business,Regular,Organic Search
+1840,2024-06-22,Consumer,Regular,Paid Search
+521,2024-06-23,Consumer,Regular,Social
+826,2024-06-23,Consumer,Value,Paid Search
+847,2024-06-23,Consumer,Regular,Organic Search
+2111,2024-06-23,Consumer,Regular,Organic Search
+3090,2024-06-23,Consumer,Regular,Organic Search
+109,2024-06-24,Consumer,Value,Social
+1712,2024-06-24,Small Business,Premium,Paid Search
+3172,2024-06-24,Small Business,Value,Referral
+3541,2024-06-24,Consumer,Value,Organic Search
+461,2024-06-25,Consumer,Value,Social
+1876,2024-06-25,Small Business,Value,In-store
+41,2024-06-26,Consumer,Regular,Paid Search
+1144,2024-06-26,Consumer,Regular,Referral
+1432,2024-06-26,Consumer,Premium,In-store
+1188,2024-06-27,Consumer,Value,Social
+1413,2024-06-28,Consumer,Value,Paid Search
+2898,2024-06-28,Small Business,Value,Paid Search
+2937,2024-06-28,Consumer,Regular,Organic Search
+853,2024-06-30,Consumer,Value,Organic Search
+1067,2024-06-30,Consumer,Value,In-store
+2581,2024-06-30,Consumer,Regular,Referral
+2646,2024-06-30,Small Business,Premium,In-store
+3145,2024-06-30,Small Business,Premium,Social
+3280,2024-06-30,Consumer,Value,Organic Search
+1066,2024-07-01,Small Business,Value,Referral
+2788,2024-07-01,Consumer,Premium,Organic Search
+183,2024-07-02,Consumer,Regular,Referral
+2085,2024-07-02,Small Business,Value,Organic Search
+307,2024-07-03,Consumer,Regular,Referral
+449,2024-07-03,Consumer,Regular,In-store
+2051,2024-07-03,Consumer,Premium,Referral
+2513,2024-07-03,Consumer,Regular,Social
+1027,2024-07-04,Consumer,Value,Organic Search
+1141,2024-07-04,Consumer,Value,Social
+2798,2024-07-04,Consumer,Value,Paid Search
+1077,2024-07-05,Consumer,Value,Paid Search
+1358,2024-07-06,Consumer,Value,Paid Search
+1502,2024-07-06,Consumer,Value,In-store
+2313,2024-07-06,Consumer,Value,Organic Search
+940,2024-07-07,Consumer,Value,Organic Search
+2366,2024-07-07,Consumer,Regular,In-store
+2089,2024-07-08,Small Business,Regular,Organic Search
+2660,2024-07-08,Consumer,Value,Organic Search
+1319,2024-07-09,Consumer,Regular,Organic Search
+2232,2024-07-09,Small Business,Regular,In-store
+136,2024-07-10,Consumer,Regular,Organic Search
+2653,2024-07-10,Consumer,Value,Referral
+2827,2024-07-10,Consumer,Regular,Social
+3252,2024-07-10,Consumer,Value,Referral
+271,2024-07-11,Consumer,Premium,Referral
+2582,2024-07-11,Consumer,Regular,Referral
+734,2024-07-12,Consumer,Regular,Referral
+777,2024-07-12,Consumer,Value,Paid Search
+1638,2024-07-12,Consumer,Regular,Social
+2562,2024-07-12,Consumer,Regular,Organic Search
+3309,2024-07-12,Small Business,Premium,Paid Search
+395,2024-07-14,Consumer,Regular,Paid Search
+3444,2024-07-14,Consumer,Regular,In-store
+710,2024-07-15,Consumer,Regular,Social
+1740,2024-07-15,Consumer,Premium,Referral
+3202,2024-07-15,Consumer,Regular,In-store
+1756,2024-07-16,Consumer,Value,Paid Search
+2318,2024-07-16,Consumer,Regular,Paid Search
+798,2024-07-17,Small Business,Value,Organic Search
+1086,2024-07-17,Consumer,Value,Paid Search
+2257,2024-07-17,Small Business,Value,Referral
+1693,2024-07-18,Consumer,Premium,Social
+1917,2024-07-18,Consumer,Regular,Organic Search
+3405,2024-07-18,Consumer,Regular,In-store
+3488,2024-07-18,Consumer,Value,Paid Search
+727,2024-07-19,Consumer,Value,Organic Search
+1377,2024-07-19,Small Business,Regular,Referral
+176,2024-07-20,Consumer,Premium,Paid Search
+1851,2024-07-21,Consumer,Regular,Social
+2950,2024-07-21,Small Business,Premium,In-store
+3233,2024-07-21,Consumer,Regular,Paid Search
+517,2024-07-22,Consumer,Premium,Organic Search
+2528,2024-07-22,Small Business,Value,Paid Search
+1122,2024-07-23,Consumer,Premium,Social
+1322,2024-07-23,Consumer,Regular,Social
+888,2024-07-24,Consumer,Value,Social
+1990,2024-07-24,Consumer,Value,Organic Search
+404,2024-07-25,Consumer,Premium,Organic Search
+1397,2024-07-26,Consumer,Premium,Social
+2608,2024-07-26,Consumer,Value,Referral
+350,2024-07-27,Consumer,Premium,Social
+2667,2024-07-27,Consumer,Regular,Paid Search
+1451,2024-07-28,Consumer,Regular,Organic Search
+2825,2024-07-28,Consumer,Regular,In-store
+3413,2024-07-28,Consumer,Premium,Referral
+251,2024-07-29,Consumer,Value,Organic Search
+1769,2024-07-29,Small Business,Regular,Paid Search
+3493,2024-07-29,Consumer,Regular,In-store
+998,2024-07-30,Consumer,Value,In-store
+2149,2024-07-30,Consumer,Regular,In-store
+3022,2024-07-30,Small Business,Regular,Paid Search
+3569,2024-07-30,Small Business,Premium,Paid Search
+513,2024-07-31,Consumer,Premium,Organic Search
+871,2024-07-31,Consumer,Value,Paid Search
+3343,2024-07-31,Consumer,Value,Paid Search
+2080,2024-08-01,Consumer,Value,In-store
+2308,2024-08-01,Consumer,Regular,Paid Search
+2972,2024-08-01,Consumer,Value,In-store
+3433,2024-08-01,Consumer,Regular,In-store
+370,2024-08-02,Consumer,Regular,In-store
+1906,2024-08-02,Consumer,Value,Social
+2919,2024-08-02,Consumer,Value,Organic Search
+532,2024-08-03,Consumer,Regular,Social
+1047,2024-08-03,Consumer,Regular,Social
+1614,2024-08-03,Consumer,Regular,Paid Search
+1879,2024-08-03,Consumer,Regular,Referral
+2017,2024-08-03,Consumer,Regular,Paid Search
+2123,2024-08-03,Consumer,Value,In-store
+2650,2024-08-03,Consumer,Regular,Organic Search
+226,2024-08-04,Consumer,Regular,Referral
+3116,2024-08-04,Consumer,Value,In-store
+119,2024-08-05,Consumer,Regular,Organic Search
+1271,2024-08-05,Consumer,Regular,Social
+1741,2024-08-05,Consumer,Premium,Referral
+3074,2024-08-05,Consumer,Value,Social
+115,2024-08-06,Consumer,Regular,In-store
+234,2024-08-06,Consumer,Value,Organic Search
+7,2024-08-07,Consumer,Value,Organic Search
+50,2024-08-07,Consumer,Value,In-store
+642,2024-08-07,Small Business,Regular,In-store
+1142,2024-08-07,Small Business,Value,Referral
+1245,2024-08-07,Consumer,Value,Social
+2833,2024-08-07,Consumer,Regular,Paid Search
+1031,2024-08-08,Consumer,Regular,Paid Search
+1415,2024-08-08,Consumer,Value,Social
+1581,2024-08-08,Consumer,Regular,Paid Search
+2712,2024-08-08,Consumer,Value,Organic Search
+1979,2024-08-09,Consumer,Value,In-store
+2587,2024-08-09,Small Business,Premium,Paid Search
+2981,2024-08-09,Consumer,Regular,Referral
+2647,2024-08-10,Consumer,Value,Organic Search
+3445,2024-08-10,Consumer,Premium,Organic Search
+2128,2024-08-11,Consumer,Value,Paid Search
+2263,2024-08-11,Consumer,Value,Organic Search
+471,2024-08-12,Consumer,Regular,Paid Search
+726,2024-08-13,Consumer,Value,Organic Search
+1600,2024-08-13,Consumer,Regular,In-store
+1799,2024-08-13,Consumer,Premium,Referral
+2090,2024-08-13,Consumer,Value,Referral
+2120,2024-08-13,Consumer,Premium,Organic Search
+3005,2024-08-13,Consumer,Regular,Social
+270,2024-08-15,Consumer,Regular,Organic Search
+637,2024-08-15,Consumer,Value,Paid Search
+1364,2024-08-15,Consumer,Regular,Paid Search
+1938,2024-08-15,Consumer,Value,In-store
+2168,2024-08-15,Small Business,Value,Organic Search
+2271,2024-08-15,Small Business,Regular,Social
+2503,2024-08-15,Consumer,Regular,Organic Search
+2873,2024-08-15,Small Business,Regular,Referral
+1708,2024-08-16,Small Business,Regular,In-store
+663,2024-08-17,Consumer,Regular,Referral
+740,2024-08-18,Consumer,Regular,Paid Search
+2861,2024-08-18,Consumer,Regular,Social
+2871,2024-08-18,Small Business,Value,Organic Search
+3178,2024-08-18,Small Business,Premium,Paid Search
+3507,2024-08-18,Small Business,Value,Social
+317,2024-08-19,Small Business,Regular,Paid Search
+624,2024-08-19,Consumer,Value,In-store
+1893,2024-08-20,Consumer,Regular,Paid Search
+1974,2024-08-20,Consumer,Premium,Social
+1977,2024-08-20,Consumer,Regular,Referral
+2875,2024-08-20,Consumer,Premium,In-store
+3466,2024-08-20,Consumer,Value,In-store
+166,2024-08-21,Consumer,Regular,Organic Search
+1259,2024-08-21,Consumer,Value,Social
+1403,2024-08-21,Consumer,Regular,Referral
+2942,2024-08-21,Consumer,Value,Paid Search
+4,2024-08-22,Consumer,Value,Organic Search
+22,2024-08-22,Small Business,Value,Referral
+1287,2024-08-22,Consumer,Value,Social
+2657,2024-08-22,Consumer,Premium,Paid Search
+3436,2024-08-22,Consumer,Premium,Social
+2314,2024-08-23,Consumer,Premium,Referral
+2577,2024-08-23,Small Business,Value,Social
+3389,2024-08-23,Consumer,Value,In-store
+3588,2024-08-23,Small Business,Regular,Organic Search
+209,2024-08-24,Consumer,Premium,Paid Search
+2229,2024-08-24,Consumer,Regular,Social
+2258,2024-08-24,Small Business,Regular,Organic Search
+3113,2024-08-24,Consumer,Value,Paid Search
+2394,2024-08-25,Consumer,Value,In-store
+2404,2024-08-25,Consumer,Value,Social
+3053,2024-08-25,Consumer,Premium,Organic Search
+586,2024-08-26,Consumer,Regular,Social
+1203,2024-08-26,Consumer,Regular,Social
+1022,2024-08-27,Consumer,Value,Social
+3146,2024-08-27,Consumer,Value,Referral
+599,2024-08-28,Consumer,Premium,Social
+1695,2024-08-28,Consumer,Value,Social
+2267,2024-08-28,Consumer,Value,Social
+2424,2024-08-28,Consumer,Regular,Paid Search
+132,2024-08-29,Consumer,Regular,Paid Search
+823,2024-08-30,Consumer,Value,Referral
+1787,2024-08-30,Consumer,Regular,Referral
+2154,2024-08-30,Consumer,Regular,In-store
+3392,2024-08-30,Consumer,Value,Paid Search
+3456,2024-08-30,Consumer,Regular,Organic Search
+516,2024-08-31,Consumer,Value,Organic Search
+3323,2024-08-31,Consumer,Regular,Paid Search
+2625,2024-09-02,Small Business,Value,Social
+543,2024-09-03,Consumer,Value,Organic Search
+1844,2024-09-03,Consumer,Regular,Paid Search
+2779,2024-09-03,Consumer,Regular,In-store
+198,2024-09-04,Consumer,Regular,Paid Search
+2575,2024-09-04,Consumer,Value,Referral
+3002,2024-09-04,Consumer,Regular,Organic Search
+146,2024-09-05,Consumer,Regular,Paid Search
+1702,2024-09-05,Consumer,Value,In-store
+3127,2024-09-05,Consumer,Regular,Organic Search
+3337,2024-09-06,Small Business,Value,Organic Search
+3587,2024-09-06,Consumer,Regular,Organic Search
+2751,2024-09-07,Small Business,Regular,Organic Search
+268,2024-09-08,Consumer,Regular,In-store
+2669,2024-09-08,Consumer,Regular,Organic Search
+3151,2024-09-08,Consumer,Regular,Paid Search
+25,2024-09-09,Consumer,Value,In-store
+2172,2024-09-09,Consumer,Regular,In-store
+3402,2024-09-09,Consumer,Value,Organic Search
+127,2024-09-10,Consumer,Value,Organic Search
+677,2024-09-10,Consumer,Regular,Organic Search
+3432,2024-09-10,Consumer,Premium,Paid Search
+505,2024-09-11,Consumer,Premium,Paid Search
+1771,2024-09-11,Consumer,Premium,Paid Search
+2279,2024-09-11,Consumer,Regular,Paid Search
+2293,2024-09-11,Consumer,Premium,In-store
+3578,2024-09-11,Consumer,Premium,In-store
+1326,2024-09-13,Consumer,Regular,Paid Search
+1388,2024-09-14,Consumer,Regular,In-store
+2063,2024-09-14,Consumer,Premium,Social
+2902,2024-09-14,Consumer,Regular,Paid Search
+31,2024-09-15,Small Business,Value,Organic Search
+1540,2024-09-16,Consumer,Regular,In-store
+75,2024-09-17,Consumer,Regular,Social
+154,2024-09-17,Consumer,Value,Social
+1422,2024-09-17,Consumer,Value,Referral
+2877,2024-09-17,Small Business,Value,Paid Search
+42,2024-09-18,Consumer,Regular,Paid Search
+144,2024-09-18,Consumer,Value,In-store
+1903,2024-09-18,Consumer,Value,Paid Search
+1984,2024-09-18,Small Business,Regular,Organic Search
+2021,2024-09-18,Small Business,Regular,Referral
+2030,2024-09-18,Consumer,Regular,Organic Search
+2204,2024-09-18,Small Business,Regular,Social
+3191,2024-09-19,Consumer,Regular,Organic Search
+701,2024-09-20,Consumer,Regular,In-store
+1883,2024-09-20,Consumer,Premium,Organic Search
+2603,2024-09-20,Consumer,Regular,Social
+1445,2024-09-22,Consumer,Value,Paid Search
+1448,2024-09-22,Small Business,Regular,Paid Search
+3159,2024-09-22,Consumer,Regular,Paid Search
+1121,2024-09-23,Consumer,Value,Organic Search
+1586,2024-09-23,Consumer,Regular,Social
+2029,2024-09-23,Consumer,Value,Social
+2610,2024-09-23,Consumer,Regular,Referral
+3027,2024-09-23,Consumer,Value,Organic Search
+3397,2024-09-23,Consumer,Premium,Social
+850,2024-09-24,Small Business,Value,Referral
+1496,2024-09-24,Consumer,Premium,In-store
+83,2024-09-25,Consumer,Regular,Social
+168,2024-09-25,Consumer,Value,In-store
+302,2024-09-25,Consumer,Value,Organic Search
+1304,2024-09-25,Consumer,Regular,Referral
+2057,2024-09-25,Consumer,Value,Organic Search
+854,2024-09-26,Consumer,Regular,Social
+2036,2024-09-26,Consumer,Regular,In-store
+589,2024-09-28,Consumer,Value,In-store
+2477,2024-09-28,Consumer,Value,Organic Search
+3105,2024-09-28,Small Business,Value,Organic Search
+319,2024-09-29,Small Business,Premium,Referral
+414,2024-09-29,Consumer,Premium,Referral
+953,2024-09-29,Consumer,Regular,Social
+1035,2024-09-29,Consumer,Regular,Organic Search
+1233,2024-09-29,Small Business,Regular,Social
+1307,2024-09-29,Consumer,Value,Social
+2748,2024-09-29,Consumer,Regular,Paid Search
+3139,2024-09-29,Consumer,Premium,Organic Search
+156,2024-09-30,Small Business,Value,In-store
+1790,2024-09-30,Consumer,Regular,Paid Search
+2010,2024-09-30,Consumer,Value,Social
+116,2024-10-01,Consumer,Value,In-store
+1412,2024-10-01,Consumer,Regular,Referral
+1583,2024-10-01,Consumer,Regular,In-store
+781,2024-10-02,Small Business,Regular,Paid Search
+1313,2024-10-02,Consumer,Value,Referral
+1692,2024-10-02,Consumer,Premium,Referral
+3345,2024-10-02,Consumer,Value,Organic Search
+728,2024-10-03,Small Business,Value,Paid Search
+1418,2024-10-03,Consumer,Regular,Paid Search
+398,2024-10-04,Small Business,Premium,Social
+434,2024-10-04,Consumer,Premium,Social
+2147,2024-10-04,Consumer,Regular,Referral
+2176,2024-10-04,Consumer,Regular,Referral
+2572,2024-10-04,Consumer,Premium,Organic Search
+2579,2024-10-04,Consumer,Premium,Social
+3453,2024-10-04,Consumer,Regular,Paid Search
+297,2024-10-05,Consumer,Regular,Paid Search
+2330,2024-10-05,Consumer,Regular,Organic Search
+2721,2024-10-05,Consumer,Premium,Organic Search
+2789,2024-10-05,Consumer,Value,Organic Search
+36,2024-10-06,Consumer,Regular,Social
+1419,2024-10-06,Consumer,Regular,In-store
+1887,2024-10-06,Small Business,Premium,Social
+1905,2024-10-06,Consumer,Regular,Referral
+2438,2024-10-06,Consumer,Value,Social
+2735,2024-10-06,Consumer,Regular,Paid Search
+422,2024-10-07,Consumer,Regular,Social
+1044,2024-10-07,Consumer,Value,Paid Search
+1162,2024-10-07,Consumer,Regular,Organic Search
+3590,2024-10-07,Consumer,Value,Referral
+1095,2024-10-08,Consumer,Value,Referral
+2288,2024-10-08,Consumer,Premium,In-store
+2561,2024-10-08,Consumer,Value,Social
+554,2024-10-09,Consumer,Value,Referral
+2283,2024-10-09,Consumer,Premium,Organic Search
+1089,2024-10-10,Consumer,Regular,Social
+2684,2024-10-10,Consumer,Regular,Paid Search
+467,2024-10-11,Consumer,Value,Referral
+1344,2024-10-11,Consumer,Value,Organic Search
+1610,2024-10-11,Consumer,Value,Paid Search
+446,2024-10-12,Consumer,Regular,Social
+1113,2024-10-12,Small Business,Regular,Paid Search
+1493,2024-10-13,Consumer,Regular,Referral
+860,2024-10-14,Consumer,Regular,In-store
+1155,2024-10-14,Consumer,Value,In-store
+1611,2024-10-14,Consumer,Regular,In-store
+2951,2024-10-14,Consumer,Regular,Organic Search
+591,2024-10-16,Consumer,Regular,Social
+1381,2024-10-16,Consumer,Premium,In-store
+2083,2024-10-16,Consumer,Regular,Organic Search
+2967,2024-10-17,Consumer,Value,Referral
+1154,2024-10-18,Consumer,Value,Paid Search
+2059,2024-10-18,Small Business,Regular,Organic Search
+2824,2024-10-18,Consumer,Regular,Paid Search
+3448,2024-10-18,Consumer,Value,Social
+1452,2024-10-19,Consumer,Value,In-store
+3194,2024-10-19,Consumer,Value,In-store
+282,2024-10-20,Consumer,Value,Social
+1500,2024-10-20,Consumer,Value,Social
+3396,2024-10-20,Consumer,Value,In-store
+960,2024-10-21,Consumer,Premium,Social
+2694,2024-10-21,Consumer,Regular,Paid Search
+1175,2024-10-23,Consumer,Value,Social
+2274,2024-10-23,Consumer,Regular,Referral
+802,2024-10-24,Consumer,Premium,Referral
+2872,2024-10-24,Consumer,Regular,In-store
+497,2024-10-25,Consumer,Value,Referral
+963,2024-10-25,Consumer,Regular,Paid Search
+1224,2024-10-25,Small Business,Value,In-store
+2698,2024-10-25,Consumer,Value,Referral
+3001,2024-10-26,Small Business,Regular,Organic Search
+3556,2024-10-26,Consumer,Regular,Paid Search
+295,2024-10-27,Consumer,Regular,Social
+2299,2024-10-27,Consumer,Value,Social
+2439,2024-10-27,Consumer,Premium,Paid Search
+3381,2024-10-27,Consumer,Regular,In-store
+3503,2024-10-27,Consumer,Value,Organic Search
+2640,2024-10-28,Consumer,Premium,Paid Search
+3143,2024-10-28,Consumer,Value,Referral
+2284,2024-10-29,Consumer,Premium,Paid Search
+2626,2024-10-29,Consumer,Regular,Organic Search
+2775,2024-10-30,Small Business,Value,Paid Search
+832,2024-10-31,Consumer,Value,Paid Search
+1965,2024-10-31,Consumer,Premium,Referral
+2989,2024-10-31,Consumer,Regular,Organic Search
+3551,2024-10-31,Consumer,Premium,Paid Search
+1880,2024-11-01,Small Business,Regular,In-store
+2379,2024-11-01,Consumer,Value,In-store
+2595,2024-11-01,Consumer,Premium,Paid Search
+258,2024-11-03,Consumer,Premium,Paid Search
+389,2024-11-03,Consumer,Regular,In-store
+1551,2024-11-03,Small Business,Regular,In-store
+3138,2024-11-03,Consumer,Value,Paid Search
+2392,2024-11-04,Consumer,Value,In-store
+1514,2024-11-05,Consumer,Premium,Organic Search
+1894,2024-11-05,Consumer,Value,Organic Search
+2135,2024-11-06,Consumer,Regular,Organic Search
+2347,2024-11-07,Consumer,Value,Referral
+2551,2024-11-07,Consumer,Regular,Social
+3434,2024-11-07,Consumer,Value,Referral
+3454,2024-11-08,Consumer,Value,Paid Search
+3455,2024-11-08,Small Business,Value,In-store
+1533,2024-11-09,Consumer,Regular,Organic Search
+2656,2024-11-09,Consumer,Regular,Referral
+2849,2024-11-09,Consumer,Premium,Organic Search
+193,2024-11-10,Consumer,Regular,In-store
+2907,2024-11-10,Consumer,Value,Paid Search
+2808,2024-11-11,Consumer,Value,Referral
+2859,2024-11-11,Consumer,Value,Organic Search
+1159,2024-11-12,Consumer,Value,Organic Search
+2710,2024-11-12,Consumer,Regular,Organic Search
+2728,2024-11-12,Small Business,Regular,In-store
+283,2024-11-13,Consumer,Value,Organic Search
+652,2024-11-13,Consumer,Regular,Paid Search
+1632,2024-11-13,Consumer,Regular,Organic Search
+1656,2024-11-13,Consumer,Value,Referral
+1922,2024-11-14,Consumer,Regular,Social
+2050,2024-11-14,Consumer,Value,Organic Search
+2523,2024-11-14,Consumer,Premium,Social
+3247,2024-11-14,Small Business,Regular,Organic Search
+261,2024-11-15,Consumer,Value,Organic Search
+946,2024-11-15,Small Business,Regular,Organic Search
+1425,2024-11-15,Consumer,Value,Paid Search
+2220,2024-11-15,Consumer,Premium,Organic Search
+2621,2024-11-15,Consumer,Regular,Organic Search
+2765,2024-11-15,Consumer,Value,In-store
+3125,2024-11-15,Consumer,Regular,In-store
+182,2024-11-16,Consumer,Premium,Social
+1770,2024-11-16,Consumer,Regular,Paid Search
+1798,2024-11-16,Consumer,Regular,Social
+3313,2024-11-16,Consumer,Regular,Referral
+2364,2024-11-17,Consumer,Regular,In-store
+2846,2024-11-17,Small Business,Value,Organic Search
+229,2024-11-19,Consumer,Premium,Social
+1183,2024-11-19,Consumer,Regular,Organic Search
+1256,2024-11-19,Consumer,Regular,Referral
+1539,2024-11-19,Consumer,Value,Paid Search
+1569,2024-11-19,Small Business,Value,Organic Search
+1491,2024-11-20,Consumer,Value,Referral
+2611,2024-11-20,Consumer,Value,Paid Search
+1149,2024-11-21,Consumer,Regular,Organic Search
+3359,2024-11-21,Consumer,Regular,Social
+807,2024-11-22,Consumer,Regular,Organic Search
+2335,2024-11-22,Consumer,Premium,In-store
+2412,2024-11-22,Consumer,Regular,In-store
+3156,2024-11-22,Small Business,Value,In-store
+1108,2024-11-23,Consumer,Regular,Referral
+2401,2024-11-23,Consumer,Regular,Social
+3229,2024-11-23,Small Business,Value,Organic Search
+3535,2024-11-23,Consumer,Value,In-store
+496,2024-11-24,Consumer,Value,Organic Search
+2363,2024-11-24,Consumer,Value,Paid Search
+2260,2024-11-25,Consumer,Value,Organic Search
+2848,2024-11-25,Consumer,Regular,Referral
+3199,2024-11-25,Consumer,Regular,In-store
+1024,2024-11-26,Consumer,Value,In-store
+1866,2024-11-26,Consumer,Premium,Organic Search
+2641,2024-11-26,Consumer,Regular,Organic Search
+1158,2024-11-27,Consumer,Value,Social
+2014,2024-11-27,Consumer,Value,Organic Search
+2076,2024-11-27,Consumer,Premium,Paid Search
+2116,2024-11-27,Consumer,Premium,Paid Search
+2786,2024-11-27,Consumer,Premium,Paid Search
+1588,2024-11-28,Small Business,Premium,Paid Search
+1633,2024-11-28,Consumer,Value,Organic Search
+2325,2024-11-28,Small Business,Regular,Organic Search
+3409,2024-11-28,Consumer,Premium,Social
+547,2024-11-29,Consumer,Regular,Paid Search
+596,2024-11-29,Consumer,Value,Paid Search
+722,2024-11-29,Consumer,Value,Organic Search
+1361,2024-11-29,Small Business,Regular,Organic Search
+3223,2024-11-29,Consumer,Value,In-store
+243,2024-11-30,Consumer,Premium,Social
+1716,2024-11-30,Consumer,Value,Organic Search
+1927,2024-11-30,Small Business,Value,Paid Search
+2407,2024-11-30,Consumer,Value,Paid Search
+2806,2024-11-30,Consumer,Premium,Organic Search
+2672,2024-12-01,Consumer,Regular,In-store
+2866,2024-12-01,Consumer,Value,Organic Search
+1117,2024-12-02,Consumer,Regular,Paid Search
+2594,2024-12-02,Consumer,Regular,Organic Search
+413,2024-12-03,Consumer,Value,Organic Search
+753,2024-12-03,Small Business,Regular,Paid Search
+2203,2024-12-03,Small Business,Premium,Paid Search
+2345,2024-12-03,Small Business,Regular,Paid Search
+2434,2024-12-03,Consumer,Regular,Organic Search
+2614,2024-12-03,Consumer,Regular,Organic Search
+447,2024-12-04,Consumer,Regular,Paid Search
+2167,2024-12-04,Consumer,Regular,Referral
+232,2024-12-05,Consumer,Value,Social
+931,2024-12-05,Consumer,Regular,Referral
+1252,2024-12-05,Consumer,Value,Referral
+1818,2024-12-05,Consumer,Regular,Paid Search
+2709,2024-12-05,Consumer,Regular,Organic Search
+3291,2024-12-05,Consumer,Regular,Paid Search
+1744,2024-12-06,Consumer,Value,In-store
+2324,2024-12-06,Consumer,Premium,Paid Search
+561,2024-12-07,Consumer,Value,Organic Search
+2383,2024-12-07,Consumer,Regular,Organic Search
+1303,2024-12-08,Consumer,Value,Social
+64,2024-12-09,Consumer,Value,Social
+1002,2024-12-09,Consumer,Premium,Organic Search
+1362,2024-12-09,Consumer,Value,Paid Search
+1891,2024-12-09,Consumer,Regular,In-store
+2944,2024-12-09,Consumer,Regular,In-store
+2461,2024-12-10,Consumer,Regular,Paid Search
+2928,2024-12-10,Consumer,Regular,Paid Search
+340,2024-12-11,Small Business,Premium,Paid Search
+572,2024-12-12,Consumer,Premium,Organic Search
+809,2024-12-12,Consumer,Value,Social
+2105,2024-12-12,Consumer,Regular,Organic Search
+3220,2024-12-12,Consumer,Premium,Organic Search
+1080,2024-12-13,Consumer,Regular,Referral
+1664,2024-12-13,Consumer,Regular,Referral
+697,2024-12-14,Consumer,Premium,Paid Search
+841,2024-12-14,Consumer,Value,In-store
+2192,2024-12-14,Consumer,Regular,In-store
+2440,2024-12-14,Consumer,Regular,Organic Search
+2739,2024-12-14,Consumer,Premium,Referral
+45,2024-12-15,Small Business,Regular,Paid Search
+1998,2024-12-15,Small Business,Value,Organic Search
+2275,2024-12-15,Consumer,Regular,Paid Search
+3486,2024-12-15,Consumer,Value,Paid Search
+971,2024-12-16,Consumer,Regular,In-store
+2934,2024-12-16,Consumer,Value,Paid Search
+293,2024-12-17,Small Business,Value,Paid Search
+1023,2024-12-17,Consumer,Premium,In-store
+2185,2024-12-17,Consumer,Premium,Referral
+299,2024-12-18,Consumer,Premium,Paid Search
+2137,2024-12-18,Consumer,Premium,Social
+2807,2024-12-18,Consumer,Value,In-store
+2039,2024-12-19,Consumer,Regular,Paid Search
+2784,2024-12-19,Consumer,Value,Social
+3025,2024-12-19,Consumer,Premium,In-store
+1184,2024-12-21,Small Business,Regular,In-store
+2237,2024-12-21,Consumer,Regular,Organic Search
+598,2024-12-22,Small Business,Regular,Paid Search
+918,2024-12-22,Consumer,Regular,Paid Search
+976,2024-12-22,Consumer,Value,Organic Search
+1503,2024-12-22,Consumer,Regular,Paid Search
+1751,2024-12-22,Consumer,Value,Organic Search
+2225,2024-12-22,Consumer,Value,Paid Search
+2259,2024-12-22,Consumer,Regular,In-store
+2910,2024-12-22,Consumer,Value,Social
+3028,2024-12-22,Consumer,Regular,Organic Search
+800,2024-12-23,Consumer,Regular,Paid Search
+3276,2024-12-23,Consumer,Regular,Referral
+1738,2024-12-24,Consumer,Value,Referral
+1842,2024-12-24,Consumer,Value,Organic Search
+399,2024-12-25,Consumer,Value,Paid Search
+1568,2024-12-25,Consumer,Regular,Referral
+3275,2024-12-25,Consumer,Value,In-store
+2,2024-12-26,Small Business,Regular,Referral
+157,2024-12-26,Consumer,Premium,In-store
+390,2024-12-26,Consumer,Value,Referral
+375,2024-12-27,Consumer,Regular,Organic Search
+1064,2024-12-27,Small Business,Regular,In-store
+1801,2024-12-27,Consumer,Regular,In-store
+1923,2024-12-27,Small Business,Premium,In-store
+667,2024-12-28,Consumer,Value,Organic Search
+2326,2024-12-28,Consumer,Value,Organic Search
+3149,2024-12-28,Consumer,Regular,Social
+2693,2024-12-30,Consumer,Regular,Organic Search
+2719,2024-12-30,Consumer,Regular,Paid Search
+300,2024-12-31,Consumer,Regular,Paid Search
+1863,2024-12-31,Consumer,Value,Organic Search
+2991,2024-12-31,Small Business,Value,Social
+3371,2024-12-31,Consumer,Premium,Organic Search
+2618,2025-01-01,Consumer,Regular,In-store
+2726,2025-01-01,Consumer,Value,Paid Search
+732,2025-01-02,Small Business,Value,Paid Search
+1320,2025-01-02,Consumer,Regular,Referral
+15,2025-01-03,Consumer,Premium,Social
+743,2025-01-03,Consumer,Regular,Organic Search
+819,2025-01-03,Consumer,Regular,In-store
+1286,2025-01-03,Consumer,Regular,In-store
+3406,2025-01-03,Consumer,Premium,Organic Search
+100,2025-01-04,Consumer,Regular,Paid Search
+729,2025-01-04,Consumer,Value,Social
+2763,2025-01-04,Small Business,Value,Social
+1888,2025-01-05,Consumer,Value,Organic Search
+2223,2025-01-05,Consumer,Value,Paid Search
+150,2025-01-06,Consumer,Value,Paid Search
+1220,2025-01-06,Consumer,Regular,Referral
+2091,2025-01-06,Small Business,Value,Organic Search
+2211,2025-01-06,Consumer,Regular,Social
+1565,2025-01-07,Consumer,Value,Paid Search
+1593,2025-01-07,Consumer,Regular,Referral
+278,2025-01-08,Consumer,Value,In-store
+3122,2025-01-09,Consumer,Premium,Organic Search
+1474,2025-01-10,Consumer,Regular,Organic Search
+1886,2025-01-10,Consumer,Value,Social
+891,2025-01-11,Small Business,Regular,Organic Search
+1947,2025-01-11,Consumer,Regular,Referral
+782,2025-01-12,Consumer,Regular,Referral
+1090,2025-01-12,Consumer,Value,Paid Search
+386,2025-01-14,Consumer,Value,Organic Search
+1103,2025-01-14,Consumer,Premium,Referral
+1896,2025-01-14,Consumer,Value,Paid Search
+3440,2025-01-14,Consumer,Regular,Organic Search
+473,2025-01-15,Consumer,Value,Paid Search
+485,2025-01-15,Small Business,Regular,In-store
+2139,2025-01-15,Consumer,Value,Social
+2986,2025-01-15,Consumer,Regular,In-store
+3543,2025-01-15,Consumer,Regular,Paid Search
+920,2025-01-16,Small Business,Regular,Organic Search
+1848,2025-01-16,Consumer,Regular,Organic Search
+2078,2025-01-16,Consumer,Premium,Paid Search
+2687,2025-01-16,Consumer,Regular,Paid Search
+1506,2025-01-17,Small Business,Regular,Paid Search
+1786,2025-01-17,Consumer,Value,Social
+2982,2025-01-17,Consumer,Regular,Paid Search
+3571,2025-01-17,Consumer,Regular,Social
+643,2025-01-18,Small Business,Regular,In-store
+2387,2025-01-18,Consumer,Regular,Paid Search
+3287,2025-01-18,Consumer,Regular,Paid Search
+456,2025-01-19,Consumer,Regular,Social
+1742,2025-01-19,Consumer,Regular,Paid Search
+372,2025-01-20,Consumer,Regular,Organic Search
+1421,2025-01-20,Consumer,Value,Organic Search
+1713,2025-01-21,Small Business,Regular,Referral
+2720,2025-01-21,Consumer,Value,Paid Search
+563,2025-01-22,Consumer,Regular,Paid Search
+1105,2025-01-22,Consumer,Premium,In-store
+2566,2025-01-22,Small Business,Value,Referral
+3131,2025-01-22,Consumer,Value,Paid Search
+199,2025-01-23,Small Business,Regular,Social
+1241,2025-01-23,Consumer,Value,In-store
+1986,2025-01-23,Consumer,Premium,Referral
+2639,2025-01-23,Small Business,Value,Referral
+311,2025-01-24,Consumer,Regular,In-store
+1881,2025-01-24,Consumer,Value,Organic Search
+262,2025-01-25,Consumer,Value,Paid Search
+533,2025-01-26,Consumer,Premium,Paid Search
+3030,2025-01-26,Small Business,Regular,Organic Search
+3467,2025-01-26,Small Business,Premium,Paid Search
+1447,2025-01-27,Consumer,Premium,Organic Search
+32,2025-01-28,Consumer,Regular,Referral
+1001,2025-01-28,Consumer,Regular,Social
+2067,2025-01-28,Consumer,Regular,Social
+2286,2025-01-28,Consumer,Value,Social
+3472,2025-01-28,Consumer,Value,In-store
+289,2025-01-29,Consumer,Regular,Organic Search
+2393,2025-01-29,Consumer,Value,Organic Search
+1109,2025-01-30,Consumer,Value,Organic Search
+1846,2025-01-30,Consumer,Regular,Social
+2688,2025-01-30,Consumer,Regular,Organic Search
+3051,2025-01-30,Consumer,Regular,Organic Search
+3484,2025-01-30,Consumer,Regular,Paid Search
+1380,2025-01-31,Consumer,Regular,In-store
+1940,2025-02-01,Small Business,Premium,Organic Search
+3549,2025-02-02,Consumer,Regular,Organic Search
+525,2025-02-03,Consumer,Value,Social
+1546,2025-02-03,Consumer,Regular,Paid Search
+2156,2025-02-04,Consumer,Value,Organic Search
+2509,2025-02-04,Consumer,Premium,Organic Search
+2715,2025-02-04,Small Business,Regular,Referral
+3218,2025-02-04,Consumer,Value,Social
+170,2025-02-05,Consumer,Regular,In-store
+3196,2025-02-05,Consumer,Value,Paid Search
+3300,2025-02-05,Consumer,Regular,Organic Search
+954,2025-02-06,Small Business,Regular,In-store
+1463,2025-02-06,Consumer,Value,Paid Search
+2360,2025-02-06,Consumer,Regular,Organic Search
+161,2025-02-07,Consumer,Value,Paid Search
+2074,2025-02-08,Consumer,Premium,In-store
+1225,2025-02-09,Consumer,Premium,Paid Search
+1282,2025-02-09,Small Business,Regular,Organic Search
+1753,2025-02-09,Consumer,Premium,Paid Search
+3426,2025-02-09,Consumer,Value,Social
+1953,2025-02-10,Consumer,Regular,Paid Search
+3362,2025-02-10,Consumer,Value,In-store
+836,2025-02-11,Consumer,Premium,Organic Search
+3157,2025-02-11,Consumer,Value,Paid Search
+3435,2025-02-11,Consumer,Regular,Social
+425,2025-02-12,Consumer,Regular,In-store
+1076,2025-02-12,Consumer,Regular,Referral
+1280,2025-02-12,Small Business,Value,In-store
+3544,2025-02-12,Consumer,Value,Organic Search
+764,2025-02-13,Consumer,Regular,Paid Search
+1137,2025-02-13,Consumer,Value,Social
+2832,2025-02-13,Consumer,Regular,Referral
+724,2025-02-14,Consumer,Value,Referral
+3468,2025-02-14,Consumer,Regular,Referral
+745,2025-02-15,Consumer,Value,In-store
+770,2025-02-15,Consumer,Regular,In-store
+922,2025-02-15,Consumer,Value,Organic Search
+1382,2025-02-15,Consumer,Value,Paid Search
+240,2025-02-16,Consumer,Regular,Paid Search
+363,2025-02-17,Consumer,Value,Social
+2467,2025-02-17,Consumer,Regular,Paid Search
+3060,2025-02-17,Consumer,Regular,Social
+3177,2025-02-17,Consumer,Regular,Paid Search
+3117,2025-02-19,Consumer,Regular,Paid Search
+263,2025-02-20,Consumer,Regular,Organic Search
+876,2025-02-20,Small Business,Value,Referral
+175,2025-02-21,Consumer,Value,In-store
+1309,2025-02-21,Consumer,Regular,Paid Search
+1372,2025-02-21,Consumer,Value,Organic Search
+2093,2025-02-21,Consumer,Value,Organic Search
+3494,2025-02-21,Small Business,Value,Paid Search
+3589,2025-02-21,Small Business,Premium,Social
+549,2025-02-22,Small Business,Regular,In-store
+2881,2025-02-22,Consumer,Regular,Social
+3104,2025-02-22,Consumer,Value,Organic Search
+2633,2025-02-23,Consumer,Value,In-store
+2932,2025-02-23,Consumer,Regular,Organic Search
+3231,2025-02-23,Consumer,Value,Social
+638,2025-02-24,Consumer,Premium,Organic Search
+1218,2025-02-24,Small Business,Value,Organic Search
+2230,2025-02-24,Consumer,Premium,Organic Search
+3181,2025-02-24,Consumer,Value,In-store
+956,2025-02-25,Consumer,Premium,Referral
+968,2025-02-25,Consumer,Regular,Organic Search
+1161,2025-02-25,Small Business,Value,Organic Search
+1408,2025-02-25,Consumer,Premium,Organic Search
+1494,2025-02-25,Consumer,Value,Social
+2585,2025-02-25,Consumer,Value,Social
+104,2025-02-26,Consumer,Value,Organic Search
+665,2025-02-26,Consumer,Value,Referral
+2209,2025-02-26,Consumer,Regular,Organic Search
+3082,2025-02-26,Consumer,Regular,Social
+211,2025-02-27,Consumer,Value,Organic Search
+407,2025-02-27,Consumer,Regular,Organic Search
+476,2025-02-27,Consumer,Regular,Social
+3192,2025-02-27,Consumer,Regular,Social
+723,2025-02-28,Consumer,Value,Paid Search
+3097,2025-02-28,Small Business,Premium,Organic Search
+1478,2025-03-01,Consumer,Regular,Social
+514,2025-03-02,Consumer,Premium,Paid Search
+3158,2025-03-02,Consumer,Value,Referral
+3341,2025-03-02,Consumer,Value,In-store
+1057,2025-03-03,Consumer,Regular,Referral
+980,2025-03-04,Consumer,Value,Organic Search
+1660,2025-03-04,Consumer,Premium,In-store
+2517,2025-03-05,Consumer,Regular,Organic Search
+2597,2025-03-05,Consumer,Premium,In-store
+2774,2025-03-05,Consumer,Value,Social
+3386,2025-03-05,Consumer,Regular,In-store
+3469,2025-03-06,Consumer,Value,Paid Search
+1564,2025-03-07,Consumer,Regular,Referral
+520,2025-03-08,Consumer,Value,Organic Search
+2241,2025-03-08,Consumer,Value,In-store
+181,2025-03-09,Consumer,Value,Social
+896,2025-03-09,Small Business,Value,Organic Search
+1355,2025-03-09,Consumer,Regular,Referral
+2001,2025-03-09,Consumer,Regular,Organic Search
+3091,2025-03-09,Consumer,Regular,Referral
+344,2025-03-10,Consumer,Regular,In-store
+783,2025-03-10,Consumer,Premium,Organic Search
+2235,2025-03-10,Consumer,Regular,Organic Search
+2914,2025-03-10,Consumer,Value,In-store
+3489,2025-03-10,Consumer,Regular,Organic Search
+208,2025-03-11,Consumer,Value,Organic Search
+273,2025-03-12,Small Business,Premium,Social
+1054,2025-03-12,Small Business,Value,Organic Search
+2745,2025-03-12,Consumer,Regular,Referral
+3077,2025-03-12,Consumer,Regular,Organic Search
+2452,2025-03-13,Consumer,Regular,Referral
+1373,2025-03-14,Consumer,Premium,Organic Search
+2717,2025-03-14,Consumer,Value,Organic Search
+844,2025-03-15,Consumer,Value,Referral
+2423,2025-03-15,Consumer,Regular,Paid Search
+1395,2025-03-16,Consumer,Regular,Social
+537,2025-03-17,Consumer,Regular,Paid Search
+1028,2025-03-17,Consumer,Value,In-store
+3111,2025-03-17,Consumer,Value,Paid Search
+999,2025-03-18,Consumer,Regular,Organic Search
+692,2025-03-19,Small Business,Regular,Social
+2198,2025-03-19,Consumer,Regular,Organic Search
+2351,2025-03-19,Consumer,Regular,In-store
+325,2025-03-21,Consumer,Value,In-store
+634,2025-03-21,Small Business,Regular,In-store
+662,2025-03-21,Consumer,Value,In-store
+1902,2025-03-21,Consumer,Value,Referral
+950,2025-03-22,Small Business,Regular,Referral
+1181,2025-03-22,Small Business,Regular,Organic Search
+2546,2025-03-22,Consumer,Value,Organic Search
+760,2025-03-23,Consumer,Value,In-store
+1555,2025-03-23,Consumer,Premium,Organic Search
+1548,2025-03-24,Consumer,Regular,Organic Search
+2188,2025-03-24,Consumer,Premium,Social
+224,2025-03-25,Small Business,Value,Social
+829,2025-03-25,Consumer,Regular,Paid Search
+2785,2025-03-25,Small Business,Regular,Referral
+3265,2025-03-26,Consumer,Premium,Paid Search
+3339,2025-03-26,Consumer,Premium,In-store
+2965,2025-03-27,Consumer,Value,Paid Search
+255,2025-03-28,Consumer,Regular,Referral
+2201,2025-03-28,Consumer,Value,Paid Search
+2445,2025-03-28,Consumer,Regular,Social
+2526,2025-03-28,Consumer,Regular,Organic Search
+1204,2025-03-29,Consumer,Regular,In-store
+3135,2025-03-29,Consumer,Value,In-store
+1441,2025-03-30,Consumer,Value,Referral
+2759,2025-03-30,Small Business,Value,Paid Search
+906,2025-03-31,Small Business,Value,Paid Search
+2676,2025-04-01,Consumer,Regular,Paid Search
+1156,2025-04-02,Consumer,Value,Referral
+1456,2025-04-02,Consumer,Value,Paid Search
+1462,2025-04-02,Consumer,Value,Referral
+1823,2025-04-02,Consumer,Regular,In-store
+3035,2025-04-03,Consumer,Value,In-store
+351,2025-04-04,Consumer,Regular,Social
+423,2025-04-04,Consumer,Regular,Organic Search
+1576,2025-04-05,Consumer,Regular,Organic Search
+2481,2025-04-05,Consumer,Value,Paid Search
+2552,2025-04-05,Consumer,Value,In-store
+879,2025-04-06,Consumer,Premium,Organic Search
+2536,2025-04-06,Small Business,Regular,Referral
+1124,2025-04-07,Consumer,Regular,Referral
+2752,2025-04-07,Consumer,Value,In-store
+3533,2025-04-07,Consumer,Value,Organic Search
+1946,2025-04-08,Consumer,Regular,In-store
+2004,2025-04-08,Consumer,Regular,Paid Search
+2026,2025-04-08,Consumer,Regular,In-store
+2388,2025-04-08,Small Business,Regular,In-store
+3046,2025-04-08,Consumer,Premium,Paid Search
+415,2025-04-09,Consumer,Regular,Social
+1250,2025-04-09,Consumer,Value,In-store
+1332,2025-04-09,Consumer,Regular,In-store
+1757,2025-04-09,Consumer,Regular,Paid Search
+1065,2025-04-10,Consumer,Regular,In-store
+2369,2025-04-11,Small Business,Regular,Organic Search
+2576,2025-04-11,Consumer,Value,Paid Search
+2761,2025-04-12,Consumer,Value,In-store
+3553,2025-04-12,Consumer,Regular,Referral
+396,2025-04-13,Consumer,Premium,In-store
+2843,2025-04-13,Consumer,Value,In-store
+3462,2025-04-13,Consumer,Value,Organic Search
+1928,2025-04-14,Consumer,Regular,Social
+49,2025-04-15,Consumer,Value,Social
+1060,2025-04-15,Small Business,Regular,In-store
+2303,2025-04-15,Small Business,Regular,Organic Search
+2402,2025-04-15,Consumer,Value,Organic Search
+2787,2025-04-15,Consumer,Premium,Social
+3080,2025-04-15,Consumer,Regular,Paid Search
+973,2025-04-16,Small Business,Value,Organic Search
+3140,2025-04-16,Consumer,Regular,Organic Search
+511,2025-04-17,Consumer,Regular,Referral
+1433,2025-04-17,Consumer,Value,In-store
+1982,2025-04-17,Consumer,Regular,Organic Search
+2926,2025-04-17,Consumer,Value,Organic Search
+2520,2025-04-18,Consumer,Regular,Organic Search
+2609,2025-04-18,Consumer,Value,In-store
+2997,2025-04-18,Consumer,Regular,Organic Search
+1516,2025-04-20,Consumer,Value,In-store
+1596,2025-04-20,Consumer,Value,Organic Search
+1884,2025-04-20,Consumer,Value,Referral
+2858,2025-04-20,Consumer,Regular,Organic Search
+1424,2025-04-21,Consumer,Premium,Social
+2598,2025-04-21,Small Business,Value,Organic Search
+2703,2025-04-21,Consumer,Value,Social
+2348,2025-04-22,Consumer,Value,Referral
+484,2025-04-23,Consumer,Regular,Organic Search
+979,2025-04-23,Consumer,Regular,Paid Search
+1860,2025-04-23,Consumer,Premium,Social
+2938,2025-04-23,Consumer,Regular,Organic Search
+2226,2025-04-25,Consumer,Regular,Organic Search
+3557,2025-04-25,Consumer,Value,Social
+878,2025-04-26,Consumer,Value,Referral
+2696,2025-04-26,Consumer,Value,Referral
+3360,2025-04-26,Consumer,Value,In-store
+3388,2025-04-26,Small Business,Premium,Paid Search
+3457,2025-04-26,Consumer,Regular,In-store
+721,2025-04-27,Consumer,Value,Social
+1236,2025-04-27,Consumer,Value,Organic Search
+1345,2025-04-27,Consumer,Regular,Paid Search
+1976,2025-04-27,Consumer,Value,Paid Search
+2133,2025-04-27,Consumer,Value,In-store
+3418,2025-04-28,Consumer,Value,Organic Search
+16,2025-04-29,Consumer,Value,In-store
+1100,2025-04-29,Small Business,Value,Social
+1547,2025-04-29,Small Business,Value,Social
+508,2025-04-30,Consumer,Premium,Social
+1016,2025-04-30,Consumer,Value,Paid Search
+3449,2025-04-30,Consumer,Premium,Organic Search
+70,2025-05-01,Consumer,Value,Paid Search
+616,2025-05-01,Consumer,Regular,Paid Search
+1949,2025-05-01,Consumer,Regular,Paid Search
+121,2025-05-02,Small Business,Regular,In-store
+468,2025-05-02,Small Business,Value,In-store
+1806,2025-05-02,Consumer,Regular,In-store
+2163,2025-05-02,Small Business,Value,Paid Search
+2805,2025-05-02,Consumer,Regular,Referral
+3130,2025-05-02,Consumer,Regular,Paid Search
+3376,2025-05-02,Consumer,Regular,In-store
+577,2025-05-03,Consumer,Value,Social
+1177,2025-05-03,Consumer,Regular,In-store
+1915,2025-05-03,Consumer,Regular,Referral
+2737,2025-05-03,Consumer,Regular,In-store
+2803,2025-05-03,Consumer,Premium,Paid Search
+1359,2025-05-04,Consumer,Value,In-store
+2415,2025-05-04,Consumer,Regular,Paid Search
+3264,2025-05-04,Consumer,Regular,Social
+818,2025-05-05,Consumer,Value,Organic Search
+1524,2025-05-05,Consumer,Value,Paid Search
+3121,2025-05-05,Consumer,Regular,Referral
+1826,2025-05-06,Consumer,Regular,Social
+3239,2025-05-06,Consumer,Premium,Organic Search
+3495,2025-05-06,Small Business,Regular,Organic Search
+441,2025-05-07,Consumer,Regular,In-store
+1082,2025-05-07,Consumer,Regular,Referral
+362,2025-05-08,Consumer,Regular,Social
+1331,2025-05-08,Consumer,Regular,Organic Search
+1782,2025-05-08,Consumer,Regular,Organic Search
+2544,2025-05-08,Consumer,Premium,Social
+321,2025-05-09,Consumer,Premium,Paid Search
+573,2025-05-09,Consumer,Value,Referral
+620,2025-05-09,Consumer,Regular,Social
+691,2025-05-09,Consumer,Value,In-store
+1847,2025-05-09,Consumer,Value,Organic Search
+2485,2025-05-09,Consumer,Regular,Organic Search
+806,2025-05-10,Consumer,Regular,Organic Search
+2055,2025-05-10,Consumer,Regular,Paid Search
+3421,2025-05-10,Small Business,Premium,Organic Search
+1706,2025-05-11,Consumer,Regular,In-store
+737,2025-05-12,Consumer,Value,Paid Search
+2887,2025-05-12,Consumer,Value,Paid Search
+1349,2025-05-13,Consumer,Value,Organic Search
+1352,2025-05-13,Consumer,Regular,In-store
+2319,2025-05-13,Consumer,Premium,Paid Search
+2444,2025-05-13,Consumer,Regular,Organic Search
+1515,2025-05-14,Small Business,Regular,Paid Search
+1563,2025-05-14,Consumer,Value,Paid Search
+2065,2025-05-14,Consumer,Value,Paid Search
+2845,2025-05-14,Consumer,Regular,Social
+842,2025-05-15,Consumer,Regular,Organic Search
+1643,2025-05-15,Consumer,Regular,Organic Search
+1936,2025-05-16,Consumer,Premium,In-store
+2983,2025-05-17,Consumer,Regular,In-store
+1956,2025-05-18,Small Business,Value,Referral
+3165,2025-05-18,Consumer,Value,In-store
+436,2025-05-19,Consumer,Value,In-store
+1229,2025-05-19,Consumer,Value,Organic Search
+2278,2025-05-19,Consumer,Value,Organic Search
+2796,2025-05-19,Consumer,Regular,In-store
+899,2025-05-20,Consumer,Value,Organic Search
+1040,2025-05-21,Consumer,Regular,Paid Search
+1572,2025-05-21,Consumer,Value,Social
+2634,2025-05-21,Consumer,Value,Social
+3481,2025-05-21,Small Business,Regular,Referral
+472,2025-05-22,Consumer,Value,Referral
+1267,2025-05-22,Consumer,Value,In-store
+2508,2025-05-22,Consumer,Regular,Referral
+1858,2025-05-23,Consumer,Regular,Paid Search
+2533,2025-05-23,Consumer,Value,Paid Search
+803,2025-05-24,Consumer,Value,In-store
+3567,2025-05-24,Consumer,Regular,Referral
+279,2025-05-25,Small Business,Regular,Paid Search
+590,2025-05-25,Consumer,Value,Paid Search
+2901,2025-05-25,Consumer,Value,Paid Search
+2027,2025-05-27,Small Business,Regular,Organic Search
+2025,2025-05-28,Consumer,Regular,Organic Search
+2855,2025-05-28,Consumer,Regular,Social
+3451,2025-05-28,Consumer,Regular,Paid Search
+2309,2025-05-29,Small Business,Value,Paid Search
+3009,2025-05-29,Small Business,Premium,Social
+19,2025-05-30,Consumer,Regular,Organic Search
+323,2025-05-30,Consumer,Regular,Referral
+943,2025-05-30,Consumer,Value,Paid Search
+1497,2025-05-30,Consumer,Premium,Paid Search
+2189,2025-05-30,Consumer,Premium,Social
+3352,2025-05-30,Small Business,Regular,Organic Search
+1052,2025-05-31,Consumer,Regular,In-store
+1945,2025-06-01,Consumer,Regular,Paid Search
+2082,2025-06-01,Consumer,Regular,Social
+1872,2025-06-02,Consumer,Value,In-store
+2371,2025-06-02,Small Business,Regular,Organic Search
+2889,2025-06-02,Consumer,Value,Organic Search
+3477,2025-06-02,Consumer,Value,In-store
+421,2025-06-03,Consumer,Regular,Organic Search
+1723,2025-06-04,Consumer,Value,In-store
+2219,2025-06-04,Consumer,Regular,In-store
+2372,2025-06-05,Consumer,Regular,Organic Search
+1711,2025-06-06,Consumer,Regular,Referral
+27,2025-06-07,Consumer,Regular,Social
+1616,2025-06-07,Consumer,Regular,Organic Search
+2160,2025-06-07,Consumer,Regular,Organic Search
+2240,2025-06-07,Consumer,Value,Referral
+558,2025-06-08,Small Business,Regular,Organic Search
+704,2025-06-08,Consumer,Value,Organic Search
+1862,2025-06-08,Small Business,Premium,In-store
+2627,2025-06-08,Consumer,Value,Social
+3490,2025-06-08,Consumer,Value,Social
+1400,2025-06-09,Consumer,Regular,Referral
+2218,2025-06-09,Consumer,Value,Referral
+3262,2025-06-09,Consumer,Value,Organic Search
+618,2025-06-10,Consumer,Regular,Social
+969,2025-06-10,Consumer,Value,Referral
+448,2025-06-11,Small Business,Regular,In-store
+2009,2025-06-11,Consumer,Regular,Organic Search
+2251,2025-06-11,Small Business,Premium,Paid Search
+675,2025-06-13,Consumer,Regular,Paid Search
+1488,2025-06-13,Small Business,Premium,In-store
+882,2025-06-14,Consumer,Value,Paid Search
+2812,2025-06-14,Consumer,Value,In-store
+3,2025-06-15,Consumer,Value,Paid Search
+820,2025-06-15,Small Business,Regular,Referral
+863,2025-06-15,Small Business,Regular,Paid Search
+285,2025-06-16,Consumer,Value,Organic Search
+776,2025-06-16,Consumer,Regular,Paid Search
+630,2025-06-17,Consumer,Premium,Social
+868,2025-06-17,Consumer,Regular,In-store
+2389,2025-06-17,Consumer,Value,Social
+1772,2025-06-18,Consumer,Value,Referral
+2606,2025-06-18,Small Business,Regular,Paid Search
+706,2025-06-19,Consumer,Regular,Referral
+1654,2025-06-19,Consumer,Regular,Organic Search
+3561,2025-06-19,Consumer,Regular,Organic Search
+192,2025-06-20,Consumer,Value,Paid Search
+2718,2025-06-20,Consumer,Premium,Social
+2734,2025-06-20,Consumer,Regular,Organic Search
+3207,2025-06-20,Small Business,Premium,Paid Search
+2214,2025-06-21,Consumer,Value,Referral
+1785,2025-06-22,Consumer,Regular,Social
+3212,2025-06-22,Consumer,Value,Organic Search
+1104,2025-06-23,Consumer,Regular,Referral
+1115,2025-06-24,Consumer,Premium,Organic Search
+2896,2025-06-24,Consumer,Premium,Paid Search
+405,2025-06-25,Consumer,Value,Organic Search
+967,2025-06-25,Consumer,Regular,Social
+2084,2025-06-25,Consumer,Value,In-store
+2601,2025-06-25,Consumer,Value,In-store
+2678,2025-06-25,Consumer,Regular,Organic Search
+3391,2025-06-25,Consumer,Premium,Paid Search
+1337,2025-06-26,Consumer,Value,Social
+1180,2025-06-27,Consumer,Value,Referral
+2645,2025-06-27,Consumer,Regular,Referral
+3185,2025-06-28,Consumer,Value,Paid Search
+2121,2025-06-29,Small Business,Premium,In-store
+2675,2025-06-29,Consumer,Regular,Referral
+2903,2025-06-29,Consumer,Regular,Social
+125,2025-06-30,Consumer,Value,Social
+581,2025-06-30,Consumer,Regular,Organic Search
+748,2025-06-30,Consumer,Value,Paid Search
+1300,2025-06-30,Consumer,Premium,In-store
+566,2025-07-01,Consumer,Value,In-store
+3307,2025-07-01,Consumer,Regular,Organic Search
+1219,2025-07-02,Consumer,Value,Social
+1743,2025-07-02,Small Business,Value,Organic Search
+1870,2025-07-02,Consumer,Value,Paid Search
+2850,2025-07-03,Consumer,Regular,Organic Search
+3328,2025-07-03,Consumer,Regular,Organic Search
+1025,2025-07-04,Small Business,Value,In-store
+1221,2025-07-04,Consumer,Premium,Paid Search
+2417,2025-07-04,Consumer,Regular,Organic Search
+3289,2025-07-04,Consumer,Value,Organic Search
+3525,2025-07-04,Consumer,Regular,Paid Search
+778,2025-07-05,Consumer,Premium,Social
+3575,2025-07-05,Small Business,Regular,Organic Search
+310,2025-07-06,Small Business,Regular,Social
+1107,2025-07-06,Consumer,Premium,Social
+345,2025-07-07,Consumer,Value,Organic Search
+1889,2025-07-07,Consumer,Regular,Organic Search
+2689,2025-07-07,Consumer,Premium,Organic Search
+303,2025-07-08,Consumer,Premium,In-store
+1434,2025-07-08,Consumer,Value,Social
+1705,2025-07-08,Consumer,Regular,In-store
+3195,2025-07-08,Consumer,Premium,Organic Search
+3312,2025-07-08,Consumer,Regular,In-store
+986,2025-07-09,Consumer,Value,Social
+1710,2025-07-09,Consumer,Regular,Organic Search
+2644,2025-07-09,Consumer,Value,Organic Search
+3190,2025-07-09,Consumer,Premium,Organic Search
+1217,2025-07-10,Consumer,Premium,Organic Search
+1247,2025-07-10,Consumer,Value,In-store
+1443,2025-07-10,Consumer,Value,Social
+499,2025-07-11,Consumer,Regular,Paid Search
+541,2025-07-12,Consumer,Value,In-store
+1607,2025-07-12,Consumer,Regular,In-store
+3458,2025-07-12,Consumer,Regular,Paid Search
+1592,2025-07-13,Consumer,Value,Referral
+2106,2025-07-13,Consumer,Value,Organic Search
+2190,2025-07-13,Consumer,Regular,Organic Search
+2818,2025-07-13,Consumer,Premium,Referral
+3471,2025-07-13,Consumer,Regular,Organic Search
+274,2025-07-14,Consumer,Value,Organic Search
+588,2025-07-14,Consumer,Regular,Referral
+1356,2025-07-14,Small Business,Regular,Organic Search
+2350,2025-07-14,Consumer,Regular,Referral
+2794,2025-07-14,Consumer,Regular,In-store
+3419,2025-07-15,Consumer,Value,Social
+431,2025-07-16,Consumer,Value,Social
+811,2025-07-16,Consumer,Regular,Organic Search
+834,2025-07-16,Consumer,Value,Paid Search
+1485,2025-07-16,Consumer,Regular,Referral
+1554,2025-07-18,Consumer,Value,Organic Search
+2949,2025-07-18,Consumer,Regular,Organic Search
+11,2025-07-19,Consumer,Regular,Organic Search
+230,2025-07-19,Consumer,Premium,Organic Search
+936,2025-07-19,Small Business,Value,Social
+991,2025-07-19,Small Business,Regular,Social
+1017,2025-07-19,Consumer,Regular,In-store
+1166,2025-07-19,Consumer,Premium,In-store
+173,2025-07-20,Consumer,Value,Social
+1733,2025-07-20,Small Business,Regular,Referral
+1792,2025-07-20,Consumer,Value,Referral
+2996,2025-07-20,Consumer,Value,In-store
+3259,2025-07-20,Consumer,Regular,Organic Search
+227,2025-07-21,Consumer,Regular,Organic Search
+647,2025-07-21,Consumer,Premium,Paid Search
+883,2025-07-21,Consumer,Regular,Organic Search
+1985,2025-07-21,Consumer,Value,In-store
+2375,2025-07-21,Consumer,Value,Paid Search
+1071,2025-07-22,Consumer,Regular,Referral
+1081,2025-07-22,Consumer,Premium,Social
+1176,2025-07-22,Consumer,Regular,Organic Search
+2270,2025-07-22,Consumer,Value,Organic Search
+2518,2025-07-22,Consumer,Value,Paid Search
+3355,2025-07-22,Consumer,Regular,Referral
+2041,2025-07-23,Consumer,Regular,Paid Search
+3225,2025-07-23,Consumer,Regular,Social
+2535,2025-07-24,Small Business,Premium,Referral
+2547,2025-07-24,Consumer,Value,Paid Search
+3217,2025-07-24,Consumer,Regular,Referral
+426,2025-07-26,Consumer,Regular,Organic Search
+859,2025-07-27,Consumer,Premium,Referral
+1348,2025-07-27,Small Business,Regular,Paid Search
+3071,2025-07-28,Consumer,Value,Organic Search
+3299,2025-07-28,Consumer,Regular,In-store
+557,2025-07-29,Consumer,Value,Paid Search
+1394,2025-07-29,Consumer,Regular,Paid Search
+3166,2025-07-29,Consumer,Value,Referral
+66,2025-07-30,Consumer,Value,Organic Search
+187,2025-07-30,Small Business,Premium,Paid Search
+1265,2025-07-31,Small Business,Regular,In-store
+1877,2025-07-31,Consumer,Regular,Referral
+2297,2025-08-01,Consumer,Regular,Paid Search
+3383,2025-08-01,Consumer,Regular,Paid Search
+124,2025-08-02,Consumer,Regular,Paid Search
+3487,2025-08-02,Consumer,Regular,Organic Search
+105,2025-08-04,Small Business,Value,Organic Search
+3261,2025-08-04,Consumer,Regular,Organic Search
+347,2025-08-05,Consumer,Value,Organic Search
+488,2025-08-05,Consumer,Regular,Paid Search
+2540,2025-08-05,Consumer,Value,Organic Search
+3004,2025-08-05,Consumer,Value,Organic Search
+603,2025-08-06,Consumer,Regular,Paid Search
+1240,2025-08-06,Small Business,Regular,Paid Search
+3201,2025-08-06,Consumer,Premium,Social
+3450,2025-08-06,Consumer,Value,Organic Search
+174,2025-08-07,Small Business,Value,Organic Search
+2194,2025-08-07,Consumer,Regular,Referral
+89,2025-08-08,Consumer,Value,Social
+3006,2025-08-08,Consumer,Premium,Referral
+3205,2025-08-08,Small Business,Regular,In-store
+1045,2025-08-09,Consumer,Premium,Referral
+2062,2025-08-09,Consumer,Premium,Social
+2380,2025-08-09,Consumer,Value,Social
+3317,2025-08-09,Consumer,Value,Referral
+1096,2025-08-10,Consumer,Value,Social
+1444,2025-08-10,Consumer,Value,Social
+1606,2025-08-10,Consumer,Value,In-store
+1667,2025-08-10,Small Business,Value,Referral
+509,2025-08-11,Consumer,Premium,Referral
+689,2025-08-12,Consumer,Value,In-store
+3599,2025-08-12,Consumer,Value,Referral
+1644,2025-08-13,Consumer,Regular,Organic Search
+2403,2025-08-13,Consumer,Premium,In-store
+613,2025-08-15,Consumer,Regular,Social
+2280,2025-08-15,Consumer,Value,Paid Search
+2311,2025-08-15,Consumer,Value,Social
+2457,2025-08-15,Consumer,Premium,Paid Search
+2756,2025-08-15,Consumer,Value,In-store
+592,2025-08-16,Consumer,Value,Organic Search
+1083,2025-08-16,Consumer,Premium,Referral
+1257,2025-08-16,Consumer,Premium,Paid Search
+1222,2025-08-17,Consumer,Regular,In-store
+2385,2025-08-17,Consumer,Value,Organic Search
+3568,2025-08-17,Consumer,Premium,In-store
+3416,2025-08-18,Consumer,Regular,Organic Search
+1662,2025-08-19,Consumer,Regular,In-store
+2924,2025-08-19,Consumer,Regular,Referral
+3412,2025-08-19,Consumer,Value,In-store
+1819,2025-08-20,Consumer,Regular,Social
+2243,2025-08-20,Consumer,Regular,Paid Search
+3033,2025-08-20,Consumer,Value,Organic Search
+984,2025-08-21,Consumer,Regular,Social
+1871,2025-08-21,Consumer,Value,Paid Search
+2969,2025-08-21,Consumer,Regular,Organic Search
+359,2025-08-22,Consumer,Value,Referral
+1118,2025-08-22,Consumer,Regular,Social
+2988,2025-08-22,Consumer,Regular,Social
+1290,2025-08-23,Consumer,Premium,Organic Search
+3078,2025-08-23,Small Business,Regular,Social
+3410,2025-08-23,Consumer,Value,Social
+9,2025-08-24,Consumer,Regular,Social
+40,2025-08-24,Consumer,Value,In-store
+1099,2025-08-24,Consumer,Value,Social
+1127,2025-08-24,Consumer,Regular,Paid Search
+3115,2025-08-24,Consumer,Value,In-store
+1556,2025-08-25,Consumer,Value,In-store
+1522,2025-08-26,Consumer,Value,Organic Search
+2355,2025-08-26,Small Business,Regular,In-store
+2557,2025-08-26,Consumer,Premium,In-store
+579,2025-08-27,Consumer,Premium,Organic Search
+1483,2025-08-27,Consumer,Regular,Referral
+1778,2025-08-27,Consumer,Value,Paid Search
+2337,2025-08-27,Consumer,Value,Organic Search
+3304,2025-08-27,Consumer,Regular,Organic Search
+480,2025-08-28,Consumer,Value,In-store
+502,2025-08-28,Consumer,Premium,In-store
+531,2025-08-28,Small Business,Regular,Organic Search
+3584,2025-08-28,Consumer,Value,Organic Search
+259,2025-08-29,Consumer,Regular,Organic Search
+640,2025-08-29,Consumer,Regular,Social
+676,2025-08-29,Consumer,Regular,Organic Search
+1136,2025-08-29,Consumer,Premium,Referral
+1560,2025-08-30,Consumer,Value,Paid Search
+1978,2025-08-30,Consumer,Regular,Organic Search
+2406,2025-08-30,Small Business,Regular,In-store
+2537,2025-08-30,Consumer,Regular,Referral
+3591,2025-08-30,Consumer,Value,Paid Search
+112,2025-08-31,Consumer,Regular,Referral
+2196,2025-08-31,Consumer,Value,Referral
+1126,2025-09-01,Consumer,Regular,Organic Search
+2107,2025-09-01,Consumer,Regular,In-store
+213,2025-09-02,Consumer,Premium,Organic Search
+546,2025-09-02,Consumer,Premium,Organic Search
+582,2025-09-02,Consumer,Regular,In-store
+1163,2025-09-02,Consumer,Value,In-store
+1235,2025-09-02,Consumer,Regular,Paid Search
+2541,2025-09-02,Small Business,Regular,Social
+828,2025-09-03,Consumer,Regular,Social
+2957,2025-09-03,Consumer,Regular,Paid Search
+1673,2025-09-04,Consumer,Regular,Paid Search
+2142,2025-09-05,Small Business,Value,Paid Search
+2716,2025-09-06,Consumer,Regular,Paid Search
+1457,2025-09-07,Consumer,Regular,Paid Search
+1845,2025-09-07,Consumer,Regular,Social
+3219,2025-09-07,Small Business,Regular,Referral
+1899,2025-09-08,Consumer,Value,Social
+3597,2025-09-08,Consumer,Regular,Organic Search
+1439,2025-09-10,Consumer,Regular,In-store
+2532,2025-09-10,Consumer,Regular,Paid Search
+685,2025-09-11,Consumer,Regular,Referral
+479,2025-09-12,Small Business,Regular,Referral
+1263,2025-09-12,Consumer,Value,Organic Search
+1629,2025-09-12,Consumer,Value,Organic Search
+3349,2025-09-13,Consumer,Premium,In-store
+2615,2025-09-14,Consumer,Premium,Paid Search
+3579,2025-09-14,Consumer,Regular,Paid Search
+1665,2025-09-15,Small Business,Regular,In-store
+2289,2025-09-16,Small Business,Value,Organic Search
+910,2025-09-17,Consumer,Premium,In-store
+595,2025-09-18,Small Business,Value,Organic Search
+684,2025-09-19,Consumer,Regular,In-store
+1618,2025-09-19,Small Business,Value,In-store
+738,2025-09-20,Consumer,Value,Social
+3305,2025-09-20,Small Business,Premium,Organic Search
+2780,2025-09-21,Small Business,Regular,Social
+3340,2025-09-21,Consumer,Value,Paid Search
+2727,2025-09-22,Consumer,Regular,Organic Search
+335,2025-09-23,Consumer,Value,In-store
+632,2025-09-23,Consumer,Premium,Paid Search
+877,2025-09-23,Consumer,Regular,Referral
+1925,2025-09-23,Consumer,Regular,Paid Search
+2448,2025-09-23,Consumer,Regular,Paid Search
+932,2025-09-24,Small Business,Premium,Paid Search
+933,2025-09-25,Consumer,Premium,Paid Search
+1747,2025-09-25,Consumer,Premium,In-store
+1520,2025-09-26,Consumer,Regular,In-store
+1735,2025-09-26,Consumer,Premium,Organic Search
+2758,2025-09-26,Consumer,Value,Social
+3019,2025-09-26,Consumer,Regular,Organic Search
+3570,2025-09-26,Consumer,Value,In-store
+553,2025-09-27,Consumer,Value,Organic Search
+1034,2025-09-27,Consumer,Regular,In-store
+1562,2025-09-27,Consumer,Regular,Organic Search
+3075,2025-09-27,Consumer,Premium,Social
+196,2025-09-28,Consumer,Value,Social
+1384,2025-09-28,Consumer,Value,Organic Search
+495,2025-09-29,Consumer,Value,Referral
+758,2025-09-29,Consumer,Value,Paid Search
+3583,2025-09-29,Consumer,Value,Organic Search
+337,2025-10-01,Consumer,Value,Organic Search
+3093,2025-10-01,Small Business,Regular,Organic Search
+3511,2025-10-01,Consumer,Value,Organic Search
+3558,2025-10-01,Consumer,Regular,Referral
+1262,2025-10-02,Consumer,Value,Organic Search
+2882,2025-10-02,Consumer,Regular,In-store
+2052,2025-10-03,Consumer,Regular,Paid Search
+2691,2025-10-03,Consumer,Regular,In-store
+3211,2025-10-03,Consumer,Regular,Paid Search
+3336,2025-10-03,Small Business,Value,Referral
+3592,2025-10-03,Consumer,Premium,Organic Search
+2015,2025-10-04,Consumer,Premium,Social
+2429,2025-10-04,Consumer,Value,Social
+2484,2025-10-04,Small Business,Regular,In-store
+2539,2025-10-04,Small Business,Value,Referral
+2973,2025-10-04,Consumer,Regular,Paid Search
+412,2025-10-05,Consumer,Value,Referral
+1930,2025-10-05,Consumer,Value,Paid Search
+2346,2025-10-05,Consumer,Premium,Paid Search
+2651,2025-10-05,Consumer,Regular,Organic Search
+2459,2025-10-06,Consumer,Regular,Referral
+3290,2025-10-07,Consumer,Value,Organic Search
+57,2025-10-08,Consumer,Value,Referral
+2730,2025-10-08,Consumer,Regular,Referral
+610,2025-10-09,Consumer,Regular,Paid Search
+914,2025-10-09,Consumer,Premium,Referral
+864,2025-10-11,Consumer,Value,Referral
+1591,2025-10-11,Consumer,Regular,Organic Search
+1898,2025-10-11,Consumer,Regular,In-store
+2197,2025-10-11,Consumer,Premium,In-store
+2635,2025-10-11,Consumer,Regular,In-store
+2860,2025-10-11,Consumer,Value,Social
+3282,2025-10-11,Consumer,Value,In-store
+160,2025-10-12,Consumer,Regular,Organic Search
+1773,2025-10-12,Consumer,Regular,Referral
+82,2025-10-13,Consumer,Premium,Organic Search
+1385,2025-10-13,Consumer,Regular,Organic Search
+1511,2025-10-13,Consumer,Regular,Social
+3094,2025-10-13,Consumer,Premium,Organic Search
+3425,2025-10-13,Consumer,Regular,Organic Search
+369,2025-10-14,Small Business,Regular,Social
+2020,2025-10-14,Consumer,Regular,Social
+2602,2025-10-14,Small Business,Value,In-store
+2804,2025-10-14,Small Business,Premium,Referral
+3398,2025-10-14,Consumer,Regular,In-store
+315,2025-10-15,Consumer,Value,Social
+695,2025-10-15,Consumer,Value,Paid Search
+2118,2025-10-15,Consumer,Premium,Organic Search
+2692,2025-10-15,Consumer,Regular,Referral
+898,2025-10-16,Consumer,Regular,Referral
+3521,2025-10-16,Consumer,Regular,In-store
+3358,2025-10-17,Consumer,Regular,Paid Search
+3500,2025-10-17,Consumer,Regular,Referral
+1864,2025-10-18,Consumer,Regular,Social
+3540,2025-10-18,Consumer,Value,In-store
+3338,2025-10-19,Small Business,Regular,Organic Search
+2570,2025-10-20,Consumer,Value,Paid Search
+3369,2025-10-20,Consumer,Regular,Organic Search
+1910,2025-10-21,Consumer,Regular,Organic Search
+1920,2025-10-21,Consumer,Regular,Organic Search
+2040,2025-10-21,Small Business,Regular,Social
+3141,2025-10-21,Consumer,Regular,Organic Search
+3479,2025-10-21,Consumer,Regular,Referral
+379,2025-10-22,Consumer,Premium,Social
+736,2025-10-22,Consumer,Value,Referral
+2410,2025-10-22,Consumer,Regular,Paid Search
+3531,2025-10-22,Consumer,Premium,Paid Search
+839,2025-10-23,Consumer,Regular,Organic Search
+1174,2025-10-23,Consumer,Regular,Paid Search
+38,2025-10-24,Consumer,Regular,Referral
+780,2025-10-24,Consumer,Value,Organic Search
+989,2025-10-24,Small Business,Premium,Organic Search
+1538,2025-10-24,Consumer,Premium,Social
+1639,2025-10-24,Consumer,Value,Social
+1828,2025-10-24,Consumer,Value,Paid Search
+975,2025-10-25,Consumer,Regular,Referral
+2766,2025-10-25,Small Business,Value,In-store
+2723,2025-10-26,Consumer,Regular,In-store
+3114,2025-10-26,Consumer,Value,Social
+288,2025-10-27,Consumer,Regular,Referral
+500,2025-10-27,Consumer,Value,Referral
+2221,2025-10-27,Consumer,Regular,Social
+2247,2025-10-27,Consumer,Regular,Paid Search
+2170,2025-10-28,Consumer,Value,Organic Search
+2265,2025-10-28,Small Business,Regular,Organic Search
+3063,2025-10-28,Consumer,Regular,Referral
+354,2025-10-29,Small Business,Regular,Referral
+2003,2025-10-29,Consumer,Value,Organic Search
+2620,2025-10-29,Small Business,Value,Paid Search
+417,2025-10-30,Consumer,Premium,Paid Search
+700,2025-10-30,Consumer,Regular,Social
+1298,2025-10-30,Consumer,Value,Social
+2613,2025-10-30,Consumer,Value,Referral
+2953,2025-10-30,Consumer,Value,Social
+3155,2025-10-30,Consumer,Premium,Paid Search
+3244,2025-10-30,Consumer,Regular,Social
+562,2025-11-01,Consumer,Regular,Organic Search
+902,2025-11-01,Small Business,Premium,Referral
+1776,2025-11-01,Consumer,Premium,Paid Search
+2208,2025-11-01,Consumer,Regular,Referral
+2708,2025-11-01,Consumer,Regular,In-store
+784,2025-11-02,Consumer,Premium,Social
+1931,2025-11-02,Consumer,Value,Organic Search
+2574,2025-11-02,Consumer,Premium,Referral
+1839,2025-11-03,Consumer,Value,In-store
+1630,2025-11-05,Consumer,Regular,Organic Search
+1231,2025-11-06,Consumer,Regular,Organic Search
+2132,2025-11-06,Consumer,Regular,Organic Search
+1996,2025-11-07,Consumer,Value,Paid Search
+2398,2025-11-07,Consumer,Value,In-store
+3427,2025-11-07,Consumer,Regular,Organic Search
+2612,2025-11-08,Consumer,Regular,Paid Search
+3385,2025-11-08,Consumer,Regular,Organic Search
+2151,2025-11-09,Small Business,Regular,Organic Search
+3576,2025-11-09,Consumer,Regular,In-store
+840,2025-11-10,Consumer,Premium,Organic Search
+1677,2025-11-10,Consumer,Value,Referral
+1534,2025-11-11,Consumer,Premium,Organic Search
+3257,2025-11-11,Consumer,Value,In-store
+397,2025-11-12,Consumer,Regular,In-store
+1211,2025-11-12,Consumer,Regular,Referral
+2340,2025-11-12,Consumer,Regular,Organic Search
+3559,2025-11-12,Consumer,Value,Referral
+1251,2025-11-14,Consumer,Regular,In-store
+1460,2025-11-14,Small Business,Regular,In-store
+1739,2025-11-14,Consumer,Regular,Referral
+2940,2025-11-14,Consumer,Value,Social
+290,2025-11-17,Consumer,Regular,In-store
+1480,2025-11-17,Consumer,Value,In-store
+2338,2025-11-17,Consumer,Value,Paid Search
+2408,2025-11-17,Consumer,Value,In-store
+889,2025-11-18,Consumer,Regular,In-store
+1273,2025-11-18,Consumer,Value,Social
+1296,2025-11-18,Consumer,Value,Organic Search
+2683,2025-11-18,Consumer,Value,Organic Search
+202,2025-11-19,Consumer,Regular,Social
+649,2025-11-19,Consumer,Premium,Paid Search
+1681,2025-11-19,Consumer,Premium,Paid Search
+2821,2025-11-19,Consumer,Regular,Referral
+522,2025-11-20,Consumer,Regular,In-store
+3296,2025-11-20,Consumer,Value,Referral
+1070,2025-11-21,Consumer,Regular,Social
+1406,2025-11-21,Consumer,Premium,Paid Search
+1628,2025-11-21,Consumer,Regular,Organic Search
+3480,2025-11-21,Consumer,Regular,Organic Search
+1729,2025-11-23,Consumer,Value,Referral
+2012,2025-11-23,Consumer,Regular,Organic Search
+2704,2025-11-23,Consumer,Premium,Organic Search
+2468,2025-11-24,Small Business,Regular,Paid Search
+2801,2025-11-24,Small Business,Value,Social
+3222,2025-11-24,Consumer,Value,Social
+3353,2025-11-25,Consumer,Value,Social
+2976,2025-11-26,Consumer,Premium,In-store
+3316,2025-11-26,Consumer,Regular,Organic Search
+265,2025-11-27,Consumer,Value,Referral
+494,2025-11-27,Consumer,Regular,Social
+670,2025-11-27,Consumer,Premium,Paid Search
+1311,2025-11-27,Consumer,Value,Organic Search
+1489,2025-11-27,Consumer,Value,Organic Search
+1732,2025-11-27,Consumer,Regular,Social
+2236,2025-11-27,Consumer,Regular,Referral
+79,2025-11-28,Consumer,Regular,In-store
+80,2025-11-28,Consumer,Regular,In-store
+926,2025-11-28,Consumer,Regular,Social
+1405,2025-11-28,Consumer,Regular,In-store
+2563,2025-11-28,Small Business,Premium,In-store
+1698,2025-11-29,Consumer,Regular,Organic Search
+2441,2025-11-30,Consumer,Regular,Organic Search
+949,2025-12-01,Consumer,Regular,In-store
+1019,2025-12-01,Small Business,Value,Organic Search
+1699,2025-12-01,Consumer,Regular,Referral
+2564,2025-12-02,Consumer,Regular,Referral
+336,2025-12-03,Consumer,Regular,Referral
+2008,2025-12-03,Consumer,Value,Paid Search
+2339,2025-12-03,Consumer,Premium,In-store
+2433,2025-12-03,Consumer,Regular,In-store
+3324,2025-12-04,Consumer,Premium,Paid Search
+1230,2025-12-05,Small Business,Regular,Paid Search
+2200,2025-12-06,Small Business,Regular,In-store
+409,2025-12-07,Consumer,Regular,Social
+2148,2025-12-07,Consumer,Regular,Paid Search
+358,2025-12-08,Consumer,Value,Organic Search
+490,2025-12-08,Consumer,Premium,Social
+1254,2025-12-08,Consumer,Regular,Organic Search
+2992,2025-12-08,Consumer,Value,Organic Search
+493,2025-12-09,Consumer,Regular,Organic Search
+1029,2025-12-09,Consumer,Value,Referral
+2488,2025-12-09,Consumer,Regular,Organic Search
+3301,2025-12-09,Consumer,Regular,Referral
+3539,2025-12-09,Consumer,Regular,Paid Search
+67,2025-12-10,Consumer,Value,Paid Search
+2823,2025-12-10,Consumer,Value,Organic Search
+3016,2025-12-10,Consumer,Value,Paid Search
+3384,2025-12-10,Consumer,Regular,Paid Search
+3351,2025-12-11,Small Business,Value,Paid Search
+930,2025-12-12,Consumer,Value,Social
+1314,2025-12-12,Small Business,Value,Organic Search
+1627,2025-12-12,Consumer,Premium,Paid Search
+3253,2025-12-12,Consumer,Premium,Paid Search
+1374,2025-12-13,Consumer,Regular,In-store
+1597,2025-12-13,Consumer,Premium,Paid Search
+2878,2025-12-13,Consumer,Value,Paid Search
+3344,2025-12-13,Consumer,Premium,Paid Search
+206,2025-12-14,Consumer,Value,Referral
+584,2025-12-14,Consumer,Value,Organic Search
+674,2025-12-14,Consumer,Premium,Social
+272,2025-12-15,Consumer,Value,In-store
+1701,2025-12-15,Consumer,Regular,In-store
+3330,2025-12-16,Consumer,Regular,In-store
+148,2025-12-17,Small Business,Regular,Referral
+775,2025-12-17,Consumer,Value,Organic Search
+1198,2025-12-17,Consumer,Value,Social
+3227,2025-12-17,Consumer,Regular,Referral
+30,2025-12-18,Consumer,Regular,Referral
+1387,2025-12-18,Consumer,Regular,Social
+2817,2025-12-18,Consumer,Value,Paid Search
+3594,2025-12-19,Consumer,Value,Organic Search
+214,2025-12-20,Consumer,Regular,In-store
+934,2025-12-20,Consumer,Regular,Paid Search
+122,2025-12-21,Consumer,Value,Organic Search
+2181,2025-12-21,Consumer,Regular,Referral
+2261,2025-12-21,Consumer,Regular,Organic Search
+3423,2025-12-21,Small Business,Premium,Paid Search
+3443,2025-12-21,Consumer,Premium,Social
+3520,2025-12-21,Consumer,Regular,Social
+2184,2025-12-22,Small Business,Regular,In-store
+2815,2025-12-22,Consumer,Value,Paid Search
+2959,2025-12-22,Consumer,Regular,Social
+53,2025-12-24,Consumer,Premium,Referral
+794,2025-12-24,Consumer,Regular,Paid Search
+1465,2025-12-24,Small Business,Value,Paid Search
+2000,2025-12-24,Consumer,Premium,Referral
+2733,2025-12-24,Consumer,Regular,Social
+3506,2025-12-24,Consumer,Regular,Referral
+1492,2025-12-25,Consumer,Premium,Paid Search
+2834,2025-12-25,Consumer,Regular,Paid Search
+3560,2025-12-25,Small Business,Regular,In-store
+1194,2025-12-26,Consumer,Value,Paid Search
+2122,2025-12-27,Consumer,Regular,Referral
+2207,2025-12-29,Consumer,Premium,Paid Search
+2399,2025-12-30,Consumer,Regular,Social
+3461,2025-12-30,Consumer,Premium,Paid Search
+1212,2025-12-31,Consumer,Premium,Organic Search
+1435,2025-12-31,Consumer,Value,In-store
+1595,2025-12-31,Small Business,Regular,Organic Search
+2480,2025-12-31,Small Business,Regular,Referral
+3015,2025-12-31,Consumer,Value,In-store
+3087,2025-12-31,Consumer,Regular,Organic Search
+3268,2025-12-31,Consumer,Value,In-store
+698,2026-01-01,Consumer,Value,Referral
+852,2026-01-01,Consumer,Regular,In-store
+609,2026-01-02,Consumer,Value,Paid Search
+1764,2026-01-02,Consumer,Premium,Organic Search
+2061,2026-01-02,Consumer,Regular,Social
+3123,2026-01-02,Consumer,Regular,Organic Search
+3447,2026-01-02,Consumer,Premium,Paid Search
+218,2026-01-03,Consumer,Regular,Referral
+755,2026-01-03,Consumer,Regular,Paid Search
+1164,2026-01-03,Consumer,Regular,Organic Search
+3073,2026-01-03,Small Business,Regular,Paid Search
+824,2026-01-04,Consumer,Regular,Paid Search
+1737,2026-01-04,Consumer,Regular,Paid Search
+2776,2026-01-04,Consumer,Value,In-store
+2890,2026-01-04,Consumer,Value,Organic Search
+3056,2026-01-04,Consumer,Value,Paid Search
+1553,2026-01-05,Consumer,Premium,Referral
+3363,2026-01-05,Consumer,Value,Organic Search
+1277,2026-01-06,Consumer,Regular,Referral
+349,2026-01-07,Consumer,Regular,In-store
+1646,2026-01-07,Consumer,Premium,Paid Search
+1804,2026-01-07,Consumer,Value,Social
+1933,2026-01-07,Consumer,Regular,In-store
+1268,2026-01-08,Consumer,Regular,Paid Search
+2002,2026-01-08,Small Business,Value,Paid Search
+972,2026-01-09,Consumer,Regular,In-store
+1417,2026-01-09,Consumer,Regular,Paid Search
+2885,2026-01-10,Small Business,Regular,Paid Search
+3032,2026-01-10,Small Business,Regular,In-store
+2104,2026-01-11,Consumer,Value,Referral
+331,2026-01-12,Consumer,Value,In-store
+1061,2026-01-12,Small Business,Regular,Referral
+1807,2026-01-12,Consumer,Value,Paid Search
+1972,2026-01-12,Consumer,Value,Referral
+342,2026-01-13,Consumer,Regular,Organic Search
+731,2026-01-13,Small Business,Value,Paid Search
+1760,2026-01-13,Consumer,Value,Referral
+3283,2026-01-13,Consumer,Premium,In-store
+189,2026-01-14,Consumer,Value,Paid Search
+408,2026-01-14,Consumer,Value,Social
+2958,2026-01-14,Consumer,Regular,Paid Search
+3382,2026-01-14,Consumer,Regular,Organic Search
+669,2026-01-16,Consumer,Value,In-store
+1449,2026-01-16,Consumer,Value,Referral
+3203,2026-01-16,Small Business,Premium,Referral
+429,2026-01-17,Small Business,Regular,In-store
+1398,2026-01-17,Consumer,Regular,In-store
+465,2026-01-19,Consumer,Regular,In-store
+583,2026-01-19,Small Business,Value,Social
+1831,2026-01-19,Small Business,Regular,Paid Search
+2053,2026-01-19,Consumer,Value,Organic Search
+3144,2026-01-19,Small Business,Value,Social
+3408,2026-01-19,Consumer,Value,Social
+177,2026-01-20,Consumer,Value,Social
+355,2026-01-20,Consumer,Regular,Social
+2918,2026-01-20,Consumer,Value,Paid Search
+1062,2026-01-21,Small Business,Value,Social
+1868,2026-01-22,Consumer,Regular,Referral
+1911,2026-01-22,Consumer,Regular,Paid Search
+1971,2026-01-22,Consumer,Regular,Referral
+2565,2026-01-22,Small Business,Regular,Organic Search
+14,2026-01-23,Consumer,Value,Social
+2864,2026-01-23,Consumer,Value,Organic Search
+545,2026-01-24,Consumer,Regular,In-store
+1955,2026-01-24,Consumer,Regular,Referral
+3306,2026-01-24,Consumer,Regular,Social
+1685,2026-01-25,Consumer,Value,Paid Search
+2277,2026-01-25,Consumer,Value,Organic Search
+2543,2026-01-25,Consumer,Premium,Paid Search
+2783,2026-01-25,Consumer,Value,Organic Search
+2791,2026-01-26,Consumer,Regular,Organic Search
+1208,2026-01-27,Consumer,Value,Organic Search
+1882,2026-01-27,Consumer,Value,Paid Search
+2126,2026-01-27,Consumer,Value,Paid Search
+3379,2026-01-27,Consumer,Premium,Paid Search
+3580,2026-01-27,Small Business,Regular,In-store
+333,2026-01-28,Consumer,Value,Organic Search
+401,2026-01-28,Consumer,Premium,Social
+1707,2026-01-28,Consumer,Regular,Referral
+205,2026-01-29,Consumer,Regular,Organic Search
+2384,2026-01-29,Small Business,Value,Organic Search
+2665,2026-01-29,Consumer,Regular,Social
+332,2026-01-30,Consumer,Premium,Referral
+830,2026-01-31,Consumer,Value,In-store
+1636,2026-01-31,Consumer,Value,Paid Search
+2426,2026-01-31,Consumer,Premium,In-store
+2857,2026-01-31,Consumer,Regular,Paid Search
+2966,2026-01-31,Small Business,Regular,Organic Search
+3047,2026-01-31,Small Business,Regular,Social
+3370,2026-01-31,Small Business,Regular,Referral
+357,2026-02-01,Consumer,Regular,Referral
+2300,2026-02-01,Consumer,Regular,Organic Search
+3055,2026-02-01,Consumer,Regular,Paid Search
+1005,2026-02-02,Consumer,Regular,Organic Search
+1063,2026-02-02,Consumer,Regular,Organic Search
+1399,2026-02-02,Consumer,Premium,Organic Search
+1446,2026-02-02,Consumer,Value,Paid Search
+1987,2026-02-02,Consumer,Regular,In-store
+2368,2026-02-02,Consumer,Regular,Referral
+805,2026-02-03,Consumer,Value,Referral
+916,2026-02-03,Small Business,Value,Paid Search
+1423,2026-02-03,Consumer,Value,In-store
+2529,2026-02-03,Consumer,Regular,Social
+1343,2026-02-05,Consumer,Value,Paid Search
+18,2026-02-06,Consumer,Regular,Paid Search
+391,2026-02-06,Consumer,Value,Organic Search
+2880,2026-02-06,Consumer,Regular,Paid Search
+3517,2026-02-07,Consumer,Regular,Social
+470,2026-02-08,Consumer,Regular,Social
+2329,2026-02-08,Small Business,Regular,Referral
+3128,2026-02-08,Consumer,Value,Social
+744,2026-02-09,Consumer,Value,Referral
+1621,2026-02-09,Consumer,Regular,Organic Search
+1631,2026-02-09,Small Business,Regular,Organic Search
+3534,2026-02-09,Consumer,Premium,Social
+929,2026-02-10,Consumer,Value,In-store
+1042,2026-02-10,Consumer,Value,In-store
+1775,2026-02-10,Consumer,Value,Paid Search
+3232,2026-02-10,Consumer,Regular,Organic Search
+3446,2026-02-10,Small Business,Value,In-store
+633,2026-02-11,Consumer,Regular,Referral
+1037,2026-02-11,Consumer,Regular,Organic Search
+97,2026-02-12,Small Business,Value,Organic Search
+602,2026-02-12,Small Business,Value,Paid Search
+629,2026-02-12,Consumer,Value,Referral
+2706,2026-02-12,Consumer,Value,Social
+3269,2026-02-12,Consumer,Regular,Paid Search
+576,2026-02-13,Consumer,Regular,Paid Search
+870,2026-02-14,Consumer,Value,Paid Search
+1014,2026-02-14,Consumer,Value,Paid Search
+1789,2026-02-14,Consumer,Premium,Social
+959,2026-02-15,Consumer,Value,Organic Search
+2451,2026-02-16,Consumer,Value,Paid Search
+3374,2026-02-16,Small Business,Regular,Referral
+812,2026-02-17,Consumer,Value,Organic Search
+3107,2026-02-17,Consumer,Value,Paid Search
+222,2026-02-18,Small Business,Regular,Organic Search
+3321,2026-02-19,Small Business,Premium,Social
+250,2026-02-20,Consumer,Regular,Organic Search
+1128,2026-02-20,Consumer,Regular,Organic Search
+1258,2026-02-20,Consumer,Regular,Referral
+924,2026-02-21,Consumer,Premium,Paid Search
+1171,2026-02-21,Consumer,Value,In-store
+1640,2026-02-21,Consumer,Regular,Organic Search
+851,2026-02-22,Consumer,Regular,Referral
+900,2026-02-22,Consumer,Value,Social
+1091,2026-02-22,Consumer,Regular,Social
+3237,2026-02-22,Consumer,Value,Referral
+334,2026-02-23,Small Business,Regular,In-store
+881,2026-02-24,Consumer,Value,Social
+266,2026-02-25,Consumer,Premium,Paid Search
+3508,2026-02-25,Consumer,Value,Social
+93,2026-02-26,Consumer,Value,Paid Search
+443,2026-02-27,Consumer,Premium,Paid Search
+708,2026-02-27,Consumer,Value,Organic Search
+1386,2026-02-28,Small Business,Regular,In-store
+3357,2026-02-28,Consumer,Value,Social
+113,2026-03-01,Consumer,Value,In-store
+191,2026-03-01,Small Business,Regular,Referral
+1440,2026-03-01,Consumer,Premium,Organic Search
+1816,2026-03-01,Consumer,Premium,Social
+1724,2026-03-02,Consumer,Value,Organic Search
+2628,2026-03-02,Consumer,Premium,Organic Search
+69,2026-03-03,Consumer,Regular,Social
+171,2026-03-03,Consumer,Regular,Paid Search
+2454,2026-03-03,Consumer,Premium,In-store
+246,2026-03-04,Consumer,Regular,Organic Search
+928,2026-03-04,Consumer,Regular,Referral
+1407,2026-03-04,Consumer,Value,Paid Search
+2175,2026-03-04,Consumer,Value,Referral
+2273,2026-03-04,Consumer,Regular,Paid Search
+2954,2026-03-05,Consumer,Premium,Organic Search
+3007,2026-03-06,Consumer,Value,Organic Search
+3400,2026-03-06,Consumer,Value,Referral
+142,2026-03-07,Consumer,Regular,Paid Search
+2542,2026-03-07,Consumer,Premium,In-store
+799,2026-03-08,Consumer,Value,Organic Search
+788,2026-03-09,Consumer,Value,Organic Search
+978,2026-03-09,Consumer,Value,In-store
+3098,2026-03-10,Consumer,Regular,Referral
+3148,2026-03-10,Consumer,Value,Paid Search
+767,2026-03-11,Consumer,Premium,Organic Search
+1129,2026-03-11,Consumer,Regular,In-store
+1438,2026-03-11,Consumer,Premium,Paid Search
+1653,2026-03-12,Consumer,Value,Referral
+1904,2026-03-13,Consumer,Regular,Organic Search
+3049,2026-03-13,Consumer,Value,Referral
+3335,2026-03-13,Consumer,Value,Organic Search
+1718,2026-03-15,Consumer,Regular,Organic Search
+219,2026-03-16,Small Business,Regular,Organic Search
+2359,2026-03-16,Consumer,Value,Referral
+2673,2026-03-16,Consumer,Value,In-store
+901,2026-03-17,Consumer,Value,Social
+3013,2026-03-17,Consumer,Value,In-store
+3230,2026-03-18,Consumer,Value,Organic Search
+245,2026-03-19,Consumer,Value,Social
+427,2026-03-19,Small Business,Regular,Paid Search
+1678,2026-03-19,Small Business,Value,Paid Search
+2874,2026-03-19,Consumer,Regular,Referral
+3241,2026-03-19,Consumer,Premium,Referral
+1018,2026-03-20,Consumer,Regular,Paid Search
+3024,2026-03-21,Consumer,Premium,Organic Search
+3303,2026-03-21,Consumer,Value,Paid Search
+1123,2026-03-22,Consumer,Premium,Social
+3394,2026-03-22,Consumer,Value,Paid Search
+2244,2026-03-23,Consumer,Regular,Organic Search
+3045,2026-03-28,Consumer,Value,Organic Search
+3258,2026-03-28,Consumer,Value,Social
+2352,2026-03-29,Small Business,Regular,Paid Search
+2979,2026-03-29,Consumer,Regular,Organic Search
+1768,2026-03-30,Consumer,Regular,Social
+2490,2026-03-30,Consumer,Value,Paid Search
+3163,2026-03-30,Consumer,Value,Paid Search
+719,2026-03-31,Consumer,Regular,Paid Search
+535,2026-04-01,Consumer,Value,Organic Search
+165,2026-04-02,Consumer,Value,Paid Search
+621,2026-04-02,Consumer,Value,In-store
+1587,2026-04-02,Consumer,Value,Referral
+2224,2026-04-02,Consumer,Value,Organic Search
+210,2026-04-03,Consumer,Regular,Organic Search
+411,2026-04-03,Consumer,Value,Paid Search
+1187,2026-04-03,Consumer,Regular,In-store
+1812,2026-04-03,Consumer,Value,Referral
+1200,2026-04-04,Consumer,Value,Referral
+1213,2026-04-04,Small Business,Value,Organic Search
+1914,2026-04-04,Consumer,Regular,Social
+2174,2026-04-04,Consumer,Value,Organic Search
+2512,2026-04-04,Small Business,Regular,Paid Search
+656,2026-04-05,Consumer,Regular,Referral
+711,2026-04-06,Consumer,Regular,In-store
+3281,2026-04-06,Consumer,Premium,Organic Search
+604,2026-04-07,Consumer,Regular,In-store
+1837,2026-04-07,Consumer,Value,Organic Search
+462,2026-04-08,Consumer,Value,Organic Search
+921,2026-04-08,Consumer,Regular,In-store
+454,2026-04-09,Consumer,Value,Social
+2108,2026-04-09,Consumer,Regular,Organic Search
+2187,2026-04-09,Small Business,Value,In-store
+2306,2026-04-11,Consumer,Premium,Referral
+394,2026-04-12,Consumer,Regular,Referral
+2483,2026-04-12,Consumer,Premium,Paid Search
+3066,2026-04-12,Consumer,Value,In-store
+3100,2026-04-12,Small Business,Premium,Paid Search
+203,2026-04-13,Consumer,Value,Organic Search
+848,2026-04-13,Consumer,Regular,Social
+1487,2026-04-13,Small Business,Value,In-store
+2320,2026-04-13,Consumer,Premium,Organic Search
+47,2026-04-14,Consumer,Regular,Paid Search
+622,2026-04-14,Small Business,Value,Social
+865,2026-04-14,Small Business,Value,Paid Search
+1484,2026-04-14,Consumer,Value,In-store
+1721,2026-04-14,Consumer,Regular,Paid Search
+117,2026-04-15,Consumer,Premium,Paid Search
+1507,2026-04-15,Consumer,Regular,Organic Search
+2699,2026-04-15,Consumer,Value,Organic Search
+2839,2026-04-15,Consumer,Value,Referral
+242,2026-04-16,Consumer,Regular,In-store
+1138,2026-04-16,Consumer,Premium,Paid Search
+1937,2026-04-16,Consumer,Value,Referral
+2136,2026-04-16,Consumer,Regular,Organic Search
+2495,2026-04-16,Consumer,Premium,In-store
+2583,2026-04-16,Consumer,Value,Social
+1582,2026-04-17,Consumer,Regular,Social
+977,2026-04-18,Consumer,Regular,Organic Search
+813,2026-04-19,Consumer,Regular,Social
+1261,2026-04-20,Consumer,Regular,Referral
+3373,2026-04-20,Consumer,Value,Paid Search
+3377,2026-04-20,Consumer,Value,Referral
+186,2026-04-21,Consumer,Regular,Paid Search
+459,2026-04-21,Consumer,Premium,Social
+567,2026-04-21,Small Business,Value,In-store
+3174,2026-04-21,Consumer,Value,Social
+884,2026-04-23,Consumer,Regular,Organic Search
+1498,2026-04-23,Consumer,Regular,Paid Search
+1648,2026-04-23,Consumer,Regular,Referral
+2227,2026-04-23,Consumer,Regular,Paid Search
+2242,2026-04-23,Consumer,Premium,Organic Search
+2921,2026-04-23,Consumer,Regular,Organic Search
+3180,2026-04-23,Consumer,Regular,Referral
+659,2026-04-24,Consumer,Value,Organic Search
+1676,2026-04-24,Consumer,Regular,Paid Search
+2199,2026-04-24,Consumer,Value,Organic Search
+2522,2026-04-24,Consumer,Premium,In-store
+2746,2026-04-25,Consumer,Value,In-store
+3368,2026-04-25,Consumer,Value,In-store
+1544,2026-04-26,Consumer,Regular,Paid Search
+2018,2026-04-26,Small Business,Regular,Paid Search
+2418,2026-04-26,Consumer,Regular,Social
+2432,2026-04-26,Consumer,Regular,Referral
+2559,2026-04-26,Consumer,Premium,Referral
+2771,2026-04-26,Consumer,Value,Organic Search
+680,2026-04-27,Consumer,Value,In-store
+1727,2026-04-27,Consumer,Regular,Referral
+646,2026-04-28,Consumer,Value,Referral
+1116,2026-04-28,Consumer,Value,In-store
+2405,2026-04-28,Consumer,Value,In-store
+796,2026-04-29,Consumer,Value,Paid Search
+3270,2026-04-29,Consumer,Value,Organic Search
+795,2026-04-30,Consumer,Regular,Referral
+1696,2026-04-30,Consumer,Regular,Organic Search
+2852,2026-04-30,Consumer,Regular,Social
+3169,2026-04-30,Consumer,Regular,Social
+3491,2026-04-30,Consumer,Regular,In-store
+3577,2026-04-30,Consumer,Regular,In-store
+1754,2026-05-01,Consumer,Value,Paid Search
+3042,2026-05-01,Small Business,Premium,Organic Search
+3545,2026-05-01,Consumer,Value,Social
+1620,2026-05-02,Consumer,Value,Organic Search
+2411,2026-05-02,Consumer,Value,Social
+419,2026-05-03,Consumer,Regular,Organic Search
+1517,2026-05-03,Consumer,Regular,In-store
+1919,2026-05-03,Consumer,Value,Organic Search
+2725,2026-05-03,Consumer,Value,In-store
+2906,2026-05-03,Consumer,Premium,Social
+444,2026-05-04,Consumer,Regular,In-store
+1186,2026-05-04,Consumer,Regular,Social
+1895,2026-05-04,Consumer,Regular,Paid Search
+2905,2026-05-04,Consumer,Premium,In-store
+52,2026-05-05,Consumer,Regular,Referral
+225,2026-05-05,Consumer,Regular,Referral
+1450,2026-05-05,Consumer,Regular,Organic Search
+1688,2026-05-05,Consumer,Regular,Organic Search
+1745,2026-05-05,Consumer,Value,In-store
+2654,2026-05-05,Small Business,Value,Organic Search
+3365,2026-05-05,Consumer,Regular,Organic Search
+137,2026-05-06,Consumer,Value,In-store
+564,2026-05-06,Consumer,Value,Organic Search
+2868,2026-05-06,Consumer,Premium,Paid Search
+2515,2026-05-07,Consumer,Value,In-store
+34,2026-05-08,Consumer,Value,Organic Search
+2249,2026-05-08,Consumer,Regular,Referral
+94,2026-05-09,Small Business,Regular,In-store
+498,2026-05-09,Consumer,Regular,In-store
+341,2026-05-10,Consumer,Value,In-store
+1172,2026-05-10,Consumer,Regular,Paid Search
+2747,2026-05-10,Consumer,Value,Paid Search
+717,2026-05-11,Consumer,Value,In-store
+822,2026-05-11,Consumer,Regular,Organic Search
+1545,2026-05-11,Consumer,Regular,Organic Search
+3012,2026-05-11,Consumer,Premium,Social
+3482,2026-05-11,Consumer,Value,In-store
+92,2026-05-12,Consumer,Premium,Paid Search
+2216,2026-05-12,Consumer,Regular,Organic Search
+48,2026-05-13,Consumer,Premium,Paid Search
+1657,2026-05-14,Consumer,Value,Referral
+1762,2026-05-14,Consumer,Regular,Referral
+1833,2026-05-14,Consumer,Value,Paid Search
+2554,2026-05-14,Consumer,Value,Referral
+3029,2026-05-14,Consumer,Regular,Referral
+759,2026-05-15,Consumer,Regular,In-store
+2475,2026-05-15,Consumer,Value,Paid Search
+376,2026-05-16,Small Business,Regular,Social
+1329,2026-05-16,Consumer,Premium,Paid Search
+1658,2026-05-16,Consumer,Value,Organic Search
+1993,2026-05-16,Consumer,Regular,Paid Search
+1854,2026-05-17,Consumer,Premium,Referral
+2068,2026-05-17,Consumer,Value,In-store
+134,2026-05-18,Consumer,Value,Paid Search
+1838,2026-05-18,Consumer,Regular,In-store
+2016,2026-05-18,Small Business,Regular,Referral
+2301,2026-05-18,Consumer,Premium,In-store
+523,2026-05-19,Small Business,Value,Paid Search
+3399,2026-05-19,Consumer,Value,Social
+1436,2026-05-20,Small Business,Value,Social
+2504,2026-05-20,Consumer,Premium,In-store
+3088,2026-05-20,Consumer,Regular,Paid Search
+3175,2026-05-20,Consumer,Premium,In-store
+3332,2026-05-20,Small Business,Value,Organic Search
+571,2026-05-21,Consumer,Value,Paid Search
+712,2026-05-21,Small Business,Value,In-store
+1559,2026-05-21,Consumer,Value,Paid Search
+2596,2026-05-22,Consumer,Regular,In-store
+551,2026-05-23,Consumer,Value,Organic Search
+1578,2026-05-24,Consumer,Regular,In-store
+2305,2026-05-24,Consumer,Premium,Social
+2358,2026-05-24,Consumer,Regular,In-store
+2622,2026-05-24,Consumer,Regular,Paid Search
+1856,2026-05-25,Small Business,Premium,Organic Search
+2377,2026-05-25,Consumer,Premium,Organic Search
+114,2026-05-26,Consumer,Regular,Organic Search
+849,2026-05-26,Consumer,Value,Organic Search
+1192,2026-05-26,Consumer,Regular,In-store
+1585,2026-05-26,Consumer,Value,In-store
+1991,2026-05-26,Consumer,Value,Organic Search
+188,2026-05-27,Consumer,Value,Social
+1803,2026-05-28,Consumer,Value,Organic Search
+1989,2026-05-28,Consumer,Value,Paid Search
+2169,2026-05-28,Consumer,Regular,Organic Search
+2395,2026-05-28,Consumer,Value,Social
+2462,2026-05-28,Consumer,Regular,Social
+2073,2026-05-29,Consumer,Value,Organic Search
+2814,2026-05-29,Consumer,Value,Organic Search
+3043,2026-05-29,Consumer,Regular,Referral
+3095,2026-05-29,Consumer,Premium,Social
+810,2026-05-31,Small Business,Value,Paid Search
+1365,2026-05-31,Consumer,Value,Organic Search
+1722,2026-05-31,Consumer,Regular,In-store
+2549,2026-05-31,Consumer,Value,Paid Search
+2343,2026-06-01,Consumer,Value,Organic Search
+3067,2026-06-01,Consumer,Regular,Referral
+3210,2026-06-01,Consumer,Regular,Organic Search
+378,2026-06-02,Consumer,Regular,Paid Search
+477,2026-06-02,Consumer,Regular,Referral
+530,2026-06-02,Consumer,Regular,Organic Search
+771,2026-06-02,Consumer,Value,Social
+895,2026-06-03,Consumer,Regular,Organic Search
+2138,2026-06-03,Consumer,Regular,Paid Search
+2553,2026-06-03,Consumer,Value,Organic Search
+3234,2026-06-03,Consumer,Value,Social
+1921,2026-06-04,Consumer,Value,Organic Search
+2357,2026-06-05,Consumer,Regular,Social
+904,2026-06-06,Consumer,Regular,Referral
+3154,2026-06-06,Consumer,Regular,In-store
+867,2026-06-07,Consumer,Premium,In-store
+1442,2026-06-07,Consumer,Regular,In-store
+1874,2026-06-07,Small Business,Regular,Social
+2652,2026-06-07,Consumer,Value,Organic Search
+126,2026-06-08,Small Business,Regular,Social
+653,2026-06-08,Consumer,Regular,Paid Search
+2764,2026-06-08,Consumer,Premium,Organic Search
+3581,2026-06-08,Consumer,Regular,In-store
+17,2026-06-10,Consumer,Regular,Organic Search
+2361,2026-06-10,Consumer,Value,In-store
+2222,2026-06-11,Consumer,Regular,Social
+2422,2026-06-11,Consumer,Regular,In-store
+1274,2026-06-12,Consumer,Value,In-store
+1481,2026-06-12,Consumer,Value,In-store
+3492,2026-06-12,Consumer,Value,Referral
+469,2026-06-13,Consumer,Regular,Social
+1055,2026-06-13,Small Business,Value,Social
+403,2026-06-14,Consumer,Premium,Paid Search
+2840,2026-06-14,Consumer,Regular,Organic Search
+1916,2026-06-15,Consumer,Value,Social
+3278,2026-06-15,Consumer,Value,Referral
+3356,2026-06-15,Consumer,Value,Paid Search
+1959,2026-06-16,Consumer,Regular,Organic Search
+2316,2026-06-16,Consumer,Regular,Organic Search
+2158,2026-06-17,Consumer,Regular,Organic Search
+2813,2026-06-17,Consumer,Regular,Referral
+2939,2026-06-17,Consumer,Premium,Paid Search
+3532,2026-06-17,Consumer,Premium,Organic Search
+23,2026-06-18,Consumer,Premium,Organic Search
+237,2026-06-18,Consumer,Value,Organic Search
+2792,2026-06-18,Consumer,Value,In-store
+2922,2026-06-18,Consumer,Regular,In-store
+3096,2026-06-18,Consumer,Regular,In-store
+3390,2026-06-18,Small Business,Premium,Organic Search
+955,2026-06-19,Consumer,Value,Referral
+1075,2026-06-21,Consumer,Value,Organic Search
+3103,2026-06-21,Consumer,Regular,In-store
+73,2026-06-23,Consumer,Premium,Paid Search
+328,2026-06-23,Consumer,Premium,Social
+1453,2026-06-23,Consumer,Value,Social
+1604,2026-06-23,Consumer,Value,Social
+1962,2026-06-23,Consumer,Premium,In-store
+3226,2026-06-23,Consumer,Regular,Referral
+21,2026-06-24,Consumer,Regular,Paid Search
+84,2026-06-24,Consumer,Value,Organic Search
+474,2026-06-25,Consumer,Value,Organic Search
+2072,2026-06-26,Consumer,Value,Social
+2649,2026-06-26,Consumer,Premium,Organic Search
+2851,2026-06-26,Consumer,Premium,Paid Search
+3497,2026-06-26,Consumer,Premium,Organic Search
+3593,2026-06-26,Consumer,Value,In-store
+666,2026-06-27,Consumer,Premium,In-store
+3401,2026-06-28,Consumer,Value,Paid Search
+388,2026-06-29,Consumer,Regular,Organic Search
+707,2026-06-29,Consumer,Regular,Organic Search
+3430,2026-06-29,Consumer,Value,In-store
+869,2026-06-30,Consumer,Value,Paid Search
+1278,2026-06-30,Consumer,Regular,In-store
+1370,2026-06-30,Consumer,Value,Paid Search
+1272,2026-07-01,Consumer,Regular,Organic Search
+2112,2026-07-01,Consumer,Regular,Paid Search
+754,2026-07-02,Small Business,Premium,Social
+1467,2026-07-02,Consumer,Value,Paid Search
+2729,2026-07-02,Small Business,Regular,Paid Search
+1890,2026-07-03,Consumer,Regular,Referral
+2917,2026-07-03,Consumer,Premium,In-store
+216,2026-07-04,Consumer,Premium,Organic Search
+1205,2026-07-04,Small Business,Value,Referral
+1270,2026-07-04,Consumer,Value,Social
+120,2026-07-05,Consumer,Regular,In-store
+510,2026-07-05,Consumer,Value,Referral
+1243,2026-07-05,Consumer,Value,Organic Search
+1605,2026-07-05,Consumer,Regular,In-store
+3246,2026-07-05,Consumer,Value,Organic Search
+835,2026-07-06,Consumer,Regular,Organic Search
+994,2026-07-06,Consumer,Premium,Paid Search
+2999,2026-07-06,Consumer,Regular,Social
+3020,2026-07-06,Consumer,Regular,Organic Search
+1000,2026-07-07,Consumer,Premium,In-store
+1216,2026-07-08,Consumer,Value,Social
+1468,2026-07-08,Consumer,Regular,Social
+1674,2026-07-08,Consumer,Regular,Organic Search
+1748,2026-07-08,Consumer,Value,Organic Search
+2035,2026-07-08,Consumer,Regular,Paid Search
+2556,2026-07-08,Consumer,Regular,Social
+2998,2026-07-08,Consumer,Value,Referral
+195,2026-07-09,Consumer,Regular,In-store
+281,2026-07-09,Consumer,Value,Paid Search
+985,2026-07-09,Consumer,Value,Paid Search
+3069,2026-07-09,Small Business,Regular,Paid Search
+385,2026-07-10,Consumer,Regular,Paid Search
+970,2026-07-10,Consumer,Regular,Social
+951,2026-07-11,Consumer,Regular,Social
+54,2026-07-12,Consumer,Premium,Social
+2125,2026-07-12,Consumer,Value,Paid Search
+3563,2026-07-12,Small Business,Regular,In-store
+5,2026-07-13,Consumer,Premium,Paid Search
+2465,2026-07-13,Consumer,Value,Organic Search
+3536,2026-07-13,Consumer,Regular,Paid Search
+1048,2026-07-14,Consumer,Regular,Paid Search
+2048,2026-07-14,Consumer,Regular,Paid Search
+2310,2026-07-14,Consumer,Regular,Organic Search
+2413,2026-07-14,Consumer,Regular,Paid Search
+2624,2026-07-14,Consumer,Value,Referral
+1602,2026-07-15,Small Business,Regular,Organic Search
+3465,2026-07-15,Small Business,Regular,Organic Search
+252,2026-07-16,Consumer,Value,In-store
+327,2026-07-16,Consumer,Value,In-store
+2416,2026-07-16,Consumer,Regular,Paid Search
+2936,2026-07-16,Consumer,Regular,Organic Search
+1201,2026-07-17,Consumer,Value,Paid Search
+3171,2026-07-17,Consumer,Regular,In-store
+1111,2026-07-18,Consumer,Regular,In-store
+2744,2026-07-18,Consumer,Regular,Paid Search
+2145,2026-07-19,Consumer,Premium,Organic Search
+2336,2026-07-19,Small Business,Value,Organic Search
+3512,2026-07-19,Consumer,Regular,In-store
+713,2026-07-20,Consumer,Value,Social
+1995,2026-07-20,Consumer,Value,In-store
+2182,2026-07-20,Small Business,Value,Social
+3065,2026-07-20,Consumer,Regular,Social
+578,2026-07-21,Consumer,Regular,Paid Search
+2127,2026-07-21,Consumer,Regular,Organic Search
+2202,2026-07-21,Consumer,Regular,In-store
+660,2026-07-22,Small Business,Value,Paid Search
+1543,2026-07-22,Consumer,Regular,In-store
+2007,2026-07-22,Consumer,Value,Paid Search
+3209,2026-07-22,Consumer,Regular,Social
+3475,2026-07-22,Consumer,Value,Organic Search
+1561,2026-07-23,Consumer,Premium,In-store
+2119,2026-07-23,Consumer,Premium,Organic Search
+2663,2026-07-23,Consumer,Premium,Organic Search
+3546,2026-07-23,Small Business,Regular,Referral
+2177,2026-07-24,Consumer,Value,Paid Search
+942,2026-07-25,Small Business,Value,In-store
+518,2026-07-26,Consumer,Regular,Social
+162,2026-07-28,Consumer,Value,In-store
+641,2026-07-28,Consumer,Value,Organic Search
+420,2026-07-29,Consumer,Regular,In-store
+215,2026-07-30,Consumer,Regular,In-store
+594,2026-07-30,Consumer,Value,In-store
+1190,2026-07-30,Small Business,Regular,Paid Search
+2096,2026-07-31,Consumer,Regular,Social
+2578,2026-07-31,Consumer,Regular,In-store
+3496,2026-07-31,Consumer,Value,Organic Search
+3596,2026-07-31,Consumer,Premium,In-store
+95,2026-08-01,Consumer,Premium,Organic Search
+1291,2026-08-01,Consumer,Value,Paid Search
+1580,2026-08-01,Consumer,Value,Paid Search
+2831,2026-08-01,Consumer,Value,Organic Search
+623,2026-08-02,Consumer,Premium,Social
+768,2026-08-02,Consumer,Regular,Paid Search
+1228,2026-08-02,Consumer,Value,Referral
+2420,2026-08-02,Consumer,Premium,Organic Search
+2623,2026-08-02,Consumer,Premium,Referral
+43,2026-08-03,Consumer,Regular,Organic Search
+65,2026-08-04,Consumer,Value,Organic Search
+2686,2026-08-04,Consumer,Regular,In-store
+86,2026-08-05,Small Business,Value,Paid Search
+2356,2026-08-05,Consumer,Value,Organic Search
+2911,2026-08-05,Consumer,Value,Paid Search
+74,2026-08-06,Consumer,Value,Organic Search
+1182,2026-08-06,Consumer,Value,Social
+3153,2026-08-06,Consumer,Premium,Paid Search
+3179,2026-08-06,Consumer,Regular,Referral
+197,2026-08-07,Consumer,Regular,Paid Search
+1728,2026-08-07,Consumer,Premium,Paid Search
+1810,2026-08-07,Small Business,Value,In-store
+374,2026-08-08,Consumer,Regular,In-store
+451,2026-08-08,Consumer,Value,Referral
+1021,2026-08-08,Consumer,Value,Social
+1169,2026-08-08,Consumer,Regular,Organic Search
+1226,2026-08-08,Consumer,Premium,Organic Search
+2328,2026-08-08,Consumer,Value,In-store
+2664,2026-08-08,Consumer,Value,Paid Search
+438,2026-08-09,Consumer,Value,Organic Search
+2695,2026-08-09,Consumer,Value,Social
+2822,2026-08-09,Consumer,Regular,Paid Search
+2867,2026-08-09,Consumer,Regular,In-store
+1119,2026-08-10,Consumer,Regular,Referral
+2250,2026-08-10,Consumer,Regular,Paid Search
+2636,2026-08-10,Consumer,Regular,In-store
+239,2026-08-11,Small Business,Value,Referral
+504,2026-08-11,Consumer,Regular,Organic Search
+1414,2026-08-11,Consumer,Premium,Organic Search
+3221,2026-08-12,Consumer,Regular,Social
+1427,2026-08-14,Consumer,Value,Social
+3279,2026-08-14,Consumer,Regular,Organic Search
+538,2026-08-15,Consumer,Premium,In-store
+1909,2026-08-15,Consumer,Premium,Organic Search
+2195,2026-08-15,Consumer,Regular,In-store
+2312,2026-08-15,Consumer,Regular,In-store
+1390,2026-08-17,Consumer,Premium,In-store
+3187,2026-08-17,Consumer,Value,Paid Search
+190,2026-08-18,Consumer,Value,Social
+1482,2026-08-18,Small Business,Value,Organic Search
+3050,2026-08-18,Consumer,Regular,In-store
+761,2026-08-20,Consumer,Value,Referral
+1900,2026-08-20,Consumer,Value,In-store
+2782,2026-08-21,Consumer,Value,Organic Search
+1266,2026-08-22,Consumer,Value,Referral
+2246,2026-08-22,Consumer,Regular,Organic Search
+475,2026-08-23,Consumer,Value,In-store
+200,2026-08-24,Consumer,Premium,Paid Search
+705,2026-08-24,Consumer,Regular,Referral
+1908,2026-08-24,Consumer,Regular,Referral
+2256,2026-08-25,Consumer,Regular,Organic Search
+2349,2026-08-25,Consumer,Value,Paid Search
+3160,2026-08-25,Consumer,Value,In-store
+3273,2026-08-26,Consumer,Value,Social
+46,2026-08-27,Consumer,Value,Social
+789,2026-08-27,Consumer,Regular,Organic Search
+60,2026-08-28,Consumer,Premium,Paid Search
+645,2026-08-28,Consumer,Premium,In-store
+1835,2026-08-28,Consumer,Value,Organic Search
+313,2026-08-29,Consumer,Value,Organic Search
+507,2026-08-29,Consumer,Regular,Organic Search
+1133,2026-08-29,Consumer,Regular,Paid Search
+2032,2026-08-30,Consumer,Premium,In-store
+2233,2026-08-30,Consumer,Value,Organic Search
+2272,2026-08-30,Consumer,Value,Paid Search
+2638,2026-08-30,Consumer,Value,Organic Search
+1041,2026-08-31,Consumer,Value,Referral
+1232,2026-08-31,Consumer,Regular,Paid Search
+2255,2026-08-31,Small Business,Regular,Paid Search
+601,2026-09-01,Consumer,Premium,Referral
+2895,2026-09-01,Consumer,Value,Paid Search
+3133,2026-09-01,Consumer,Regular,Organic Search
+3329,2026-09-01,Consumer,Regular,In-store
+387,2026-09-02,Consumer,Value,Paid Search
+574,2026-09-02,Consumer,Value,Social
+3200,2026-09-02,Consumer,Value,Organic Search
+804,2026-09-03,Consumer,Value,Organic Search
+8,2026-09-04,Consumer,Value,Organic Search
+2770,2026-09-04,Consumer,Value,In-store
+550,2026-09-05,Consumer,Value,Paid Search
+1237,2026-09-05,Consumer,Regular,Organic Search
+235,2026-09-06,Consumer,Regular,Paid Search
+837,2026-09-06,Consumer,Regular,Organic Search
+3537,2026-09-06,Consumer,Regular,Paid Search
+356,2026-09-07,Consumer,Premium,Social
+1260,2026-09-07,Consumer,Regular,Social
+3424,2026-09-07,Consumer,Value,Paid Search
+1145,2026-09-09,Consumer,Regular,Paid Search
+1528,2026-09-09,Small Business,Regular,In-store
+314,2026-09-10,Small Business,Regular,In-store
+1125,2026-09-10,Consumer,Regular,Paid Search
+3186,2026-09-10,Consumer,Regular,Organic Search
+428,2026-09-11,Consumer,Value,In-store
+1371,2026-09-12,Consumer,Value,In-store
+1720,2026-09-12,Consumer,Value,Referral
+1140,2026-09-13,Consumer,Regular,Social
+2023,2026-09-13,Consumer,Value,Paid Search
+2290,2026-09-13,Consumer,Regular,Organic Search
+1033,2026-09-14,Consumer,Regular,In-store
+2101,2026-09-14,Small Business,Regular,Organic Search
+1700,2026-09-15,Consumer,Regular,Paid Search
+2436,2026-09-15,Consumer,Value,Organic Search
+913,2026-09-16,Consumer,Value,In-store
+1173,2026-09-16,Consumer,Regular,Organic Search
+1244,2026-09-16,Consumer,Value,Referral
+3017,2026-09-16,Consumer,Premium,Referral
+3380,2026-09-16,Consumer,Value,Organic Search
+133,2026-09-17,Consumer,Value,In-store
+751,2026-09-17,Consumer,Value,In-store
+1950,2026-09-17,Consumer,Value,Social
+76,2026-09-18,Consumer,Value,Referral
+894,2026-09-18,Small Business,Premium,Organic Search
+3068,2026-09-18,Consumer,Regular,In-store
+615,2026-09-19,Consumer,Premium,Organic Search
+1430,2026-09-19,Consumer,Value,Paid Search
+2588,2026-09-19,Consumer,Value,Referral
+2760,2026-09-19,Small Business,Value,Referral
+249,2026-09-20,Small Business,Regular,Social
+2830,2026-09-20,Consumer,Regular,Referral
+194,2026-09-21,Consumer,Regular,In-store
+702,2026-09-21,Consumer,Regular,Paid Search
+1709,2026-09-21,Consumer,Value,Paid Search
+679,2026-09-22,Consumer,Value,Social
+1736,2026-09-22,Consumer,Value,In-store
+1849,2026-09-22,Small Business,Value,Social
+3518,2026-09-22,Small Business,Value,Organic Search
+1347,2026-09-23,Consumer,Regular,In-store
+1574,2026-09-23,Consumer,Regular,Referral
+3251,2026-09-23,Small Business,Premium,Organic Search
+2381,2026-09-24,Consumer,Value,Organic Search
+696,2026-09-25,Consumer,Value,In-store
+2757,2026-09-25,Consumer,Regular,In-store
+3152,2026-09-25,Consumer,Premium,Organic Search
+3250,2026-09-25,Small Business,Regular,Organic Search
+1050,2026-09-26,Consumer,Value,Organic Search
+1912,2026-09-26,Consumer,Value,In-store
+343,2026-09-27,Small Business,Value,Organic Search
+56,2026-09-28,Small Business,Value,Social
+238,2026-09-29,Consumer,Regular,Organic Search
+2294,2026-09-29,Small Business,Value,Organic Search
+2961,2026-09-29,Consumer,Regular,Social
+560,2026-09-30,Consumer,Regular,In-store

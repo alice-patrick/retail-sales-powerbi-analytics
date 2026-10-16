@@ -1,0 +1,30 @@
+table DimChannels
+	lineageTag: c3ffa032-0e82-5525-b408-682d57aae7cf
+
+	column ChannelID
+		dataType: int64
+		lineageTag: 805ff1b6-2d16-531e-ba7d-e16be38f5432
+		summarizeBy: none
+		sourceColumn: ChannelID
+
+	column Channel
+		dataType: string
+		lineageTag: 92967211-8815-528e-8cdb-12aff71814bc
+		summarizeBy: none
+		sourceColumn: Channel
+
+	partition DimChannels = m
+		mode: import
+		source =
+				let
+				    CompressedCSV = Binary.FromText("c85IzMtLzfF00XGGsHi5DHX883Iy81J5uYx0glJLEjNzFIJL8otSi3m5jHV8E4uyU0sKchKTgfIA", BinaryEncoding.Base64),
+				    Source = Csv.Document(Binary.Decompress(CompressedCSV, Compression.Deflate), [Delimiter=",", Columns=2, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Headers, {{"ChannelID", Int64.Type}, {"Channel", type text}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

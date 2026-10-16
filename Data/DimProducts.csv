@@ -1,0 +1,97 @@
+ProductID,SKU,ProductName,Category,Subcategory,Brand,StandardPrice,UnitCost
+1001,OR-1001,Wireless Earbuds Core,Electronics,Audio,Arden,54.43,38.73
+1002,OR-1002,Wireless Earbuds Plus,Electronics,Audio,Pavo,233.62,170.04
+1003,OR-1003,Noise-Cancelling Headphones Core,Electronics,Audio,Pulse,184.02,120.81
+1004,OR-1004,Noise-Cancelling Headphones Plus,Electronics,Audio,Nori,120.60,90.73
+1005,OR-1005,Bluetooth Speaker Core,Electronics,Audio,Astra,188.37,127.41
+1006,OR-1006,Bluetooth Speaker Plus,Electronics,Audio,Bello,283.19,194.21
+1007,OR-1007,Soundbar Core,Electronics,Audio,North,130.88,93.07
+1008,OR-1008,Soundbar Plus,Electronics,Audio,Arden,249.36,180.71
+1009,OR-1009,USB-C Hub Core,Electronics,Computing,Pulse,168.03,124.58
+1010,OR-1010,USB-C Hub Plus,Electronics,Computing,Astra,253.65,176.91
+1011,OR-1011,Mechanical Keyboard Core,Electronics,Computing,North,131.52,93.66
+1012,OR-1012,Mechanical Keyboard Plus,Electronics,Computing,Nori,365.92,281.52
+1013,OR-1013,Portable SSD Core,Electronics,Computing,Pulse,81.20,54.41
+1014,OR-1014,Portable SSD Plus,Electronics,Computing,Arden,91.60,71.16
+1015,OR-1015,Wireless Mouse Core,Electronics,Computing,Nori,125.08,97.45
+1016,OR-1016,Wireless Mouse Plus,Electronics,Computing,Solstice,345.59,265.32
+1017,OR-1017,Fast Charger Core,Electronics,Mobile,Aven,166.66,116.99
+1018,OR-1018,Fast Charger Plus,Electronics,Mobile,Astra,161.60,113.97
+1019,OR-1019,Power Bank Core,Electronics,Mobile,Pavo,223.66,166.56
+1020,OR-1020,Power Bank Plus,Electronics,Mobile,Pavo,162.85,116.13
+1021,OR-1021,Smartwatch Core,Electronics,Mobile,Pavo,111.42,77.30
+1022,OR-1022,Smartwatch Plus,Electronics,Mobile,Pulse,322.07,248.67
+1023,OR-1023,Phone Stand Core,Electronics,Mobile,Bello,50.39,38.50
+1024,OR-1024,Phone Stand Plus,Electronics,Mobile,Pavo,126.96,94.54
+1025,OR-1025,Air Fryer Core,Home & Living,Kitchen,Bello,27.69,13.90
+1026,OR-1026,Air Fryer Plus,Home & Living,Kitchen,Aven,105.44,58.95
+1027,OR-1027,Coffee Grinder Core,Home & Living,Kitchen,Aven,125.46,60.12
+1028,OR-1028,Coffee Grinder Plus,Home & Living,Kitchen,Arden,114.78,68.42
+1029,OR-1029,Kettle Core,Home & Living,Kitchen,Solstice,17.15,8.20
+1030,OR-1030,Kettle Plus,Home & Living,Kitchen,Arden,154.32,79.19
+1031,OR-1031,Blender Core,Home & Living,Kitchen,Arden,125.59,67.58
+1032,OR-1032,Blender Plus,Home & Living,Kitchen,Pulse,98.20,52.06
+1033,OR-1033,Desk Lamp Core,Home & Living,Decor,Astra,50.88,25.46
+1034,OR-1034,Desk Lamp Plus,Home & Living,Decor,North,66.89,32.58
+1035,OR-1035,Ceramic Vase Core,Home & Living,Decor,Elm,12.37,6.78
+1036,OR-1036,Ceramic Vase Plus,Home & Living,Decor,Astra,122.29,69.88
+1037,OR-1037,Throw Blanket Core,Home & Living,Decor,Pulse,88.71,44.62
+1038,OR-1038,Throw Blanket Plus,Home & Living,Decor,Elm,55.20,28.28
+1039,OR-1039,Wall Clock Core,Home & Living,Decor,Elm,71.95,36.97
+1040,OR-1040,Wall Clock Plus,Home & Living,Decor,Nori,39.63,20.02
+1041,OR-1041,Storage Baskets Core,Home & Living,Storage,Pulse,100.15,51.54
+1042,OR-1042,Storage Baskets Plus,Home & Living,Storage,Pavo,199.69,108.43
+1043,OR-1043,Drawer Organiser Core,Home & Living,Storage,North,109.37,65.79
+1044,OR-1044,Drawer Organiser Plus,Home & Living,Storage,Elm,157.63,76.34
+1045,OR-1045,Shelf Set Core,Home & Living,Storage,Pulse,79.65,37.78
+1046,OR-1046,Shelf Set Plus,Home & Living,Storage,Pavo,57.16,31.41
+1047,OR-1047,Shoe Rack Core,Home & Living,Storage,Astra,95.38,46.89
+1048,OR-1048,Shoe Rack Plus,Home & Living,Storage,Nori,149.21,73.82
+1049,OR-1049,Yoga Mat Core,Sports & Outdoors,Fitness,Solstice,32.87,20.57
+1050,OR-1050,Yoga Mat Plus,Sports & Outdoors,Fitness,North,100.35,52.47
+1051,OR-1051,Adjustable Dumbbells Core,Sports & Outdoors,Fitness,North,68.64,35.94
+1052,OR-1052,Adjustable Dumbbells Plus,Sports & Outdoors,Fitness,Aven,130.07,78.89
+1053,OR-1053,Resistance Bands Core,Sports & Outdoors,Fitness,Arden,91.99,52.99
+1054,OR-1054,Resistance Bands Plus,Sports & Outdoors,Fitness,Arden,149.87,78.15
+1055,OR-1055,Foam Roller Core,Sports & Outdoors,Fitness,Arden,109.72,62.41
+1056,OR-1056,Foam Roller Plus,Sports & Outdoors,Fitness,North,215.94,124.02
+1057,OR-1057,Insulated Bottle Core,Sports & Outdoors,Outdoor,Pavo,127.75,78.36
+1058,OR-1058,Insulated Bottle Plus,Sports & Outdoors,Outdoor,Aven,92.01,47.20
+1059,OR-1059,Camping Lantern Core,Sports & Outdoors,Outdoor,Solstice,66.38,37.66
+1060,OR-1060,Camping Lantern Plus,Sports & Outdoors,Outdoor,Nori,118.60,75.48
+1061,OR-1061,Daypack Core,Sports & Outdoors,Outdoor,Bello,61.52,31.97
+1062,OR-1062,Daypack Plus,Sports & Outdoors,Outdoor,Pavo,185.06,103.36
+1063,OR-1063,Portable Chair Core,Sports & Outdoors,Outdoor,Nori,13.06,7.30
+1064,OR-1064,Portable Chair Plus,Sports & Outdoors,Outdoor,Pulse,177.93,106.75
+1065,OR-1065,Bike Light Core,Sports & Outdoors,Cycling,Pavo,116.55,73.73
+1066,OR-1066,Bike Light Plus,Sports & Outdoors,Cycling,North,168.77,103.70
+1067,OR-1067,Cycling Gloves Core,Sports & Outdoors,Cycling,Arden,139.33,76.10
+1068,OR-1068,Cycling Gloves Plus,Sports & Outdoors,Cycling,North,99.15,64.35
+1069,OR-1069,Helmet Core,Sports & Outdoors,Cycling,Arden,21.48,10.98
+1070,OR-1070,Helmet Plus,Sports & Outdoors,Cycling,Arden,142.73,91.96
+1071,OR-1071,Bike Lock Core,Sports & Outdoors,Cycling,Elm,15.92,8.44
+1072,OR-1072,Bike Lock Plus,Sports & Outdoors,Cycling,Arden,135.22,73.18
+1073,OR-1073,Face Cleanser Core,Beauty & Wellness,Skincare,Pavo,8.71,3.83
+1074,OR-1074,Face Cleanser Plus,Beauty & Wellness,Skincare,Arden,99.91,44.14
+1075,OR-1075,Hydrating Serum Core,Beauty & Wellness,Skincare,Nori,79.76,36.80
+1076,OR-1076,Hydrating Serum Plus,Beauty & Wellness,Skincare,Solstice,123.65,56.45
+1077,OR-1077,Moisturiser Core,Beauty & Wellness,Skincare,Arden,11.60,4.64
+1078,OR-1078,Moisturiser Plus,Beauty & Wellness,Skincare,Nori,59.43,27.50
+1079,OR-1079,Sunscreen Core,Beauty & Wellness,Skincare,North,53.07,22.71
+1080,OR-1080,Sunscreen Plus,Beauty & Wellness,Skincare,Pulse,71.83,30.70
+1081,OR-1081,Hair Dryer Core,Beauty & Wellness,Personal Care,Elm,50.52,21.28
+1082,OR-1082,Hair Dryer Plus,Beauty & Wellness,Personal Care,Nori,57.01,28.35
+1083,OR-1083,Electric Trimmer Core,Beauty & Wellness,Personal Care,Arden,57.66,25.74
+1084,OR-1084,Electric Trimmer Plus,Beauty & Wellness,Personal Care,Pulse,28.89,11.47
+1085,OR-1085,Body Lotion Core,Beauty & Wellness,Personal Care,Arden,67.90,30.62
+1086,OR-1086,Body Lotion Plus,Beauty & Wellness,Personal Care,Pavo,50.02,24.08
+1087,OR-1087,Travel Kit Core,Beauty & Wellness,Personal Care,Astra,33.18,13.20
+1088,OR-1088,Travel Kit Plus,Beauty & Wellness,Personal Care,Arden,46.66,21.03
+1089,OR-1089,Diffuser Core,Beauty & Wellness,Wellness,Pulse,55.03,26.36
+1090,OR-1090,Diffuser Plus,Beauty & Wellness,Wellness,Bello,73.56,36.23
+1091,OR-1091,Eye Mask Core,Beauty & Wellness,Wellness,Arden,8.92,4.29
+1092,OR-1092,Eye Mask Plus,Beauty & Wellness,Wellness,Solstice,65.88,32.66
+1093,OR-1093,Massage Roller Core,Beauty & Wellness,Wellness,Solstice,46.30,18.84
+1094,OR-1094,Massage Roller Plus,Beauty & Wellness,Wellness,North,100.25,47.50
+1095,OR-1095,Heat Pad Core,Beauty & Wellness,Wellness,North,24.95,9.15
+1096,OR-1096,Heat Pad Plus,Beauty & Wellness,Wellness,Arden,64.22,32.08

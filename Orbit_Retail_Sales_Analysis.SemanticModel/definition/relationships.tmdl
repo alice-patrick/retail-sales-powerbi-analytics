@@ -1,0 +1,47 @@
+relationship e02d1a9751a425c5c3b5
+	fromColumn: FactSales.OrderDate
+	toColumn: DimDates.Date
+
+relationship c07c851800ec969306a6
+	fromColumn: FactSales.ProductID
+	toColumn: DimProducts.ProductID
+
+relationship 6ef3efc899e02c2245a6
+	fromColumn: FactSales.CustomerID
+	toColumn: DimCustomers.CustomerID
+
+relationship e567d1795a87d1f39193
+	fromColumn: FactSales.RegionID
+	toColumn: DimRegions.RegionID
+
+relationship 3b431a111086ff1ae37c
+	fromColumn: FactSales.ChannelID
+	toColumn: DimChannels.ChannelID
+
+relationship b6b37f93e55ec48ce1f0
+	fromColumn: FactTargets.MonthStart
+	toColumn: DimDates.Date
+
+relationship c76327fd918f55379560
+	fromColumn: FactTargets.RegionID
+	toColumn: DimRegions.RegionID
+
+relationship b882eec5c21c52c1b4e4
+	fromColumn: FactTargets.ChannelID
+	toColumn: DimChannels.ChannelID
+
+relationship ae3dba2c-ed31-4164-bb06-eed8297c8389
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DimDates.Date
+	toColumn: LocalDateTable_b13dbfb4-480d-4c07-a8d8-9de2cf85aeb2.Date
+
+relationship 3c3347f3-7ab8-468a-a74c-1e521ce8194c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DimDates.MonthStart
+	toColumn: LocalDateTable_8f8afe96-1eef-413d-aafe-74c474084e6a.Date
+
+relationship 44af9fe4-642e-42a5-b4b9-8efb53c966c6
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DimCustomers.SignupDate
+	toColumn: LocalDateTable_95f73df2-5a76-47bd-b45a-3f4ae774c2f2.Date
+

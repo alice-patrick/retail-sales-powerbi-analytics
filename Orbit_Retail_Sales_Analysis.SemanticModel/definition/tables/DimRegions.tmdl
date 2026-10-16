@@ -1,0 +1,30 @@
+table DimRegions
+	lineageTag: 86a10bcb-6ad0-5f6e-9e8c-02ffccf5c0b3
+
+	column RegionID
+		dataType: int64
+		lineageTag: 9166448e-daa2-51b0-a14f-a7e1c3d73b56
+		summarizeBy: none
+		sourceColumn: RegionID
+
+	column Region
+		dataType: string
+		lineageTag: 60ebab96-91c5-5ff2-adf8-b658536dc675
+		summarizeBy: none
+		sourceColumn: Region
+
+	partition DimRegions = m
+		mode: import
+		source =
+				let
+				    CompressedCSV = Binary.FromText("C0pNz8zP83TRCQIzeLkMdRxLSjKTE3m5jHT88otKMlKL8hTci1JTk1N5uYx1nFPzSooSc+AiJjqexTmJeSnFCmoKwfmlJRm8XAA=", BinaryEncoding.Base64),
+				    Source = Csv.Document(Binary.Decompress(CompressedCSV, Compression.Deflate), [Delimiter=",", Columns=2, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Headers, {{"RegionID", Int64.Type}, {"Region", type text}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

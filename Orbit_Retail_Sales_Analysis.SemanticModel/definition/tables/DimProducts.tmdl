@@ -1,0 +1,66 @@
+table DimProducts
+	lineageTag: c7e36146-8a99-5476-a6fb-d4e0da7370db
+
+	column ProductID
+		dataType: int64
+		lineageTag: 4d1ff5e6-345b-56bf-8726-4427c9dd1519
+		summarizeBy: none
+		sourceColumn: ProductID
+
+	column SKU
+		dataType: string
+		lineageTag: 2770a28c-02a0-5b61-80e9-7c8bd73d0c52
+		summarizeBy: none
+		sourceColumn: SKU
+
+	column ProductName
+		dataType: string
+		lineageTag: 4019aee1-f765-5fdf-951d-753928a78b8d
+		summarizeBy: none
+		sourceColumn: ProductName
+
+	column Category
+		dataType: string
+		lineageTag: 8a50d521-7bf2-59e2-9e2e-6dd73d737db7
+		summarizeBy: none
+		sourceColumn: Category
+
+	column Subcategory
+		dataType: string
+		lineageTag: 0d44e5a1-eda6-5a5a-bdc2-abc78c2c446a
+		summarizeBy: none
+		sourceColumn: Subcategory
+
+	column Brand
+		dataType: string
+		lineageTag: f3eaa48d-de92-57b4-9b0b-12d8a2413a7a
+		summarizeBy: none
+		sourceColumn: Brand
+
+	column StandardPrice
+		dataType: double
+		lineageTag: 57fdc1fa-e75e-56a9-8e21-1604b36663c0
+		summarizeBy: none
+		sourceColumn: StandardPrice
+
+	column UnitCost
+		dataType: double
+		lineageTag: 862b0717-d841-5f50-9893-0e06322d1f75
+		summarizeBy: none
+		sourceColumn: UnitCost
+
+	partition DimProducts = m
+		mode: import
+		source =
+				let
+				    CompressedCSV = Binary.FromText("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", BinaryEncoding.Base64),
+				    Source = Csv.Document(Binary.Decompress(CompressedCSV, Compression.Deflate), [Delimiter=",", Columns=8, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Headers, {{"ProductID", Int64.Type}, {"SKU", type text}, {"ProductName", type text}, {"Category", type text}, {"Subcategory", type text}, {"Brand", type text}, {"StandardPrice", type number}, {"UnitCost", type number}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,88 @@
+table DimDates
+	lineageTag: dba33f8d-601b-5824-838f-a92a5bebbaf8
+
+	column Date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: e53b363a-6485-5ed8-a5f4-47841a4ad093
+		summarizeBy: none
+		sourceColumn: Date
+
+		variation Variation
+			isDefault
+			relationship: ae3dba2c-ed31-4164-bb06-eed8297c8389
+			defaultHierarchy: LocalDateTable_b13dbfb4-480d-4c07-a8d8-9de2cf85aeb2.'Date Hierarchy'
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Year
+		dataType: int64
+		lineageTag: 299e65e0-4cf6-54ff-b477-b7743fcdafb3
+		summarizeBy: sum
+		sourceColumn: Year
+
+		annotation SummarizationSetBy = Automatic
+
+	column Quarter
+		dataType: string
+		lineageTag: 4def1d03-97c6-5fc9-b3b8-9293b430af0a
+		summarizeBy: none
+		sourceColumn: Quarter
+
+	column MonthNumber
+		dataType: int64
+		lineageTag: ad83edd5-305c-5e03-80eb-a68d90cd9071
+		summarizeBy: sum
+		sourceColumn: MonthNumber
+
+		annotation SummarizationSetBy = Automatic
+
+	column MonthName
+		dataType: string
+		lineageTag: ed750d50-daa5-5b9c-aca0-782eefa8fcfb
+		summarizeBy: none
+		sourceColumn: MonthName
+
+	column YearMonth
+		dataType: string
+		lineageTag: b51fed5a-c8e3-56b5-bef7-f183f09849cf
+		summarizeBy: none
+		sourceColumn: YearMonth
+
+	column YearMonthSort
+		dataType: int64
+		lineageTag: d74eee9d-b37d-5003-b635-6eb18dba812a
+		summarizeBy: sum
+		sourceColumn: YearMonthSort
+
+		annotation SummarizationSetBy = Automatic
+
+	column MonthStart
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 7219b412-e851-5f99-94b4-6bf557fba3b2
+		summarizeBy: none
+		sourceColumn: MonthStart
+
+		variation Variation
+			isDefault
+			relationship: 3c3347f3-7ab8-468a-a74c-1e521ce8194c
+			defaultHierarchy: LocalDateTable_8f8afe96-1eef-413d-aafe-74c474084e6a.'Date Hierarchy'
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	partition DimDates = m
+		mode: import
+		source =
+				let
+				    CompressedCSV = Binary.FromText("ndzBaxzZucbhfSD/SV+Y9z1V1VXLQMgikFzCrLJ0BpMEJjPB1w7kv7/OdKn7KLOZesBwZHR+BkkP/clS9/fbD58/3v788cOn25++fPj0+eOn2x9+/OHz3/745R9/eb794R+PKz/97fXWtz9++vy48e3nr+mvf9VvuvzPN/n65/afN29/yi2333/44es//O/b+c6fzvN43J26YjewW7Bbsduwu2O3Y3dYl2+wQy9BL0EvQS9BL0EvQS9BL0EvRS9FL0UvRS9FL0UvRS9FL0UvRS8DvQzy0nmO9fa7j3/5NIUPSufxuDyF1XBouGi4arhpeNdw1/DAcBpoF0OVE5UTlROVE5UTlROVE5UTlVOVU5VTlVOVU5VTlVOVU5VTlVOTM+ahM25/+PDpu7+d1x5fpvN43JyqUjWoWqhaqdqoulO1U3VINU2WKxXZCNkI2QjZCNkI2QjZCNkI2SjZKNko2SjZKNko2SjZKNko2SjZGGRjgI3lNYl6W26/+eenv39/Xnt8Hc/jcXOqStWgaqFqpWqj6k7VTtUh1XMSXavIRshGyEbIRshGyEbIRshGyEbJRslGyUbJRslGyUbJRslGyUbJxgAb6zxT1q+T6O1/RI/P7Hk87k1NoRnQLNCs0GzQ3KHZoTmuN9ME+eUNOAg4CDgIOAg4CDgIOAg4CDgoOCg4KDgoOCg4KDgoOCg4KDgoOBjgYFx2sM2zZLv9/ssPH89bj0/neTwuTlElGhItEq0SbRLdJdolOiCahsqFSEREREREREREREREREREREREVERURFREVERURFREVERURFREVESM6yLur6kxbvev0fdvo+bxoZ7H4+IUVaIh0SLRKtEm0V2iXaIDoufUuBSJiIiIiIiIiIiIiIiIiIiIiIiKiIqIioiKiIqIioiKiIqIioiKiCEixnUR+zxq9ttvvvz1y/99Pu89PtjzeFydslo2LFssWy3bLLtbtlt2UDYNn0uZKYkpiSmJKYkpiSmJKYkpiSmpKakpqSmpKakpqSmpKakpqSmpKRmmZIiSYx5Ux+3bj//8/PGnV/+c736Ux+11eyrL5eBy4XLlcuPyzuXO5aHlNMOulmwobChsKGwobChsKGwobChsqGyobKhsqGyobKhsqGyobKhsqGxomKF885ply+3rg9n/fvf5x2d4Pridx+PyFFbDoeGi4arhpuFdw13DA8PnCLscqpyonKicqJyonKicqJyonKicqpyqnKqcqpyqnKqcqpyqnKqcqpyhcobJybsxl9sff/zXNCDPB7LzeNyeynI5uFy4XLncuLxzuXN5aDnPu4slGwobChsKGwobChsKGwobChsqGyobKhsqGyobKhsqGyobKhsqGxpoqO9mWW+//fjdXD6UnMfj9lSWy8HlwuXK5cblncudy0PLeZZdLNlQ2FDYUNhQ2FDYUNhQ2FDYUNlQ2VDZUNlQ2VDZUNlQ2VDZUNnQYENDDK2vrXnrz7YUvb1oaj2PaUvR+tqaB93AbsFuxW7D7o7djt1h3WPmQYdegl6CXoJegl6CXoJegl6CXopeil6KXopeil6KXopeil6KXopeBnoZ5KXzHHu/+ejtlbzreUybj9bX1jwJh4aLhquGm4Z3DXcNDwyngXYxVDlROVE5UTlROVE5UTlROVE5VTlVOVU5VTlVOVU5VTlVOTU5Y54d06Kit3UO63lMi4rW1/K7y9WgaqFqpWqj6k7VTtUh1TQgrlRkI2QjZCNkI2QjZCNkI2QjZKNko2SjZKNko2SjZKNko2SjZKNkY5CNATaW1yR6t97obUnQeh7TeqP1tfzucjWoWqhaqdqoulO1U3VI9ZxE1yqyEbIRshGyEbIRshGyEbIRslGyUbJRslGyUbJRslGyUbJRslGyMcDGOs+U55KjtxVy63lMS47W1/K7i82AZoFmhWaD5g7NDs1xvZkmyC9vwEHAQcBBwEHAQcBBwEHAQcBBwUHBQcFBwUHBQcFBwUHBQcFBwcEAB+Oyg22eJa/dR8+H1/OYdh+tr+V3V6Mh0SLRKtEm0V2iXaIDommoXIhERERERERERERERERERERERERFREVERURFREVERURFREVERURFxLgu4v6aGvMao+c32OcxrTFaX8vvrkZDokWiVaJNortEu0QHRM+pcSkSEREREREREREREREREREREREVERURFREVERURFREVERURFREVEUNEjOsi9nnUzKuInj+ZOY9pFdH6Wn53PRuWLZatlm2W3S3bLTsom4bPpcyUxJTElMSUxJTElMSUxJTElNSU1JTUlNSU1JTUlNSU1JTUlNSUDFMyRMkxD6r/WjX0/I3AeUyrhtbX8jsqB5cLlyuXG5d3LncuDy2nGXa1ZENhQ2FDYUNhQ2FDYUNhQ2FDZUNlQ2VDZUNlQ2VDZUNlQ2VDZUPDDD2X360/Xyf0/EX1eUzrhNbX8jsJh4aLhquGm4Z3DXcNDwyfI+xyqHKicqJyonKicqJyonKicqJyqnKqcqpyqnKqcqpyqnKqcqpyqnKGyhkmJ+/G3PtVQ88nV53HtGpofS2/o3JwuXC5crlxeedy5/LQcp53F0s2FDYUNhQ2FDYUNhQ2FDYUNlQ2VDZUNlQ2VDZUNlQ2VDZUNlQ2NNBQ382y9wuDnk/6PY93C4PSd7PsYjm4XLhcudy4vHO5c3loOc+yiyUbChsKGwobChsKGwobChsKGyobKhsqGyobKhsqGyobKhsqGyobGmxoiKHttfxu+9myobcnum/nMS0b2l7L76Ab2C3Yrdht2N2x27E7rHvMPOjQS9BL0EvQS9BL0EvQS9BL0EvRS9FL0UvRS9FL0UvRS9FL0UvRy0Avg7x0nmPvNx+9vfhqO49p89H2Wn4n4dBw0XDVcNPwruGu4YHhNNAuhionKicqJyonKicqJyonKicqpyqnKqcqpyqnKqcqpyqnKqcmZ8yzY1pU9PYC3O08pkVF22v53eVqULVQtVK1UXWnaqfqkGoaEFcqshGyEbIRshGyEbIRshGyEbJRslGyUbJRslGyUbJRslGyUbJRsjHIxgAby2sSvVtv9LbVYTuPab3R9lp+d7kaVC1UrVRtVN2p2qk6pHpOomsV2QjZCNkI2QjZCNkI2QjZCNko2SjZKNko2SjZKNko2SjZKNko2RhgY51nynPJ0dvKn+08piVH22v53cVmQLNAs0KzQXOHZofmuN5ME+SXN+Ag4CDgIOAg4CDgIOAg4CDgoOCg4KDgoOCg4KDgoOCg4KDgoOBggINx2cE2z5LX7qO3VXDbeUy7j7bX8rur0ZBokWiVaJPoLtEu0QHRNFQuRCIiIiIiIiIiIiIiIiIiIiIioiKiIqIioiKiIqIioiKiIqIioiJiXBdxf02NeY3R8+HwPKY1Rttr+d3VaEi0SLRKtEl0l2iX6IDoOTUuRSIiIiIiIiIiIiIiIiIiIiIioiKiIqIioiKiIqIioiKiIqIioiJiiIhxXcQ+j5p5FdHz2+jzmFYRba/ld9ezYdli2WrZZtndst2yg7Jp+FzKTElMSUxJTElMSUxJTElMSUxJTUlNSU1JTUlNSU1JTUlNSU1JTckwJUOUHPOg+q9VQ8+f3pzHtGpoey2/o3JwuXC5crlxeedy5/LQcpphV0s2FDYUNhQ2FDYUNhQ2FDYUNlQ2VDZUNlQ2VDZUNlQ2VDZUNlQ2NC4b+n8=", BinaryEncoding.Base64),
+				    Source = Csv.Document(Binary.Decompress(CompressedCSV, Compression.Deflate), [Delimiter=",", Columns=8, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Headers, {{"Date", type date}, {"Year", Int64.Type}, {"Quarter", type text}, {"MonthNumber", Int64.Type}, {"MonthName", type text}, {"YearMonth", type text}, {"YearMonthSort", Int64.Type}, {"MonthStart", type date}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
